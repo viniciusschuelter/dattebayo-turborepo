@@ -1,0 +1,2477 @@
+[
+  {
+    "id": 0,
+    "name": "Boil Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/a/ac/Skilled_Mist.png"
+      }
+    ],
+    "names": {
+      "english": "Boil Release",
+      "kanji": "沸遁",
+      "romaji": "Futton",
+      "literal": "Boil Release",
+      "englishTv": "Vapour Style"
+    },
+    "summary": "Boil Release is a nature transformation kekkei genkai, a combination of fire and water. Whereas most kekkei genkai are largely identical between users, Boil Release has different forms depending on who's using it.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Water Release"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "466",
+        "label": "Naruto Chapter #466"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 204,
+        "label": "Naruto Shippūden Episode #204"
+      },
+      "novel": "Sasuke Shinden: Book of Sunrise",
+      "game": "Naruto Shippūden 3D: The New Era"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 256,
+        "name": "Futsu"
+      },
+      {
+        "id": 363,
+        "name": "Han"
+      },
+      {
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "id": 1223,
+        "name": "Mei Terumī"
+      },
+      {
+        "id": 1344,
+        "name": "Naruto Uzumaki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Boil_Release",
+      "pageId": 24356,
+      "revision": "2023-08-13T18:22:47Z"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Byakugan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/73/Byakugan.svg"
+      }
+    ],
+    "names": {
+      "english": "Byakugan",
+      "kanji": "白眼",
+      "romaji": "Byakugan",
+      "literal": "White Eye",
+      "viz": "All Seeing White Eye"
+    },
+    "summary": "The Byakugan is a kekkei genkai dōjutsu that originated from the Ōtsutsuki clan, making it the oldest kekkei genkai. After the Ōtsutsuki settled on Earth, the Byakugan became more commonly associated with the Hyūga clan, direct descendants of the Ōtsutsuki. It is regarded as one of the \"Three Great Dōjutsu\", the others being the Sharingan and the Rinnegan.",
+    "classification": [
+      "Kekkei Mōra",
+      "Kekkei Genkai",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      },
+      {
+        "id": 69,
+        "name": "Hyūga Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "41",
+        "label": "Naruto Chapter #41"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 24,
+        "label": "Naruto Episode #24"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "Naruto Shippūden the Movie",
+      "game": "Naruto: Ultimate Ninja",
+      "ova": "Finally a clash! Jōnin vs. Genin!! Indiscriminate Grand Melee Tournament Meeting!!"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 80,
+        "name": "Ao"
+      },
+      {
+        "id": 434,
+        "name": "Hyūga Elder"
+      },
+      {
+        "id": 435,
+        "name": "Hanabi Hyūga"
+      },
+      {
+        "id": 436,
+        "name": "Hiashi Hyūga"
+      },
+      {
+        "id": 437,
+        "name": "Hinata Hyūga"
+      },
+      {
+        "id": 439,
+        "name": "Hizashi Hyūga"
+      },
+      {
+        "id": 440,
+        "name": "Hoheto Hyūga"
+      },
+      {
+        "id": 441,
+        "name": "Iroha Hyūga"
+      },
+      {
+        "id": 442,
+        "name": "Kō Hyūga"
+      },
+      {
+        "id": 443,
+        "name": "Natsu Hyūga"
+      },
+      {
+        "id": 444,
+        "name": "Neji Hyūga"
+      },
+      {
+        "id": 445,
+        "name": "Tokuma Hyūga"
+      },
+      {
+        "id": 664,
+        "name": "Mukai Kohinata"
+      },
+      {
+        "id": 933,
+        "name": "Ōtsutsuki Clan Patriarch"
+      },
+      {
+        "id": 936,
+        "name": "Hamura Ōtsutsuki"
+      },
+      {
+        "id": 939,
+        "name": "Isshiki Ōtsutsuki"
+      },
+      {
+        "id": 940,
+        "name": "Kaguya Ōtsutsuki"
+      },
+      {
+        "id": 941,
+        "name": "Kinshiki Ōtsutsuki"
+      },
+      {
+        "id": 942,
+        "name": "Momoshiki Ōtsutsuki"
+      },
+      {
+        "id": 943,
+        "name": "Shibai Ōtsutsuki"
+      },
+      {
+        "id": 944,
+        "name": "Toneri Ōtsutsuki"
+      },
+      {
+        "id": 945,
+        "name": "Urashiki Ōtsutsuki"
+      },
+      {
+        "id": 1339,
+        "name": "Boruto Uzumaki"
+      },
+      {
+        "id": 1340,
+        "name": "Himawari Uzumaki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Byakugan",
+      "pageId": 1663,
+      "revision": "2026-10-01T09:16:50Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Crystal Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/5c/Jade_Crystal_Prison.png"
+      }
+    ],
+    "names": {
+      "english": "Crystal Release",
+      "kanji": "晶遁",
+      "romaji": "Shōton",
+      "literal": "Crystal Release"
+    },
+    "summary": "Crystal Release is a rare nature that is seen only in the anime.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Earth Release",
+        "note": "Presumed"
+      }
+    ],
+    "debut": {
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 89,
+        "label": "Naruto Shippūden Episode #89"
+      },
+      "game": "Naruto: Ultimate Ninja Online"
+    },
+    "media": [
+      "Anime",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 341,
+        "name": "Guren"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Crystal_Release",
+      "pageId": 10076,
+      "revision": "2024-10-20T15:08:16Z"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dark Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/e4/Dark_release_mark.png"
+      }
+    ],
+    "names": {
+      "english": "Dark Release",
+      "kanji": "冥遁",
+      "romaji": "Meiton",
+      "literal": "Dark Release",
+      "englishTv": "Shade Style"
+    },
+    "summary": "Dark Release is a combined nature transformation kekkei genkai that can be used to absorb, manipulate, and release chakra taken from an opponent. Hiruko used techniques of this nature through a mark on his left hand. This mark resembles two diamonds, one overlapping the other. Chakra is absorbed through the upper square, while it is released and manipulated through the lower.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "debut": {
+      "movie": "Naruto Shippūden the Movie: The Will of Fire",
+      "game": "Naruto Mobile"
+    },
+    "media": [
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 406,
+        "name": "Hiruko (missing-nin)"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Dark_Release",
+      "pageId": 25646,
+      "revision": "2024-12-16T20:41:33Z"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Explosion Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/b/bc/Landmine_Fist.png"
+      }
+    ],
+    "names": {
+      "english": "Explosion Release",
+      "kanji": "爆遁",
+      "romaji": "Bakuton",
+      "literal": "Explosion Release",
+      "englishTv": "Explosion Style"
+    },
+    "summary": "Explosion Release is a nature transformation kekkei genkai, suggested to be a combination of earth and lightning. Explosion Release users utilise explosive chakra in combat.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Earth Release"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "247",
+        "label": "Naruto Chapter #247"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 3,
+        "label": "Naruto Shippūden Episode #3"
+      },
+      "novel": "Sasuke Shinden: Book of Sunrise",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Gekitō Ninja Taisen! EX",
+      "ova": "The Creation of the Akatsuki"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 193,
+        "name": "Deidara"
+      },
+      {
+        "id": 282,
+        "name": "Gari"
+      },
+      {
+        "id": 1054,
+        "name": "Sekiei"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Explosion_Release",
+      "pageId": 58738,
+      "revision": "2023-10-09T06:24:09Z"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Iburi Clan's Kekkei Genkai",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/2/25/Smoke_Transformation_Technique_1.png"
+      }
+    ],
+    "names": {
+      "english": "Iburi Clan's Kekkei Genkai"
+    },
+    "summary": "This unique kekkei genkai is possessed by the members of the Iburi clan, which allows them to turn their bodies, either partially or fully, into smoke to serve various purposes. While in their smoke form the user becomes impervious to damage and can use this trait to gain an opportunity in battle, for example by allowing weapons to slip through them without any effects. However, if needed, they can still interact with physical objects.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "clans": [
+      {
+        "id": 71,
+        "name": "Iburi Clan"
+      }
+    ],
+    "debut": {
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 352,
+        "label": "Naruto Shippūden Episode #352"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja Blazing"
+    },
+    "media": [
+      "Anime",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 336,
+        "name": "Gotta"
+      },
+      {
+        "id": 1217,
+        "name": "Tenzō (Iburi Clan)"
+      },
+      {
+        "id": 1407,
+        "name": "Yukimi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Iburi_Clan's_Kekkei_Genkai",
+      "pageId": 120362,
+      "revision": "2023-12-12T14:40:36Z"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ice Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/c/c2/Ice_Release.png"
+      }
+    ],
+    "names": {
+      "english": "Ice Release",
+      "kanji": "氷遁",
+      "romaji": "Hyōton",
+      "literal": "Ice Release",
+      "englishTv": "Ice Style"
+    },
+    "summary": "Ice Release is a nature transformation kekkei genkai, a combination of water and wind. The Land of Water's Yuki clan was feared for the power of their Ice Release, forcing its members to go into hiding to escape persecution.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Water Release"
+      }
+    ],
+    "clans": [
+      {
+        "id": 103,
+        "name": "Yuki Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "24",
+        "label": "Naruto Chapter #24"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 13,
+        "label": "Naruto Episode #13"
+      },
+      "novel": "Naruto: Innocent Heart, Demonic Blood",
+      "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "game": "Naruto: Clash of Ninja",
+      "ova": "Naruto: The Cross Roads"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 356,
+        "name": "Haku"
+      },
+      {
+        "id": 358,
+        "name": "Haku's Mother"
+      },
+      {
+        "id": 359,
+        "name": "Hakuhyō"
+      },
+      {
+        "id": 540,
+        "name": "Kahyō"
+      },
+      {
+        "id": 958,
+        "name": "Rahyō"
+      },
+      {
+        "id": 986,
+        "name": "Ryōgi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ice_Release",
+      "pageId": 3488,
+      "revision": "2025-04-28T23:32:55Z"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Jōgan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/51/J%C5%8Dgan.svg"
+      }
+    ],
+    "names": {
+      "english": "Jōgan",
+      "kanji": "淨眼",
+      "romaji": "Jōgan",
+      "literal": "Pure Eye",
+      "alternatives": [
+        {
+          "name": "Jōgan",
+          "kanji": "浄眼",
+          "literal": "Pure Eye"
+        }
+      ]
+    },
+    "summary": "The Jōgan is a unique dōjutsu that is known only by the Ōtsutsuki Clan, whose members claim that it is troublesome and a power strongly inherited from their clan. In the manga, the dōjutsu is featureless in appearance with a barely visible pupil. When depicted in the anime, the dōjutsu is light blue in colour with a darkened sclera and visible pupil.",
+    "classification": [
+      "Kekkei Genkai",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "1",
+        "label": "Boruto Chapter #1"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 1,
+        "label": "Boruto Episode #1"
+      },
+      "novel": "The New Leaves Soaring Through the Blue Sky!",
+      "game": "Naruto: Ultimate Ninja Online"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 1339,
+        "name": "Boruto Uzumaki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/J%C5%8Dgan",
+      "pageId": 231784,
+      "revision": "2025-11-23T13:31:12Z"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Jūgo's Clan's Kekkei Genkai",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/e6/Jugo%27s_Level_2_state.png"
+      }
+    ],
+    "names": {
+      "english": "Jūgo's Clan's Kekkei Genkai"
+    },
+    "summary": "The kekkei genkai of Jūgo's clan is an instinctual ability which allows its members to absorb and make use of natural energy without any training in senjutsu.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "clans": [
+      {
+        "id": 74,
+        "name": "Jūgo's Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "349",
+        "label": "Naruto Chapter #349"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 117,
+        "label": "Naruto Shippūden Episode #117"
+      },
+      "game": "Naruto Shippūden: Dragon Blade Chronicles"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 521,
+        "name": "Jūgo"
+      },
+      {
+        "id": 813,
+        "name": "Mitsuki"
+      },
+      {
+        "id": 928,
+        "name": "Orochimaru"
+      },
+      {
+        "id": 1359,
+        "name": "Kabuto Yakushi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/J%C5%ABgo's_Clan's_Kekkei_Genkai",
+      "pageId": 120952,
+      "revision": "2024-01-13T09:38:33Z"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Ketsuryūgan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/c/c2/Ketsury%C5%ABgan_Symbol.svg"
+      }
+    ],
+    "names": {
+      "english": "Ketsuryūgan",
+      "kanji": "血龍眼",
+      "romaji": "Ketsuryūgan",
+      "literal": "Blood Dragon Eye"
+    },
+    "summary": "The Ketsuryūgan, is a dōjutsu, which appears in certain individuals of the Chinoike clan. The Ketsuryūgan is recognised by its reddish colour, giving a special appearance for the users of this dōjutsu, characterised as holders of \"eyes as red as blood\". Its power earned it comparison to the Three Great Dōjutsu.",
+    "classification": [
+      "Kekkei Genkai",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 61,
+        "name": "Chinoike Clan"
+      }
+    ],
+    "debut": {
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 484,
+        "label": "Naruto Shippūden Episode #484"
+      },
+      "novel": "Sasuke Shinden: Book of Sunrise",
+      "game": "Naruto Shippūden: Ultimate Ninja Blazing"
+    },
+    "media": [
+      "Anime",
+      "Novel",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 145,
+        "name": "Chino"
+      },
+      {
+        "id": 947,
+        "name": "En Oyashiro"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ketsury%C5%ABgan",
+      "pageId": 204620,
+      "revision": "2024-12-01T17:04:03Z"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Kurama Clan's Kekkei Genkai",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/6/65/Ido%27s_physical_form.png"
+      }
+    ],
+    "names": {
+      "english": "Kurama Clan's Kekkei Genkai"
+    },
+    "summary": "A rare trait of the Kurama Clan. Every few generations, a member will be born with an incredible talent for genjutsu. The clan member's prowess in that field is so absolute that even without proper training, their genjutsu is simply overwhelming. Furthermore, the genjutsu is so powerful that it causes the brain to believe anything that happens to the victim to the point where the genjutsu physically harms the victim's body in the same manner they envisioned. This fearsome ability allows the clan member to potentially kill their opponents with genjutsu.",
+    "classification": [
+      "Kekkei Genkai",
+      "Genjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "clans": [
+      {
+        "id": 82,
+        "name": "Kurama Clan"
+      }
+    ],
+    "debut": {
+      "anime": {
+        "series": "Naruto",
+        "episode": 203,
+        "label": "Naruto Episode #203"
+      }
+    },
+    "media": [
+      "Anime"
+    ],
+    "characters": [
+      {
+        "id": 715,
+        "name": "Yakumo Kurama"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kurama_Clan's_Kekkei_Genkai",
+      "pageId": 13697,
+      "revision": "2024-11-28T23:25:37Z"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Lava Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/5c/Kakazan.png"
+      }
+    ],
+    "names": {
+      "english": "Lava Release",
+      "kanji": "溶遁; 熔遁",
+      "romaji": "Yōton",
+      "literal": "Lava Release",
+      "englishTv": "Corrosion Style, Lava Style"
+    },
+    "summary": "Lava Release is a nature transformation kekkei genkai, a combination of fire and earth. Whereas most kekkei genkai are largely identical between users, Lava Release has a variety of forms depending on who's using it.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Earth Release"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "466",
+        "label": "Naruto Chapter #466"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 121,
+        "label": "Naruto Shippūden Episode #121"
+      },
+      "novel": "Gaara Hiden: A Sandstorm Mirage",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden 3D: The New Era"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 125,
+        "name": "Boro"
+      },
+      {
+        "id": 199,
+        "name": "Dodai"
+      },
+      {
+        "id": 598,
+        "name": "Karyū"
+      },
+      {
+        "id": 687,
+        "name": "Etoro Konjiki"
+      },
+      {
+        "id": 725,
+        "name": "Kurotsuchi"
+      },
+      {
+        "id": 736,
+        "name": "Kyūsuke",
+        "note": "Anime only"
+      },
+      {
+        "id": 983,
+        "name": "Rōshi"
+      },
+      {
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "id": 1223,
+        "name": "Mei Terumī"
+      },
+      {
+        "id": 1344,
+        "name": "Naruto Uzumaki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Lava_Release",
+      "pageId": 8135,
+      "revision": "2026-07-13T05:02:44Z"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Magnet Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/51/Magnet_Release.png"
+      }
+    ],
+    "names": {
+      "english": "Magnet Release",
+      "kanji": "磁遁",
+      "romaji": "Jiton",
+      "literal": "Magnet Release",
+      "englishTv": "Magnet Style"
+    },
+    "summary": "Magnet Release is a nature transformation kekkei genkai, suggested to be a combination of wind and earth. Magnet Release users generate a magnetic force which they apply to other substances for various purposes.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Earth Release"
+      }
+    ],
+    "clans": [
+      {
+        "id": 77,
+        "name": "Kazekage Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "268",
+        "label": "Naruto Chapter #268"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 22,
+        "label": "Naruto Shippūden Episode #22"
+      },
+      "novel": "Gaara Hiden: A Sandstorm Mirage",
+      "movie": "Boruto: Naruto the Movie",
+      "game": "Naruto Shippūden: Gekitō Ninja Taisen! EX 2"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 259,
+        "name": "Gaara",
+        "note": "Novel only"
+      },
+      {
+        "id": 548,
+        "name": "Kajūra"
+      },
+      {
+        "id": 621,
+        "name": "Third Kazekage"
+      },
+      {
+        "id": 967,
+        "name": "Rasa"
+      },
+      {
+        "id": 1100,
+        "name": "Shinki"
+      },
+      {
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "id": 1255,
+        "name": "Toroi"
+      },
+      {
+        "id": 1344,
+        "name": "Naruto Uzumaki"
+      },
+      {
+        "id": 1455,
+        "name": "Ryū"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Magnet_Release",
+      "pageId": 64192,
+      "revision": "2025-04-13T05:19:56Z"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Mangekyō Sharingan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/52/Mangeky%C5%8D_Sharingan_Itachi.svg"
+      }
+    ],
+    "names": {
+      "english": "Mangekyō Sharingan",
+      "kanji": "万華鏡写輪眼",
+      "romaji": "Mangekyō Sharingan",
+      "literal": "Kaleidoscope Copy Wheel Eye",
+      "alternatives": [
+        {
+          "name": "Legendary Dōjutsu",
+          "kanji": "伝説の瞳術",
+          "romaji": "Densetsu no Dōjutsu",
+          "literal": "Legendary Pupil Technique"
+        }
+      ]
+    },
+    "summary": "The Mangekyō Sharingan is an advanced form of the Sharingan that has only been activated by a handful of Uchiha when enduring a traumatic enough experience. They are noted to be the \"heavenly eyes that see the truth of all of creation without obstruction\".",
+    "classification": [
+      "Kekkei Genkai",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      },
+      {
+        "id": 97,
+        "name": "Uchiha Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "142",
+        "label": "Naruto Chapter #142"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 82,
+        "label": "Naruto Episode #82"
+      },
+      "novel": "Naruto Jinraiden: The Day the Wolf Howled",
+      "movie": "Naruto Shippūden the Movie: The Will of Fire",
+      "game": "Naruto: Ultimate Ninja 2",
+      "ova": "Naruto x UT"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 376,
+        "name": "Kakashi Hatake"
+      },
+      {
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki",
+        "note": "Anime only"
+      },
+      {
+        "id": 938,
+        "name": "Indra Ōtsutsuki"
+      },
+      {
+        "id": 1093,
+        "name": "Danzō Shimura"
+      },
+      {
+        "id": 1288,
+        "name": "Baru Uchiha"
+      },
+      {
+        "id": 1289,
+        "name": "Fugaku Uchiha",
+        "note": "Anime only"
+      },
+      {
+        "id": 1293,
+        "name": "Itachi Uchiha"
+      },
+      {
+        "id": 1294,
+        "name": "Itachi's Crow"
+      },
+      {
+        "id": 1296,
+        "name": "Izuna Uchiha"
+      },
+      {
+        "id": 1299,
+        "name": "Madara Uchiha"
+      },
+      {
+        "id": 1301,
+        "name": "Naka Uchiha"
+      },
+      {
+        "id": 1302,
+        "name": "Naori Uchiha"
+      },
+      {
+        "id": 1303,
+        "name": "Obito Uchiha"
+      },
+      {
+        "id": 1305,
+        "name": "Rai Uchiha"
+      },
+      {
+        "id": 1306,
+        "name": "Sarada Uchiha",
+        "note": "Manga only"
+      },
+      {
+        "id": 1307,
+        "name": "Sasuke Uchiha"
+      },
+      {
+        "id": 1309,
+        "name": "Shin Uchiha"
+      },
+      {
+        "id": 1310,
+        "name": "Shisui Uchiha"
+      },
+      {
+        "id": 1425,
+        "name": "Black Zetsu"
+      },
+      {
+        "id": 1443,
+        "name": "Hikari Uchiha"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Mangeky%C5%8D_Sharingan",
+      "pageId": 1623,
+      "revision": "2026-06-28T08:01:15Z"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Mud Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/6/63/Nature_Icon_Mud.svg"
+      }
+    ],
+    "names": {
+      "english": "Mud Release",
+      "kanji": "泥遁",
+      "romaji": "Deiton"
+    },
+    "summary": "Mud Release is a nature transformation kekkei genkai, a combination of water and earth, the same natures used to create Wood Release. Few people have ever heard of Mud Release, to the point that Hidan was surprised it exists.",
+    "natureTypes": [
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      }
+    ],
+    "debut": {
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom"
+    },
+    "media": [
+      "Novel"
+    ],
+    "characters": [
+      {
+        "id": 63,
+        "name": "Ameyuki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Mud_Release",
+      "pageId": 239440,
+      "revision": "2024-07-22T13:15:09Z"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Ranmaru's Kekkei Genkai",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/0/09/Ranmaru%27s_Kekkei_Genkai.svg"
+      }
+    ],
+    "names": {
+      "english": "Ranmaru's Kekkei Genkai"
+    },
+    "summary": "Ranmaru uniquely possessed a dōjutsu kekkei genkai which, when activated, causes his eyes to glow red in colour. It grants him abilities similar to those of the Byakugan, which his own dōjutsu has been likened to.",
+    "classification": [
+      "Kekkei Genkai",
+      "Dōjutsu"
+    ],
+    "debut": {
+      "anime": {
+        "series": "Naruto",
+        "episode": 152,
+        "label": "Naruto Episode #152"
+      }
+    },
+    "media": [
+      "Anime"
+    ],
+    "characters": [
+      {
+        "id": 966,
+        "name": "Ranmaru"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ranmaru's_Kekkei_Genkai",
+      "pageId": 5297,
+      "revision": "2024-01-30T12:54:24Z"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Rinha Clan's Kekkei Genkai",
+    "images": [],
+    "names": {
+      "english": "Rinha Clan's Kekkei Genkai"
+    },
+    "summary": "The kekkei genkai of the Rinha clan allows them to absorb a person's chakra and duplicate their appearance and memories.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "clans": [
+      {
+        "id": 86,
+        "name": "Rinha Clan"
+      }
+    ],
+    "debut": {
+      "game": "Naruto Shippūden 3D: The New Era"
+    },
+    "media": [
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 757,
+        "name": "Malice"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Rinha_Clan's_Kekkei_Genkai",
+      "pageId": 95100,
+      "revision": "2020-09-28T17:24:20Z"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Rinnegan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/7e/Rinnegan.svg"
+      }
+    ],
+    "names": {
+      "english": "Rinnegan",
+      "kanji": "輪廻眼",
+      "romaji": "Rinnegan",
+      "literal": "Saṃsāra Eye",
+      "alternatives": [
+        {
+          "name": "Eye of Six Paths",
+          "kanji": "六道の眼",
+          "romaji": "Rikudō no Me"
+        },
+        {
+          "name": "Rinnegan of Six Paths",
+          "kanji": "六道の輪廻眼",
+          "romaji": "Rikudō no Rinnegan"
+        }
+      ]
+    },
+    "summary": "The Rinnegan is reputed as the most exalted eye amongst the \"Three Great Dōjutsu\", the others being the Sharingan and the Byakugan, and the strongest dōjutsu. It is said that in times of disorder, one who wields the Rinnegan is sent down from the heavens to become either a \"God of Creation\" who will calm the world or a \"God of Destruction\" who will reduce everything to nothingness. The Rinnegan is characterised by concentric circles covering the eyeball.",
+    "classification": [
+      "Kekkei Mōra",
+      "Kekkei Genkai",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "238",
+        "label": "Naruto Chapter #238"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 135,
+        "label": "Naruto Episode #135"
+      },
+      "novel": "Boruto: Naruto the Movie",
+      "movie": "Naruto the Movie: Blood Prison",
+      "game": "Naruto Shippūden: Ultimate Ninja 5",
+      "ova": "Naruto x UT"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 389,
+        "name": "Hidari"
+      },
+      {
+        "id": 758,
+        "name": "Mamushi"
+      },
+      {
+        "id": 861,
+        "name": "Nagato"
+      },
+      {
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "id": 942,
+        "name": "Momoshiki Ōtsutsuki"
+      },
+      {
+        "id": 943,
+        "name": "Shibai Ōtsutsuki"
+      },
+      {
+        "id": 945,
+        "name": "Urashiki Ōtsutsuki"
+      },
+      {
+        "id": 1211,
+        "name": "Ten-Tails (Kara)"
+      },
+      {
+        "id": 1299,
+        "name": "Madara Uchiha"
+      },
+      {
+        "id": 1303,
+        "name": "Obito Uchiha"
+      },
+      {
+        "id": 1307,
+        "name": "Sasuke Uchiha"
+      },
+      {
+        "id": 1425,
+        "name": "Black Zetsu"
+      },
+      {
+        "id": 1446,
+        "name": "Jura"
+      },
+      {
+        "id": 1451,
+        "name": "Matsuri (God Tree)"
+      },
+      {
+        "id": 1455,
+        "name": "Ryū"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Rinnegan",
+      "pageId": 3325,
+      "revision": "2026-03-29T05:32:24Z"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Ryūzetsu's Kekkei Genkai",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/e5/Dragon_Life_Reincarnation.png"
+      }
+    ],
+    "names": {
+      "english": "Ryūzetsu's Kekkei Genkai"
+    },
+    "summary": "This unnamed kekkei genkai apparently allows the user to perform Reincarnation Ninjutsu as it allowed Ryūzetsu to perform the Dragon Life Reincarnation technique. It was seen only in Naruto the Movie: Blood Prison and Ryūzetsu was the only known user. Other details, such as whether it was common or rare and whether any other technique could be performed using it, are unknown.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "debut": {
+      "movie": "Naruto the Movie: Blood Prison"
+    },
+    "media": [
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 997,
+        "name": "Ryūzetsu"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ry%C5%ABzetsu's_Kekkei_Genkai",
+      "pageId": 103100,
+      "revision": "2023-03-02T19:06:12Z"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Sakon and Ukon's Kekkei Genkai",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/0/0b/Kiba_vs_Ukon.png"
+      }
+    ],
+    "names": {
+      "english": "Sakon and Ukon's Kekkei Genkai"
+    },
+    "summary": "Sakon and Ukon's unnamed kekkei genkai gives them the unique ability to break their bodies down to a molecular level. The two brothers usually use this ability to share the same body by fusing their cells but can also use it to merge with the bodies of others and destroy the host's cells from the inside. When Sakon is in need of assistance, Ukon can bring out some of his body parts to aid Sakon in blocking or attacking. Ukon's arms and legs can emerge from those of Sakon's to increase the force and quantity to his physical attacks.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "203",
+        "label": "Naruto Chapter #203"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 120,
+        "label": "Naruto Episode #120"
+      },
+      "game": "Naruto: Ultimate Ninja 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 928,
+        "name": "Orochimaru"
+      },
+      {
+        "id": 1015,
+        "name": "Sakon and Ukon"
+      },
+      {
+        "id": 1359,
+        "name": "Kabuto Yakushi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Sakon_and_Ukon's_Kekkei_Genkai",
+      "pageId": 64161,
+      "revision": "2026-03-30T23:57:55Z"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Scorch Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/f/f2/Scorch_Release.png"
+      }
+    ],
+    "names": {
+      "english": "Scorch Release",
+      "kanji": "灼遁",
+      "romaji": "Shakuton",
+      "literal": "Scorch Release",
+      "englishTv": "Scorch Style"
+    },
+    "summary": "Scorch Release is a nature transformation kekkei genkai. When Sasuke Uchiha and Naruto Uzumaki combine their fire and wind-natured techniques, the resulting technique is dubbed \"Scorch Release\", suggesting those are its component natures.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "522",
+        "label": "Naruto Chapter #522"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 265,
+        "label": "Naruto Shippūden Episode #265"
+      },
+      "game": "Naruto: Ultimate Ninja Online"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 950,
+        "name": "Pakura"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Scorch_Release",
+      "pageId": 63331,
+      "revision": "2025-09-07T17:35:20Z"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Senrigan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/45/Senrigan.svg"
+      }
+    ],
+    "names": {
+      "english": "Senrigan",
+      "kanji": "千里眼",
+      "romaji": "Senrigan",
+      "literal": "Clairvoyance Eye",
+      "alternatives": [
+        {
+          "name": "Thousand Li/Ri Eye"
+        }
+      ]
+    },
+    "summary": "The Senrigan is a dōjutsu awakened by some members of the Ōtsutsuki Clan, which grants vast clairvoyant abilities. Appearance-wise, it is distinguished by a bright-blue iris, a white-glowing pupil surrounded by a dark, waxing crescent shape, and a darkened sclera.",
+    "classification": [
+      "Kekkei Genkai",
+      "Shinjutsu",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "57",
+        "label": "Boruto Chapter #57"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 288,
+        "label": "Boruto Episode #288"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "characters": [
+      {
+        "id": 17,
+        "name": "Ada"
+      },
+      {
+        "id": 943,
+        "name": "Shibai Ōtsutsuki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Senrigan",
+      "pageId": 290790,
+      "revision": "2026-08-09T03:07:34Z"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Sharingan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/56/Sharingan_Triple.svg"
+      }
+    ],
+    "names": {
+      "english": "Sharingan",
+      "kanji": "写輪眼",
+      "romaji": "Sharingan",
+      "literal": "Copy Wheel Eye",
+      "viz": "Mirror Wheel Eye",
+      "alternatives": [
+        {
+          "name": "Heaven's Eye",
+          "kanji": "天眼",
+          "romaji": "Tengan"
+        }
+      ]
+    },
+    "summary": "The Sharingan is the dōjutsu kekkei genkai of the Uchiha clan that appears selectively among its members. It is regarded as one of the \"Three Great Dōjutsu\", the others being the Byakugan and the Rinnegan.",
+    "classification": [
+      "Kekkei Genkai",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      },
+      {
+        "id": 97,
+        "name": "Uchiha Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "12",
+        "label": "Naruto Chapter #12"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 5,
+        "label": "Naruto Episode #5"
+      },
+      "novel": "Naruto: Innocent Heart, Demonic Blood",
+      "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "game": "Naruto: Clash of Ninja",
+      "ova": "Mission: Protect the Waterfall Village!"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 376,
+        "name": "Kakashi Hatake"
+      },
+      {
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki",
+        "note": "Anime only"
+      },
+      {
+        "id": 938,
+        "name": "Indra Ōtsutsuki"
+      },
+      {
+        "id": 1088,
+        "name": "Shijima"
+      },
+      {
+        "id": 1093,
+        "name": "Danzō Shimura"
+      },
+      {
+        "id": 1288,
+        "name": "Baru Uchiha"
+      },
+      {
+        "id": 1289,
+        "name": "Fugaku Uchiha"
+      },
+      {
+        "id": 1291,
+        "name": "Hikaku Uchiha"
+      },
+      {
+        "id": 1292,
+        "name": "Inabi Uchiha"
+      },
+      {
+        "id": 1293,
+        "name": "Itachi Uchiha"
+      },
+      {
+        "id": 1294,
+        "name": "Itachi's Crow"
+      },
+      {
+        "id": 1295,
+        "name": "Izumi Uchiha"
+      },
+      {
+        "id": 1296,
+        "name": "Izuna Uchiha"
+      },
+      {
+        "id": 1297,
+        "name": "Kagami Uchiha"
+      },
+      {
+        "id": 1299,
+        "name": "Madara Uchiha"
+      },
+      {
+        "id": 1301,
+        "name": "Naka Uchiha"
+      },
+      {
+        "id": 1302,
+        "name": "Naori Uchiha"
+      },
+      {
+        "id": 1303,
+        "name": "Obito Uchiha"
+      },
+      {
+        "id": 1305,
+        "name": "Rai Uchiha"
+      },
+      {
+        "id": 1306,
+        "name": "Sarada Uchiha"
+      },
+      {
+        "id": 1307,
+        "name": "Sasuke Uchiha"
+      },
+      {
+        "id": 1308,
+        "name": "Setsuna Uchiha"
+      },
+      {
+        "id": 1309,
+        "name": "Shin Uchiha"
+      },
+      {
+        "id": 1310,
+        "name": "Shisui Uchiha"
+      },
+      {
+        "id": 1312,
+        "name": "Tajima Uchiha"
+      },
+      {
+        "id": 1313,
+        "name": "Tekka Uchiha"
+      },
+      {
+        "id": 1317,
+        "name": "Yashiro Uchiha"
+      },
+      {
+        "id": 1425,
+        "name": "Black Zetsu"
+      },
+      {
+        "id": 1443,
+        "name": "Hikari Uchiha"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Sharingan",
+      "pageId": 1523,
+      "revision": "2026-08-14T08:26:58Z"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Shikotsumyaku",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/4c/Kimimaro%27s_Shikotsumyaku.png"
+      }
+    ],
+    "names": {
+      "english": "Shikotsumyaku",
+      "kanji": "屍骨脈",
+      "romaji": "Shikotsumyaku",
+      "literal": "Dead Bone Pulse",
+      "englishTv": "Macabre Bone Pulse",
+      "viz": "Corpse Bone Chain"
+    },
+    "summary": "Shikotsumyaku is a kekkei genkai which gives its wielder the ability to manipulate their own bones. It very rarely manifests within members of the Kaguya clan, of which Kimimaro was the last survivor.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "clans": [
+      {
+        "id": 75,
+        "name": "Kaguya Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "201",
+        "label": "Naruto Chapter #201"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 119,
+        "label": "Naruto Episode #119"
+      },
+      "game": "Naruto: Ultimate Ninja 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 637,
+        "name": "Kimimaro"
+      },
+      {
+        "id": 928,
+        "name": "Orochimaru"
+      },
+      {
+        "id": 1359,
+        "name": "Kabuto Yakushi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Shikotsumyaku",
+      "pageId": 3604,
+      "revision": "2026-09-16T10:37:17Z"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Steel Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/8/81/Steel_armour.png"
+      }
+    ],
+    "names": {
+      "english": "Steel Release",
+      "kanji": "鋼遁",
+      "romaji": "Kōton",
+      "literal": "Steel Release",
+      "englishTv": "Steel Style"
+    },
+    "summary": "The Steel Release is a combined nature transformation kekkei genkai. It is unknown what elements this nature entails.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "debut": {
+      "novel": "Gaara Hiden: A Sandstorm Mirage",
+      "movie": "Naruto Shippūden the Movie: The Will of Fire",
+      "game": "Naruto Mobile"
+    },
+    "media": [
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 406,
+        "name": "Hiruko (missing-nin)"
+      },
+      {
+        "id": 688,
+        "name": "Metoro Konjiki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Steel_Release",
+      "pageId": 25647,
+      "revision": "2026-09-23T15:25:16Z"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Storm Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/0/06/Ranton_Reiz%C4%81_S%C4%81kasu.png"
+      }
+    ],
+    "names": {
+      "english": "Storm Release",
+      "kanji": "嵐遁",
+      "romaji": "Ranton",
+      "literal": "Storm Release",
+      "englishTv": "Gale Style",
+      "viz": "Storm Style"
+    },
+    "summary": "Storm Release is a nature transformation kekkei genkai, a combination of lightning and water. It is used by several shinobi from Kumogakure, most notably Darui.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Water Release"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "464",
+        "label": "Naruto Chapter #464"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 203,
+        "label": "Naruto Shippūden Episode #203"
+      },
+      "movie": "Naruto Shippūden the Movie: The Will of Fire",
+      "game": "Naruto Shippūden 3D: The New Era"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 190,
+        "name": "Darui"
+      },
+      {
+        "id": 406,
+        "name": "Hiruko (missing-nin)"
+      },
+      {
+        "id": 1299,
+        "name": "Madara Uchiha"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Storm_Release",
+      "pageId": 23240,
+      "revision": "2024-01-04T02:51:34Z"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Swift Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/f/fc/Jinton.png"
+      }
+    ],
+    "names": {
+      "english": "Swift Release",
+      "kanji": "迅遁",
+      "romaji": "Jinton",
+      "literal": "Swift Release",
+      "englishTv": "Quick Style"
+    },
+    "summary": "Swift Release is a combined nature transformation kekkei genkai that can be used to move with incredible speed, becoming nothing more than a blur when in motion. Therefore, taijutsu becomes ineffective if the opponent is not fast enough.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "debut": {
+      "movie": "Naruto Shippūden the Movie: The Will of Fire",
+      "game": "Naruto Mobile"
+    },
+    "media": [
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 406,
+        "name": "Hiruko (missing-nin)"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Swift_Release",
+      "pageId": 25648,
+      "revision": "2026-09-12T17:44:57Z"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Tenseigan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/d/d6/Tenseigan_Symbol.svg"
+      }
+    ],
+    "names": {
+      "english": "Tenseigan",
+      "kanji": "転生眼",
+      "romaji": "Tenseigan",
+      "literal": "Reincarnation Eye"
+    },
+    "summary": "The Tenseigan is a dōjutsu introduced in The Last: Naruto the Movie. The movie's novelisation explains that the Tenseigan can be acquired when an Ōtsutsuki is implanted with the Byakugan of a Hyūga: this combination of the two clans' chakra transforms the Byakugan into Tenseigan.",
+    "classification": [
+      "Kekkei Genkai",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      }
+    ],
+    "debut": {
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie"
+    },
+    "media": [
+      "Novel",
+      "Movie canon"
+    ],
+    "characters": [
+      {
+        "id": 936,
+        "name": "Hamura Ōtsutsuki"
+      },
+      {
+        "id": 944,
+        "name": "Toneri Ōtsutsuki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Tenseigan",
+      "pageId": 157765,
+      "revision": "2025-01-26T22:41:22Z"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Typhoon Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/eb/Great_Consecutive_Bursting_Extreme_Winds.png"
+      }
+    ],
+    "names": {
+      "english": "Typhoon Release",
+      "kanji": "颱遁",
+      "romaji": "Taiton",
+      "literal": "Typhoon Release",
+      "englishTv": "Typhoon Style"
+    },
+    "summary": "Typhoon Release is a nature transformation kekkei genkai, which consists of at least the wind nature transformation. It seems to essentially be a stronger form of Wind Release, involving the creation of vortexes that decimate the user's surroundings. Its only known user is Nowaki.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Wind Release"
+      }
+    ],
+    "debut": {
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 487,
+        "label": "Naruto Shippūden Episode #487"
+      },
+      "novel": "Sasuke Shinden: Book of Sunrise",
+      "game": "Naruto: Ultimate Ninja Online"
+    },
+    "media": [
+      "Anime",
+      "Novel",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 907,
+        "name": "Nowaki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Typhoon_Release",
+      "pageId": 213272,
+      "revision": "2025-07-18T12:48:24Z"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Wood Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/5e/Mokuton_no_Tenzo.png"
+      }
+    ],
+    "names": {
+      "english": "Wood Release",
+      "kanji": "木遁",
+      "romaji": "Mokuton",
+      "literal": "Wood Release",
+      "englishTv": "Wood Style"
+    },
+    "summary": "Wood Release is a nature transformation kekkei genkai, a combination of Earth and Water Release. It was famously used by Hashirama Senju, and in fact is not known to have naturally occurred in anyone else, with the exception of the Ten-Tails, whose true form is the God Tree, leading to it being regarded as impossible to use without having his cells. Because of Wood Release's power and versatility, there have been various efforts to reproduce it after Hashirama's death.",
+    "classification": [
+      "Kekkei Genkai",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      }
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      },
+      {
+        "id": 90,
+        "name": "Senju Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "120",
+        "label": "Naruto Chapter #120"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 71,
+        "label": "Naruto Episode #71"
+      },
+      "movie": "Naruto Shippūden the Movie: The Lost Tower",
+      "game": "Naruto: Ultimate Ninja",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 1,
+        "name": "Ten-Tails"
+      },
+      {
+        "id": 162,
+        "name": "Crimson Fist"
+      },
+      {
+        "id": 389,
+        "name": "Hidari"
+      },
+      {
+        "id": 618,
+        "name": "Moegi Kazamatsuri",
+        "note": "Manga only"
+      },
+      {
+        "id": 758,
+        "name": "Mamushi"
+      },
+      {
+        "id": 908,
+        "name": "Nue"
+      },
+      {
+        "id": 928,
+        "name": "Orochimaru"
+      },
+      {
+        "id": 934,
+        "name": "Asura Ōtsutsuki",
+        "note": "Anime only"
+      },
+      {
+        "id": 942,
+        "name": "Momoshiki Ōtsutsuki",
+        "note": "Novel only"
+      },
+      {
+        "id": 1063,
+        "name": "Hashirama Senju"
+      },
+      {
+        "id": 1093,
+        "name": "Danzō Shimura"
+      },
+      {
+        "id": 1229,
+        "name": "Tobi (Zetsu)"
+      },
+      {
+        "id": 1299,
+        "name": "Madara Uchiha"
+      },
+      {
+        "id": 1303,
+        "name": "Obito Uchiha"
+      },
+      {
+        "id": 1373,
+        "name": "Yamato"
+      },
+      {
+        "id": 1425,
+        "name": "Black Zetsu"
+      },
+      {
+        "id": 1426,
+        "name": "White Zetsu"
+      },
+      {
+        "id": 1446,
+        "name": "Jura"
+      },
+      {
+        "id": 1451,
+        "name": "Matsuri (God Tree)"
+      },
+      {
+        "id": 1455,
+        "name": "Ryū"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Wood_Release",
+      "pageId": 3487,
+      "revision": "2026-09-29T01:47:59Z"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Kokugan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/75/Isshiki_D%C5%8Djutsu.svg"
+      }
+    ],
+    "names": {
+      "english": "Kokugan",
+      "kanji": "黒眼",
+      "romaji": "Kokugan",
+      "literal": "Black Eye"
+    },
+    "summary": "The Kokugan (黒眼, literally meaning: Black Eye) is a dōjutsu used by Isshiki Ōtsutsuki and later Kawaki through his Kāma. It features a black pupil which glows gold when jutsu are used, and a black wheel-like pattern with eight spokes coming out of the centre. The iris area between adjacent spokes is gold.",
+    "classification": [
+      "Kekkei Genkai",
+      "Shinjutsu",
+      "Dōjutsu"
+    ],
+    "clans": [
+      {
+        "id": 104,
+        "name": "Ōtsutsuki Clan"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "47",
+        "label": "Boruto Chapter #47"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 214,
+        "label": "Boruto Episode #214"
+      },
+      "game": "Naruto to Boruto: Shinobi Striker"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "characters": [
+      {
+        "id": 609,
+        "name": "Kawaki"
+      },
+      {
+        "id": 939,
+        "name": "Isshiki Ōtsutsuki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kokugan",
+      "pageId": 290755,
+      "revision": "2025-09-19T19:33:56Z"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Yanaru's Kekkei Genkai",
+    "images": [],
+    "names": {
+      "english": "Yanaru's Kekkei Genkai"
+    },
+    "summary": "Yanaru possesses a unique Kekkei Genkai, allowing him to mentally exchange information with his shadow clones, just as clones are able to transmit information to the main body. Yanara employs it to coordinate his clones for assassinations, while disguising himself as a member of his target's inner circle, where he acquires the necessary information to carry out the assassination, relaying it to his clones.",
+    "debut": {
+      "novel": "Naruto Retsuden: Naruto Uzumaki and the Spiral Destiny"
+    },
+    "media": [
+      "Novel"
+    ],
+    "characters": [
+      {
+        "id": 1461,
+        "name": "Yanaru Aze"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Yanaru's_Kekkei_Genkai",
+      "pageId": 294592,
+      "revision": "2024-06-16T00:14:35Z"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Rinne Sharingan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/8/84/Rinne_Sharingan.svg"
+      }
+    ],
+    "names": {
+      "english": "Rinne Sharingan",
+      "kanji": "輪廻写輪眼",
+      "romaji": "Rinne Sharingan",
+      "literal": "Saṃsāra Copy Wheel Eye",
+      "alternatives": [
+        {
+          "name": "Eye of the Moon",
+          "kanji": "月の眼",
+          "romaji": "Tsuki no Me"
+        }
+      ]
+    },
+    "summary": "The Rinne Sharingan is a dōjutsu kekkei mōra and the predecessor to the Rinnegan and Sharingan. It is characterised by red sclerae and irides, with a ripple pattern spreading over the eyeball and nine tomoe.",
+    "classification": [
+      "Kekkei Mōra",
+      "Dōjutsu"
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "467",
+        "label": "Naruto Chapter #467"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 205,
+        "label": "Naruto Shippūden Episode #205"
+      },
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 1,
+        "name": "Ten-Tails"
+      },
+      {
+        "id": 940,
+        "name": "Kaguya Ōtsutsuki"
+      },
+      {
+        "id": 1299,
+        "name": "Madara Uchiha"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Rinne_Sharingan",
+      "pageId": 149481,
+      "revision": "2026-09-16T10:38:45Z"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Dust Release",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/2/20/Dust_Release.png"
+      }
+    ],
+    "names": {
+      "english": "Dust Release",
+      "kanji": "塵遁",
+      "romaji": "Jinton",
+      "literal": "Dust Release",
+      "englishTv": "Particle Style"
+    },
+    "summary": "Dust Release is a nature transformation kekkei tōta, a combination of earth, wind, and fire. To perform Dust Release, users form a small three-dimensional object (e.g. a cube, a cone, etc.) out of chakra in their hands. The object expands once released by the user and moves astonishingly fast at its target; anything that passes through it (or that is passed through by it) is disintegrated on a molecular level.",
+    "classification": [
+      "Kekkei Tōta",
+      "Ninjutsu"
+    ],
+    "natureTypes": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Earth Release"
+      }
+    ],
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "466",
+        "label": "Naruto Chapter #466"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 204,
+        "label": "Naruto Shippūden Episode #204"
+      },
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden 3D: The New Era",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game",
+      "Movie"
+    ],
+    "characters": [
+      {
+        "id": 553,
+        "name": "Kakō"
+      },
+      {
+        "id": 701,
+        "name": "Kū"
+      },
+      {
+        "id": 844,
+        "name": "Mū"
+      },
+      {
+        "id": 925,
+        "name": "Ōnoki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Dust_Release",
+      "pageId": 24358,
+      "revision": "2026-09-12T17:54:18Z"
+    }
+  }
+]

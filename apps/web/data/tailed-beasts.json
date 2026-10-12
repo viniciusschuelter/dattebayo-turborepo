@@ -1,0 +1,2094 @@
+[
+  {
+    "id": 1,
+    "name": "Ten-Tails",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/e6/Ten-Tails_emerges.png"
+      }
+    ],
+    "names": {
+      "english": "Ten-Tails",
+      "kanji": "十尾",
+      "romaji": "Jūbi",
+      "alternatives": [
+        {
+          "name": "One-Eyed God",
+          "kanji": "天目一箇神",
+          "romaji": "Ame no Hitotsu no Kami"
+        },
+        {
+          "name": "Datara",
+          "kanji": "ダタラ",
+          "romaji": "Datara"
+        },
+        {
+          "name": "Deidarabotchi",
+          "kanji": "デイダラボッチ",
+          "romaji": "Deidarabocchi"
+        },
+        {
+          "name": "Nation-Building God",
+          "kanji": "国造りの神",
+          "romaji": "Kunizukuri no Kami"
+        }
+      ]
+    },
+    "summary": "This Ten-Tails is the Tailed Beast incarnation of the God Tree previously cultivated by Isshiki Ōtsutsuki and Kaguya Ōtsutsuki; the latter having eaten its chakra fruit and later merged with the God Tree in a battle against her sons, Hagoromo and Hamura. It is regarded as the progenitor of chakra according to legend, and is tied to the tale of the Sage of Six Paths and the birth of shinobi.",
+    "tails": 10,
+    "numberName": "Ten-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "467",
+        "label": "Naruto Chapter #467"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 205,
+        "label": "Naruto Shippūden Episode #205"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Storm Revolution",
+      "ova": "The Far Reaches of Hope"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie canon"
+    ],
+    "personal": {
+      "status": "Incapacitated",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 36,
+          "name": "Wood Release"
+        }
+      ],
+      "kekkeiMora": [
+        {
+          "id": 41,
+          "name": "Rinne Sharingan"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 935,
+          "name": "Hagoromo Ōtsutsuki"
+        },
+        {
+          "id": 1303,
+          "name": "Obito Uchiha"
+        },
+        {
+          "id": 1299,
+          "name": "Madara Uchiha"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Incarnation with the God Tree",
+        "id": 940,
+        "name": "Kaguya Ōtsutsuki"
+      },
+      {
+        "relation": "Depowered Form",
+        "id": 195,
+        "name": "Demonic Statue of the Outer Path"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Wood Release"
+      },
+      {
+        "name": "Yin Release"
+      },
+      {
+        "name": "Yang Release"
+      },
+      {
+        "name": "Yin–Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Continuous Tailed Beast Balls",
+        "note": "Game only"
+      },
+      {
+        "name": "Crushing Collision"
+      },
+      {
+        "name": "Great Roar"
+      },
+      {
+        "name": "Six Paths Senjutsu"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Chakra Arms"
+      },
+      {
+        "name": "Tailed Beast Heavy Cannon"
+      },
+      {
+        "name": "Ten-Tails Fission"
+      },
+      {
+        "name": "Tenpenchii"
+      },
+      {
+        "name": "Truth-Seeking Ball"
+      },
+      {
+        "name": "Wood Release: Cutting Technique",
+        "note": "with, Obito Uchiha"
+      }
+    ],
+    "uniqueTraits": [
+      "Can absorb chakra"
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ten-Tails",
+      "pageId": 24916,
+      "revision": "2026-10-10T22:06:18Z"
+    }
+  },
+  {
+    "id": 153,
+    "name": "Chōmei",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/78/Chomei.png"
+      }
+    ],
+    "names": {
+      "english": "Chōmei",
+      "kanji": "重明",
+      "romaji": "Chōmei",
+      "alternatives": [
+        {
+          "name": "Seven-Tails",
+          "kanji": "七尾",
+          "romaji": "Nanabi"
+        },
+        {
+          "name": "Lucky Seven Chōmei",
+          "kanji": "ラッキーセブン重明",
+          "romaji": "Rakkī Sebun Chōmei"
+        }
+      ]
+    },
+    "summary": "Chōmei, more commonly known as the Seven-Tails, is one of the nine tailed beasts. It was last sealed within Fū from Takigakure.",
+    "tails": 7,
+    "numberName": "Seven-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "467",
+        "label": "Naruto Chapter #467"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 165,
+        "label": "Naruto Shippūden Episode #165"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie canon"
+    ],
+    "personal": {
+      "species": "Kabutomushi",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 29,
+          "name": "Takigakure"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 221,
+          "name": "Fū"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "relation": "Sibling",
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "relation": "Sibling",
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "relation": "Sibling",
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "relation": "Sibling",
+        "id": 345,
+        "name": "Gyūki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 711,
+        "name": "Kurama"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Brilliant Fluttering Wings"
+      },
+      {
+        "name": "Bug Bite"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Cocoon"
+      },
+      {
+        "name": "Cooperation Tailed Beast Ball",
+        "note": "with, Tailed Beasts"
+      },
+      {
+        "name": "Flying Single Foot"
+      },
+      {
+        "name": "Hiden: Hiding in Scale Powder Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Hiden: Scale Powder Enfolding Attack Technique"
+      },
+      {
+        "name": "Hiden: Scale Powder Technique"
+      },
+      {
+        "name": "Mingling Arm Flying Thrust"
+      },
+      {
+        "name": "Scale Powder",
+        "note": "Game only"
+      },
+      {
+        "name": "Scale Powder Blasting"
+      },
+      {
+        "name": "Scale Wrapping Rotating Flight"
+      },
+      {
+        "name": "Soaring Shine Falling Bullet"
+      },
+      {
+        "name": "Spear Attack Shining Horn"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      },
+      {
+        "name": "Wing Beheading"
+      },
+      {
+        "name": "Wing Rotation"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kenichi Suzumura"
+        }
+      ],
+      "english": [
+        {
+          "name": "Steven Blum"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ch%C5%8Dmei",
+      "pageId": 16223,
+      "revision": "2026-09-30T08:42:02Z"
+    }
+  },
+  {
+    "id": 345,
+    "name": "Gyūki",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/d/d7/Gyuki.png"
+      }
+    ],
+    "names": {
+      "english": "Gyūki",
+      "kanji": "牛鬼",
+      "romaji": "Gyūki",
+      "alternatives": [
+        {
+          "name": "Eight-Tails",
+          "kanji": "八尾",
+          "romaji": "Hachibi"
+        },
+        {
+          "name": "Giant Ox",
+          "kanji": "巨牛",
+          "romaji": "Kyogyū"
+        },
+        {
+          "name": "Eight-O"
+        }
+      ]
+    },
+    "summary": "Gyūki, more commonly known as the Eight-Tails, is one of the nine tailed beasts. It has been in the possession of Kumogakure for decades, where it has been sealed into many jinchūriki. Its most recent jinchūriki, and the first to have any success in cooperating with it, is Killer B.",
+    "tails": 8,
+    "numberName": "Eight-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "413",
+        "label": "Naruto Chapter #413"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 143,
+        "label": "Naruto Shippūden Episode #143"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "Naruto the Movie: Blood Prison",
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 2"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Ushi-oni",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 17,
+          "name": "Kumogakure"
+        },
+        {
+          "name": "Allied Shinobi Forces"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 124,
+          "name": "Blue B"
+        },
+        {
+          "id": 636,
+          "name": "Killer B"
+        },
+        {
+          "id": 1303,
+          "name": "Obito Uchiha"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "relation": "Sibling",
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "relation": "Sibling",
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "relation": "Sibling",
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "relation": "Sibling",
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "relation": "Sibling",
+        "id": 711,
+        "name": "Kurama"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Continuous Tailed Beast Balls"
+      },
+      {
+        "name": "Cooperation Tailed Beast Ball",
+        "note": "with, Kurama"
+      },
+      {
+        "name": "Great Roar",
+        "note": "Game only"
+      },
+      {
+        "name": "Ink Creation"
+      },
+      {
+        "name": "Lightning (jutsu)"
+      },
+      {
+        "name": "Octopus Hug"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Chakra Arms"
+      },
+      {
+        "name": "Tailed Beast Eight Twists"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Heavy Cannon"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      }
+    ],
+    "uniqueTraits": [
+      "Produces ink"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Masaki Aizawa"
+        }
+      ],
+      "english": [
+        {
+          "name": "Matthew Mercer"
+        },
+        {
+          "name": "Fred Tatasciore",
+          "note": "Naruto Shippūden: Ultimate Ninja Storm 3"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Gy%C5%ABki",
+      "pageId": 6635,
+      "revision": "2026-09-27T15:59:57Z"
+    }
+  },
+  {
+    "id": 480,
+    "name": "Isobu",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/d/df/Isobu.png"
+      }
+    ],
+    "names": {
+      "english": "Isobu",
+      "kanji": "磯撫",
+      "romaji": "Isobu",
+      "alternatives": [
+        {
+          "name": "Three-Tails",
+          "kanji": "三尾",
+          "romaji": "Sanbi"
+        },
+        {
+          "name": "Giant Turtle",
+          "kanji": "巨大亀",
+          "romaji": "Kyodaigame"
+        }
+      ]
+    },
+    "summary": "Isobu, more commonly known as the Three-Tails, is one of the nine tailed beasts. It was last sealed within Yagura Karatachi of Kirigakure.",
+    "tails": 3,
+    "numberName": "Three-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "317",
+        "label": "Naruto Chapter #317"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 92,
+        "label": "Naruto Shippūden Episode #92"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ninja Destiny 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Turtle",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 14,
+          "name": "Kirigakure"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 903,
+          "name": "Rin Nohara"
+        },
+        {
+          "id": 591,
+          "name": "Yagura Karatachi"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "relation": "Sibling",
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "relation": "Sibling",
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "relation": "Sibling",
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "relation": "Sibling",
+        "id": 345,
+        "name": "Gyūki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 711,
+        "name": "Kurama"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Yin Release",
+        "note": "Anime only"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Cooperation Tailed Beast Ball",
+        "note": "with, Tailed Beasts"
+      },
+      {
+        "name": "Coral Palm"
+      },
+      {
+        "name": "Great Roar",
+        "note": "Anime only"
+      },
+      {
+        "name": "Illusionary Mist"
+      },
+      {
+        "name": "Leaping Bullet Shell Tower"
+      },
+      {
+        "name": "Piercing Separation Spring"
+      },
+      {
+        "name": "Rough Sea Barrier"
+      },
+      {
+        "name": "Rough Sea Splash"
+      },
+      {
+        "name": "Shadow Stroke"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      },
+      {
+        "name": "Three-Tails Mini Clone"
+      },
+      {
+        "name": "Three-Tails' Rampage"
+      },
+      {
+        "name": "Water Release: Great Water Mass Bullet"
+      }
+    ],
+    "uniqueTraits": [
+      "Produces Coral"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Shigenori Sōya"
+        }
+      ],
+      "english": [
+        {
+          "name": "Chris Edgerly"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Isobu",
+      "pageId": 6539,
+      "revision": "2026-08-03T17:44:05Z"
+    }
+  },
+  {
+    "id": 669,
+    "name": "Kokuō",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/a/a3/Kokuo.png"
+      }
+    ],
+    "names": {
+      "english": "Kokuō",
+      "kanji": "穆王",
+      "romaji": "Kokuō",
+      "alternatives": [
+        {
+          "name": "Five-Tails",
+          "kanji": "五尾",
+          "romaji": "Gobi"
+        }
+      ]
+    },
+    "summary": "Kokuō, more commonly known as the Five-Tails, is one of the nine tailed beasts. It was last sealed within Han from Iwagakure.",
+    "tails": 5,
+    "numberName": "Five-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "467",
+        "label": "Naruto Chapter #467"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 165,
+        "label": "Naruto Shippūden Episode #165"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie canon"
+    ],
+    "personal": {
+      "species": "Mixed horse and dolphin",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 11,
+          "name": "Iwagakure"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 0,
+          "name": "Boil Release"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 363,
+          "name": "Han"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "relation": "Sibling",
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "relation": "Sibling",
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "relation": "Sibling",
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "relation": "Sibling",
+        "id": 345,
+        "name": "Gyūki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 711,
+        "name": "Kurama"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Boil Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Water Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Boil Release: Unrivalled Strength"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Cooperation Tailed Beast Ball",
+        "note": "with, Tailed Beasts"
+      },
+      {
+        "name": "Five-Mountain Jump"
+      },
+      {
+        "name": "Forward Trampling Jump"
+      },
+      {
+        "name": "Great Trample Circle"
+      },
+      {
+        "name": "Horn Breaking"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Chakra Arms"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      },
+      {
+        "name": "Whirlwind Sweep"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Mie Sonozaki"
+        }
+      ],
+      "english": [
+        {
+          "name": "Mary Elizabeth McGlynn"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Koku%C5%8D",
+      "pageId": 17114,
+      "revision": "2026-09-26T04:27:26Z"
+    }
+  },
+  {
+    "id": 711,
+    "name": "Kurama",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/7b/Kurama2.png",
+        "caption": "Parts I-II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/4d/Kurama_Revived.png",
+        "caption": "Vortex"
+      }
+    ],
+    "names": {
+      "english": "Kurama",
+      "kanji": "九喇嘛",
+      "romaji": "Kurama",
+      "alternatives": [
+        {
+          "name": "Nine-Tails",
+          "kanji": "九尾",
+          "romaji": "Kyūbi"
+        },
+        {
+          "name": "Nine-Tailed Demon Fox",
+          "kanji": "九尾の妖狐",
+          "romaji": "Kyūbi no Yōko",
+          "englishTv": "Nine-Tailed Fox"
+        },
+        {
+          "name": "Monster Fox",
+          "kanji": "化け狐/バケ狐",
+          "romaji": "Bakegitsune"
+        }
+      ]
+    },
+    "summary": "Kurama, more commonly known as the Nine-Tails, is one of the nine tailed beasts. Centuries of being regarded as a mindless monster and sought after as a tool for war caused Kurama to hate humans. After being sealed into Naruto Uzumaki, Kurama attempts to maintain its cynical perspective about the world, but with Naruto's insistence on treating it with respect, the fox overturns its hatred and willingly strives to use its power for the world's salvation.",
+    "tails": 9,
+    "numberName": "Nine-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "1",
+        "label": "Naruto Chapter #1"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 1,
+        "label": "Naruto Episode #1"
+      },
+      "novel": "Naruto: Innocent Heart, Demonic Blood",
+      "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "game": "Naruto: Konoha Ninpōchō",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Kitsune",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        },
+        {
+          "name": "Sensor Type"
+        },
+        {
+          "name": "Sage"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        },
+        {
+          "name": "Allied Shinobi Forces"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 1343,
+          "name": "Mito Uzumaki"
+        },
+        {
+          "id": 1341,
+          "name": "Kushina Uzumaki"
+        },
+        {
+          "id": 865,
+          "name": "Minato Namikaze",
+          "note": "Yin half"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        },
+        {
+          "id": 1425,
+          "name": "Black Zetsu",
+          "note": "Yin half"
+        },
+        {
+          "id": 1303,
+          "name": "Obito Uchiha",
+          "note": "Yin half"
+        },
+        {
+          "id": 1340,
+          "name": "Himawari Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "relation": "Sibling",
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "relation": "Sibling",
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "relation": "Sibling",
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "relation": "Sibling",
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "relation": "Sibling",
+        "id": 345,
+        "name": "Gyūki"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Fire Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Wind Release",
+        "note": "Anime only"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Baryon Mode"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Continuous Tailed Beast Balls"
+      },
+      {
+        "name": "Cooperation Tailed Beast Ball",
+        "note": "with, Gyūki"
+      },
+      {
+        "name": "Great Roar"
+      },
+      {
+        "name": "Kurama Claw Slice"
+      },
+      {
+        "name": "Kurama Great Crumbling"
+      },
+      {
+        "name": "Kurama Great Rotating Attack"
+      },
+      {
+        "name": "Kurama's Shroud"
+      },
+      {
+        "name": "Negative Emotions Sensing"
+      },
+      {
+        "name": "Nine-Tails Beam"
+      },
+      {
+        "name": "Nine-Tails Chakra Mode"
+      },
+      {
+        "name": "Nine-Tails Swirling Orbs"
+      },
+      {
+        "name": "Nine-Tails Twister"
+      },
+      {
+        "name": "Scattering Tailed Beast Balls"
+      },
+      {
+        "name": "Sensing Technique"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Chakra Arms"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Heavy Cannon"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      }
+    ],
+    "uniqueTraits": [
+      "Detects negative emotions"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Tesshō Genda"
+        }
+      ],
+      "english": [
+        {
+          "name": "Paul St. Peter"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kurama",
+      "pageId": 2958,
+      "revision": "2026-10-07T09:03:39Z"
+    }
+  },
+  {
+    "id": 771,
+    "name": "Matatabi",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/a/a7/Matatabi.png"
+      }
+    ],
+    "names": {
+      "english": "Matatabi",
+      "kanji": "又旅",
+      "romaji": "Matatabi",
+      "alternatives": [
+        {
+          "name": "Two-Tails",
+          "kanji": "ニ尾",
+          "romaji": "Nibi"
+        },
+        {
+          "name": "Monster Cat",
+          "kanji": "化け猫",
+          "romaji": "Bakeneko",
+          "englishTv": "The Wraith"
+        },
+        {
+          "name": "Blazing Monster Cat",
+          "kanji": "炎の怪猫",
+          "romaji": "Honō no Kaibyō"
+        }
+      ]
+    },
+    "summary": "Matatabi, more commonly known as the Two-Tails, is one of the nine tailed beasts. It was last sealed within Yugito Nii of Kumogakure.",
+    "tails": 2,
+    "numberName": "Two-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "313",
+        "label": "Naruto Chapter #313"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 72,
+        "label": "Naruto Shippūden Episode #72"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ninja Destiny 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Bakeneko",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 17,
+          "name": "Kumogakure"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 898,
+          "name": "Yugito Nii"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "relation": "Sibling",
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "relation": "Sibling",
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "relation": "Sibling",
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "relation": "Sibling",
+        "id": 345,
+        "name": "Gyūki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 711,
+        "name": "Kurama"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Fire Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Cat Claw"
+      },
+      {
+        "name": "Cat Fire Bowl"
+      },
+      {
+        "name": "Cat Flame Roaring Fire"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Cooperation Tailed Beast Ball",
+        "note": "with, Tailed Beasts"
+      },
+      {
+        "name": "Fire Rat"
+      },
+      {
+        "name": "Great Cat Claw Attack"
+      },
+      {
+        "name": "Leaping Flame Blowing Step"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Tail"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      },
+      {
+        "name": "Two-Tailed Cat Flame Incineration Slash",
+        "note": "with, Yugito Nii"
+      },
+      {
+        "name": "Two-Tails Exploding Orbs"
+      },
+      {
+        "name": "Wrapping Flame Cat Fire"
+      }
+    ],
+    "uniqueTraits": [
+      "Produce blue flames"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Ryōko Shiraishi"
+        }
+      ],
+      "english": [
+        {
+          "name": "Cristina Vee"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Matatabi",
+      "pageId": 5102,
+      "revision": "2026-09-22T12:49:02Z"
+    }
+  },
+  {
+    "id": 1009,
+    "name": "Saiken",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/58/Saiken.png"
+      }
+    ],
+    "names": {
+      "english": "Saiken",
+      "kanji": "犀犬",
+      "romaji": "Saiken",
+      "alternatives": [
+        {
+          "name": "Six-Tails",
+          "kanji": "六尾",
+          "romaji": "Rokubi"
+        }
+      ]
+    },
+    "summary": "Saiken, more commonly known as the Six-Tails, is one of the nine tailed beasts. It was last sealed within Utakata of Kirigakure.",
+    "tails": 6,
+    "numberName": "Six-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "467",
+        "label": "Naruto Chapter #467"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 151,
+        "label": "Naruto Shippūden Episode #151"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Slug",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 14,
+          "name": "Kirigakure"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 1335,
+          "name": "Utakata"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "relation": "Sibling",
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "relation": "Sibling",
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "relation": "Sibling",
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "relation": "Sibling",
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "relation": "Sibling",
+        "id": 345,
+        "name": "Gyūki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 711,
+        "name": "Kurama"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Water Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Cooperation Tailed Beast Ball",
+        "note": "with, Tailed Beasts"
+      },
+      {
+        "name": "Freight Bundle Bubble"
+      },
+      {
+        "name": "Leech Gap"
+      },
+      {
+        "name": "Poison Mist",
+        "note": "Game only"
+      },
+      {
+        "name": "Soap Bubble Ninjutsu",
+        "note": "Anime only"
+      },
+      {
+        "name": "Sticky Bite"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      },
+      {
+        "name": "Ultimate Poison Scattering"
+      },
+      {
+        "name": "Water Release: Bubbles Technique — Great River"
+      },
+      {
+        "name": "Water Release: Starch Syrup Capturing Field"
+      },
+      {
+        "name": "Wisdom Wolf Decay"
+      }
+    ],
+    "uniqueTraits": [
+      "Secretes corrosive alkali"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Miyu Irino"
+        }
+      ],
+      "english": [
+        {
+          "name": "Todd Haberkorn"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Saiken",
+      "pageId": 17108,
+      "revision": "2024-07-03T03:02:34Z"
+    }
+  },
+  {
+    "id": 1127,
+    "name": "Shukaku",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/9/99/Shukaku.png"
+      }
+    ],
+    "names": {
+      "english": "Shukaku",
+      "kanji": "守鶴",
+      "romaji": "Shukaku",
+      "alternatives": [
+        {
+          "name": "One-Tail",
+          "kanji": "一尾",
+          "romaji": "Ichibi"
+        },
+        {
+          "name": "One-Tailed Shukaku",
+          "kanji": "一尾の守鶴",
+          "romaji": "Ichibi no Shukaku"
+        },
+        {
+          "name": "The Incarnation of Sand",
+          "kanji": "砂の化身",
+          "romaji": "Suna no Keshin",
+          "englishTv": "The Manifestation of the Sand"
+        },
+        {
+          "name": "Shukaku of the Sand",
+          "kanji": "砂の守鶴",
+          "romaji": "Suna no Shukaku",
+          "englishTv": "Shukaku the Sand Spirit"
+        },
+        {
+          "name": "Monster Tanuki",
+          "kanji": "化け狸",
+          "romaji": "Bakedanuki"
+        }
+      ]
+    },
+    "summary": "Shukaku, more commonly known as the One-Tail, is one of the nine tailed beasts. It was last sealed within Gaara of Sunagakure, after being sealed in two other jinchūriki before him.",
+    "tails": 1,
+    "numberName": "One-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "134",
+        "label": "Naruto Chapter #134"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 78,
+        "label": "Naruto Episode #78"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto: Ultimate Ninja",
+      "ova": "Naruto x UT"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Tanuki",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 28,
+          "name": "Sunagakure"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 17,
+          "name": "Magnet Release"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 131,
+          "name": "Bunpuku"
+        },
+        {
+          "id": 259,
+          "name": "Gaara"
+        },
+        {
+          "id": 1303,
+          "name": "Obito Uchiha"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "relation": "Sibling",
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "relation": "Sibling",
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "relation": "Sibling",
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "relation": "Sibling",
+        "id": 345,
+        "name": "Gyūki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 711,
+        "name": "Kurama"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Magnet Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Earth Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Claw of Shukaku"
+      },
+      {
+        "name": "Desert Layered Imperial Funeral Seal"
+      },
+      {
+        "name": "Great Roar",
+        "note": "Anime only"
+      },
+      {
+        "name": "Stomach Reflection"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      },
+      {
+        "name": "Wind Release: Drilling Air Bullet"
+      },
+      {
+        "name": "Wind Release: Drilling Air Bullet Pellet"
+      },
+      {
+        "name": "Wind Release: Sand Buckshot",
+        "note": "with, Gaara"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Sand"
+      }
+    ],
+    "uniqueTraits": [
+      "Manipulates sand",
+      "Influences its sleeping jinchūriki",
+      "Natural cursed seal markings"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Hiroshi Iwasaki"
+        }
+      ],
+      "english": [
+        {
+          "name": "Kirk Thornton"
+        },
+        {
+          "name": "Liam O'Brien",
+          "note": "Video games"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Shukaku",
+      "pageId": 2964,
+      "revision": "2026-07-09T06:22:19Z"
+    }
+  },
+  {
+    "id": 1134,
+    "name": "Son Gokū",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/5e/Son_Goku.png"
+      }
+    ],
+    "names": {
+      "english": "Son Gokū",
+      "kanji": "孫悟空",
+      "romaji": "Son Gokū",
+      "alternatives": [
+        {
+          "name": "Four-Tails",
+          "kanji": "四尾",
+          "romaji": "Yonbi"
+        },
+        {
+          "name": "King of the Sage Monkeys",
+          "kanji": "仙猿の王",
+          "romaji": "Sen'en no Ō"
+        },
+        {
+          "name": "Handsome Monkey King",
+          "kanji": "美猿王",
+          "romaji": "Bien'ō"
+        },
+        {
+          "name": "Great Sage Equalling Heaven",
+          "kanji": "斉天大聖",
+          "romaji": "Seiten Taisei"
+        }
+      ]
+    },
+    "summary": "Seiten Taisei Son Gokū, more commonly known as Son Gokū or simply the Four-Tails, is one of the nine tailed beasts. It was last sealed within Rōshi of Iwagakure.",
+    "tails": 4,
+    "numberName": "Four-Tails",
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "467",
+        "label": "Naruto Chapter #467"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 165,
+        "label": "Naruto Shippūden Episode #165"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Monkey",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Tailed Beast"
+        },
+        {
+          "name": "Sage"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 11,
+          "name": "Iwagakure"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 14,
+          "name": "Lava Release"
+        }
+      ],
+      "jinchuriki": [
+        {
+          "id": 983,
+          "name": "Rōshi"
+        },
+        {
+          "id": 1344,
+          "name": "Naruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "relation": "Sibling",
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "relation": "Sibling",
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "relation": "Sibling",
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "relation": "Sibling",
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "relation": "Sibling",
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "relation": "Sibling",
+        "id": 345,
+        "name": "Gyūki"
+      },
+      {
+        "relation": "Sibling",
+        "id": 711,
+        "name": "Kurama"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Lava Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Earth Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Dramingo"
+      },
+      {
+        "name": "Flower–Fruit Mountain"
+      },
+      {
+        "name": "Great Strike Outburst"
+      },
+      {
+        "name": "Lava Release: Fiery Rock Bullet"
+      },
+      {
+        "name": "Monkey Flame Arson"
+      },
+      {
+        "name": "Scorching River Great Eruption"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Full Charge"
+      },
+      {
+        "name": "Tailed Beast Telepathy"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Hiroki Yasumoto"
+        }
+      ],
+      "english": [
+        {
+          "name": "John Eric Bentley"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Son_Gok%C5%AB",
+      "pageId": 6540,
+      "revision": "2026-02-05T02:57:31Z"
+    }
+  }
+]

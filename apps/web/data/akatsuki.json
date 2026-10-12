@@ -1,0 +1,7535 @@
+[
+  {
+    "id": 122,
+    "name": "Jūzō Biwa",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/c/c2/J%C5%ABz%C5%8D_Biwa.png"
+      }
+    ],
+    "names": {
+      "english": "Jūzō Biwa",
+      "kanji": "枇杷十蔵",
+      "romaji": "Biwa Jūzō"
+    },
+    "summary": "Jūzō Biwa was a jōnin from Kirigakure and a member of the Seven Ninja Swordsmen of the Mist. In the anime, Jūzō deserted his village and became a member of Akatsuki, where he was partnered with Itachi Uchiha.",
+    "akatsuki": {
+      "note": "Anime only",
+      "ring": {
+        "finger": "Left ring finger",
+        "kanji": "南",
+        "romaji": "nan",
+        "meaning": "south",
+        "colour": "yellow",
+        "wornBy": [
+          "Jūzō Biwa",
+          "Kisame Hoshigaki"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "668",
+        "label": "Naruto Chapter #668"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 419,
+        "label": "Naruto Shippūden Episode #419"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja Blazing"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "age": {
+        "Part II": "31"
+      },
+      "height": {
+        "Part II": "186 cm"
+      },
+      "classification": [
+        {
+          "name": "Missing-nin",
+          "note": "Anime only"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 14,
+          "name": "Kirigakure"
+        },
+        {
+          "name": "Akatsuki",
+          "note": "Anime only"
+        }
+      ],
+      "team": [
+        {
+          "id": 101,
+          "name": "Seven Ninja Swordsmen of the Mist"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1293,
+          "name": "Itachi Uchiha",
+          "note": "Anime only"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part II": "Jōnin"
+      }
+    },
+    "natureType": [
+      {
+        "name": "Water Release",
+        "note": "Anime only"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Hiding in Mist Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Severed Land"
+      },
+      {
+        "name": "Silent Killing",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Clone Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Water Release: Water Dragon Bullet Technique",
+        "note": "Game only"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Kubikiribōchō"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kōsuke Gotō"
+        }
+      ],
+      "english": [
+        {
+          "name": "Steven Blum"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/J%C5%ABz%C5%8D_Biwa",
+      "pageId": 151016,
+      "revision": "2026-05-07T23:09:04Z"
+    }
+  },
+  {
+    "id": 166,
+    "name": "Daibutsu",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/a/a2/Daibutsu1.png"
+      }
+    ],
+    "names": {
+      "english": "Daibutsu",
+      "kanji": "大仏",
+      "romaji": "Daibutsu"
+    },
+    "summary": "Daibutsu was a member of the original Akatsuki.",
+    "akatsuki": {},
+    "debut": {
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 347,
+        "label": "Naruto Shippūden Episode #347"
+      }
+    },
+    "media": [
+      "Anime"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "height": {
+        "Part II": "210 cm"
+      },
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        },
+        {
+          "id": 0,
+          "name": "Amegakure"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Water Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Water Prison Technique",
+        "note": "Anime only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kōsuke Gotō"
+        }
+      ],
+      "english": [
+        {
+          "name": "Travis Willingham"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Daibutsu",
+      "pageId": 119470,
+      "revision": "2026-06-17T22:26:11Z"
+    }
+  },
+  {
+    "id": 193,
+    "name": "Deidara",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/0/06/Deidara.png"
+      }
+    ],
+    "names": {
+      "english": "Deidara",
+      "kanji": "デイダラ",
+      "romaji": "Deidara"
+    },
+    "summary": "Deidara was an S-rank missing-nin from Iwagakure. During his time in the village, he was a member of the Explosion Corps. After defecting from the village, he was forced into Akatsuki and was its youngest member. There, Deidara was partnered with Sasori until the latter's death, and later with Tobi before his own death.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Right index finger",
+        "kanji": "青",
+        "romaji": "ao, shō",
+        "meaning": "blue, green",
+        "colour": "teal",
+        "wornBy": [
+          "Deidara"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "247",
+        "label": "Naruto Chapter #247"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 2,
+        "label": "Naruto Shippūden Episode #2"
+      },
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Gekitō Ninja Taisen! EX",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "May 5",
+      "bloodType": "AB",
+      "age": {
+        "Part II": "19"
+      },
+      "height": {
+        "Part II": "166 cm"
+      },
+      "weight": {
+        "Part II": "50.8 kg"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Missing-nin"
+        },
+        {
+          "name": "Mercenary Ninja"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Terrorist Bomber"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 11,
+          "name": "Iwagakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 22,
+          "name": "Explosion Corps"
+        },
+        {
+          "id": 113,
+          "name": "Surprise Attack and Diversion Platoon"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1042,
+          "name": "Sasori"
+        },
+        {
+          "id": 1303,
+          "name": "Obito Uchiha"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 5,
+          "name": "Explosion Release"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRegistration": "IW-08721"
+    },
+    "natureType": [
+      {
+        "name": "Explosion Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Lightning Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Art (jutsu)"
+      },
+      {
+        "name": "C0"
+      },
+      {
+        "name": "C1"
+      },
+      {
+        "name": "C2"
+      },
+      {
+        "name": "C3"
+      },
+      {
+        "name": "C4"
+      },
+      {
+        "name": "Carpet Bombing"
+      },
+      {
+        "name": "Clay Clone"
+      },
+      {
+        "name": "Collaboration: Ultimate Art",
+        "note": "with, Sasori"
+      },
+      {
+        "name": "Combination Art",
+        "note": "with, Sasori"
+      },
+      {
+        "name": "Combined Killing Art",
+        "note": "with, Sasori"
+      },
+      {
+        "name": "Creative Destruction"
+      },
+      {
+        "name": "Destructive Beauty"
+      },
+      {
+        "name": "Earth Release: Hiding Like a Mole Technique"
+      },
+      {
+        "name": "Explosive Clay"
+      },
+      {
+        "name": "Explosive Clay Dolls"
+      },
+      {
+        "name": "Explosive Clay: Snake"
+      },
+      {
+        "name": "Explosive Clay: Twin Birds"
+      },
+      {
+        "name": "Explosive Landmines",
+        "note": "with, Obito Uchiha or Zetsu Clone"
+      },
+      {
+        "name": "Five-Seal Barrier Pass Technique"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Iwagakure Kinjutsu"
+      },
+      {
+        "name": "Moulded Beauty"
+      },
+      {
+        "name": "Shadow Clone Technique"
+      },
+      {
+        "name": "Suicide Bombing Clone"
+      },
+      {
+        "name": "Superb Turn"
+      },
+      {
+        "name": "Swarming Art"
+      },
+      {
+        "name": "Ultimate Art (game)"
+      },
+      {
+        "name": "Wide Range Bombing"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Eye Scope"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Katsuhiko Kawamoto"
+        }
+      ],
+      "english": [
+        {
+          "name": "Quinton Flynn",
+          "note": "Episode 135"
+        },
+        {
+          "name": "Roger Craig Smith"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Deidara",
+      "pageId": 1614,
+      "revision": "2026-08-14T05:32:13Z"
+    }
+  },
+  {
+    "id": 195,
+    "name": "Demonic Statue of the Outer Path",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/f/fe/Gedo_Mazo.png"
+      }
+    ],
+    "names": {
+      "english": "Demonic Statue of the Outer Path",
+      "kanji": "外道魔像",
+      "romaji": "Gedō Mazō",
+      "alternatives": [
+        {
+          "name": "Sealing Statue",
+          "kanji": "封印像",
+          "romaji": "Fūinzō"
+        }
+      ]
+    },
+    "summary": "The Demonic Statue of the Outer Path is the husk of the Ten-Tails that remained after its chakra was separated from its body. It was sealed in the moon by Hagoromo and Hamura Ōtsutsuki, where it remained until Madara Uchiha awakened the Rinnegan. This allowed him to break the seal and summon the statue down to Earth, where it was used as a container for the tailed beasts captured by Akatsuki.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "254",
+        "label": "Naruto Chapter #254"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 10,
+        "label": "Naruto Shippūden Episode #10"
+      },
+      "novel": "The Last: Naruto the Movie",
+      "movie": "The Last: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja 5"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie canon"
+    ],
+    "personal": {
+      "status": "Incapacitated",
+      "classification": [
+        {
+          "name": "Summon"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Original Form",
+        "id": 1,
+        "name": "Ten-Tails"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Black Receiver"
+      },
+      {
+        "name": "Demonic Statue Chains"
+      },
+      {
+        "name": "Sealing Technique: Phantom Dragons Nine Consuming Seals"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Demonic_Statue_of_the_Outer_Path",
+      "pageId": 15194,
+      "revision": "2026-03-29T06:58:58Z"
+    }
+  },
+  {
+    "id": 325,
+    "name": "Ginji",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/52/Ginji.png"
+      }
+    ],
+    "names": {
+      "english": "Ginji",
+      "kanji": "ギンジ",
+      "romaji": "Ginji"
+    },
+    "summary": "Ginji is the banker of Kakuzu, a member of the Akatsuki.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "355",
+        "label": "Naruto Chapter #355"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 122,
+        "label": "Naruto Shippūden Episode #122"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "age": {
+        "Part II": "23"
+      },
+      "occupation": [
+        {
+          "name": "Banker"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "partner": [
+        {
+          "id": 735,
+          "name": "Kyōya"
+        }
+      ]
+    },
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kanji Suzumori"
+        }
+      ],
+      "english": [
+        {
+          "name": "Patrick Seitz"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ginji",
+      "pageId": 13322,
+      "revision": "2025-03-23T16:57:23Z"
+    }
+  },
+  {
+    "id": 388,
+    "name": "Hidan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/e3/Hidan.png"
+      }
+    ],
+    "names": {
+      "english": "Hidan",
+      "kanji": "飛段",
+      "romaji": "Hidan",
+      "alternatives": [
+        {
+          "name": "Immortal Bloodthirsty Killer",
+          "kanji": "不死身の殺人鬼",
+          "romaji": "Fujimi no Satsujinki",
+          "viz": "Immortal Butcher"
+        }
+      ]
+    },
+    "summary": "Hidan is an S-rank missing-nin who defected from Yugakure and later joined the Akatsuki. He is a devout worshipper of Jashin, and takes it upon himself to be a missionary of the faith. As a member of the Akatsuki, he was partnered with Kakuzu, despite the pair's somewhat mutual dislike of each other. He was also the second newest member of Akatsuki at the time of Tobi's introduction. Kisame Hoshigaki laughingly referred to Hidan and Kakuzu as the Zombie Combo due to their immortality.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Left index finger",
+        "kanji": "三",
+        "romaji": "san",
+        "meaning": "three",
+        "colour": "orange",
+        "wornBy": [
+          "Kakuzu's Partner",
+          "Hidan"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "312",
+        "label": "Naruto Chapter #312"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 71,
+        "label": "Naruto Shippūden Episode #71"
+      },
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Gekitō Ninja Taisen! EX 3",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Incapacitated",
+      "birthdate": "April 2",
+      "bloodType": "B",
+      "age": {
+        "Part II": "22"
+      },
+      "height": {
+        "Part II": "177.1 cm"
+      },
+      "weight": {
+        "Part II": "56.8 kg"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 36,
+          "name": "Yugakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "partner": [
+        {
+          "id": 558,
+          "name": "Kakuzu"
+        }
+      ]
+    },
+    "jutsu": [
+      {
+        "name": "Amputation Punishment"
+      },
+      {
+        "name": "Branding Punishment"
+      },
+      {
+        "name": "Chopping Punishment"
+      },
+      {
+        "name": "Curse Technique: Death Controlling Possessed Blood"
+      },
+      {
+        "name": "Dragging Punishment"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Immortal Body"
+      },
+      {
+        "name": "Skewering Punishment"
+      },
+      {
+        "name": "Slashing Handling Punishment"
+      },
+      {
+        "name": "Soul Hunting"
+      },
+      {
+        "name": "The Immortals Rushing Madly Ahead",
+        "note": "with, Kakuzu"
+      },
+      {
+        "name": "Ultimate Death Beyond Terror",
+        "note": "with, Kakuzu"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Retractable Spear"
+      },
+      {
+        "name": "Senbon",
+        "note": "Game only"
+      },
+      {
+        "name": "Triple-Bladed Scythe"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Masaki Terasoma"
+        }
+      ],
+      "english": [
+        {
+          "name": "Chris Edgerly"
+        },
+        {
+          "name": "Wally Wingert",
+          "note": "Naruto Shippūden: Clash of Ninja Revolution 3"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Hidan",
+      "pageId": 3212,
+      "revision": "2026-09-19T20:36:25Z"
+    }
+  },
+  {
+    "id": 421,
+    "name": "Kisame Hoshigaki",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/2/25/Kisame.png"
+      }
+    ],
+    "names": {
+      "english": "Kisame Hoshigaki",
+      "kanji": "干柿鬼鮫",
+      "romaji": "Hoshigaki Kisame",
+      "alternatives": [
+        {
+          "name": "Monster of the Hidden Mist",
+          "kanji": "霧隠れの怪人",
+          "romaji": "Kirigakure no Kaijin",
+          "englishTv": "Scourge of the Hidden Mist"
+        },
+        {
+          "name": "Tailed Beast without a Tail",
+          "kanji": "尾を持たない尾獣",
+          "romaji": "O o Motanai Bijū",
+          "englishTv": "Tailless Tailed Beast"
+        }
+      ]
+    },
+    "summary": "Kisame Hoshigaki, feared as the Monster of the Hidden Mist, was a shinobi of Kirigakure's Hoshigaki Clan. After joining the Seven Ninja Swordsmen of the Mist, he became an S-rank missing-nin and was partnered with Itachi Uchiha when the latter joined Akatsuki.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Left ring finger",
+        "kanji": "南",
+        "romaji": "nan",
+        "meaning": "south",
+        "colour": "yellow",
+        "wornBy": [
+          "Jūzō Biwa",
+          "Kisame Hoshigaki"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "139",
+        "label": "Naruto Chapter #139"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 80,
+        "label": "Naruto Episode #80"
+      },
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto: Ultimate Ninja 2",
+      "ova": "Hidden Leaf Village Grand Sports Festival!"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "March 18",
+      "bloodType": "AB",
+      "age": {
+        "Part I": "29",
+        "Part II": "32-33"
+      },
+      "height": {
+        "Part I": "195 cm"
+      },
+      "weight": {
+        "Part I": "83.1 kg"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 14,
+          "name": "Kirigakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 11,
+          "name": "Cypher Division"
+        },
+        {
+          "id": 101,
+          "name": "Seven Ninja Swordsmen of the Mist"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1293,
+          "name": "Itachi Uchiha"
+        }
+      ],
+      "clan": [
+        {
+          "id": 68,
+          "name": "Hoshigaki Clan",
+          "note": "Anime only"
+        }
+      ]
+    },
+    "rank": {
+      "academyGraduationAge": "10"
+    },
+    "natureType": [
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Earth Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "By Brute Force"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Earth Release: Subterranean Voyage"
+      },
+      {
+        "name": "Evilest Assassins",
+        "note": "with, Itachi Uchiha"
+      },
+      {
+        "name": "Genjutsu: Yaksha Shark and Birds",
+        "note": "with, Itachi Uchiha"
+      },
+      {
+        "name": "Great Dance Slash"
+      },
+      {
+        "name": "Hiding in Mist Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Hungry Shark Drop"
+      },
+      {
+        "name": "Iaidō",
+        "note": "Game only"
+      },
+      {
+        "name": "Mangekyō Shark Sword",
+        "note": "with, Itachi Uchiha"
+      },
+      {
+        "name": "Menacing Shark"
+      },
+      {
+        "name": "Samehada Colliding Explosion"
+      },
+      {
+        "name": "Samehada Wild Dance"
+      },
+      {
+        "name": "Seven Swords of the Bloody Mist"
+      },
+      {
+        "name": "Shark-Slaying Slash"
+      },
+      {
+        "name": "Silent Killing"
+      },
+      {
+        "name": "Summoning Technique"
+      },
+      {
+        "name": "Thrusting Shark"
+      },
+      {
+        "name": "Water Clone Technique"
+      },
+      {
+        "name": "Water Prison Shark Dance Technique"
+      },
+      {
+        "name": "Water Prison Technique"
+      },
+      {
+        "name": "Water Release: A Thousand Feeding Sharks"
+      },
+      {
+        "name": "Water Release: Exploding Water Colliding Wave"
+      },
+      {
+        "name": "Water Release: Five Feeding Sharks"
+      },
+      {
+        "name": "Water Release: Five Gluttonous Sharks"
+      },
+      {
+        "name": "Water Release: Four Sharks Rain"
+      },
+      {
+        "name": "Water Release: Great Exploding Water Colliding Wave"
+      },
+      {
+        "name": "Water Release: Great Shark Bullet Technique"
+      },
+      {
+        "name": "Water Release: Great Water Drill"
+      },
+      {
+        "name": "Water Release: Great Waterfall Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Great Whirlpool Enfolding Technique"
+      },
+      {
+        "name": "Water Release: Infinite Sharks"
+      },
+      {
+        "name": "Water Release: Submerged Shark Scraping Destruction"
+      },
+      {
+        "name": "Water Release: Water Bullet Technique"
+      },
+      {
+        "name": "Water Release: Water Dragon Bullet Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Water Quaking Pillar"
+      },
+      {
+        "name": "Water Release: Water Shark Blade"
+      },
+      {
+        "name": "Water Release: Water Shark Breakthrough"
+      },
+      {
+        "name": "Water Release: Water Shark Bullet Technique"
+      },
+      {
+        "name": "Water Release: Water Shark Shot Technique"
+      },
+      {
+        "name": "Water Release: Water Shark Wild Sphere Technique"
+      },
+      {
+        "name": "Water Release: Water Suicide Bomb"
+      },
+      {
+        "name": "Water Release: Waterfall Prison"
+      },
+      {
+        "name": "Wave Break"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Samehada"
+      },
+      {
+        "name": "Sword"
+      }
+    ],
+    "uniqueTraits": [
+      "Can absorb chakra",
+      "Gills"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Tomoyuki Dan"
+        }
+      ],
+      "english": [
+        {
+          "name": "Michael McConnohie",
+          "note": "Episode 80"
+        },
+        {
+          "name": "Kirk Thornton",
+          "note": "Episode 81+"
+        },
+        {
+          "name": "Steve Blum",
+          "note": "Naruto: Ninja Council 3"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kisame_Hoshigaki",
+      "pageId": 3216,
+      "revision": "2026-04-01T15:59:30Z"
+    }
+  },
+  {
+    "id": 430,
+    "name": "Suigetsu Hōzuki",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/3/3e/Suigetsu_H%C5%8Dzuki.png",
+        "caption": "Part II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/72/Suigetsu_part_III.png",
+        "caption": "New Era"
+      }
+    ],
+    "names": {
+      "english": "Suigetsu Hōzuki",
+      "kanji": "鬼灯水月",
+      "romaji": "Hōzuki Suigetsu",
+      "alternatives": [
+        {
+          "name": "Second Coming of the Demon",
+          "kanji": "鬼人の再来",
+          "romaji": "Kijin no Sairai"
+        },
+        {
+          "name": "Wunderkind of the Hidden Mist",
+          "kanji": "霧隠れの神童",
+          "romaji": "Kirigakure no Shindō"
+        }
+      ]
+    },
+    "summary": "Suigetsu Hōzuki is an Otogakure (formerly Kirigakure) shinobi from Kirigakure's Hōzuki clan. Heralded as the Second Coming of the Demon, Suigetsu dreams of gathering all the swords of the Seven Ninja Swordsmen of the Mist. This dream was cut short when he was captured by Orochimaru, but by joining forces with Sasuke Uchiha he finds an opportunity to resume his pursuit.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "346",
+        "label": "Naruto Chapter #346"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 115,
+        "label": "Naruto Shippūden Episode #115"
+      },
+      "novel": "Naruto Jinraiden: The Day the Wolf Howled",
+      "game": "Naruto Shippūden: Dragon Blade Chronicles",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "birthdate": "February 18",
+      "bloodType": "B",
+      "age": {
+        "Part II": "16-17"
+      },
+      "height": {
+        "Part II": "177.4 cm",
+        "New Era": "178.6 cm"
+      },
+      "weight": {
+        "Part II": "57 kg"
+      },
+      "classification": [
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 14,
+          "name": "Kirigakure"
+        },
+        {
+          "id": 22,
+          "name": "Otogakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 114,
+          "name": "Taka"
+        }
+      ],
+      "clan": [
+        {
+          "id": 70,
+          "name": "Hōzuki Clan"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Older Brother",
+        "id": 429,
+        "name": "Mangetsu Hōzuki"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Wind Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Azure Stream"
+      },
+      {
+        "name": "Chunk Slash"
+      },
+      {
+        "name": "Drowning Water Blob Technique"
+      },
+      {
+        "name": "Hydrification Technique"
+      },
+      {
+        "name": "Return of the Devil"
+      },
+      {
+        "name": "Silent Killing"
+      },
+      {
+        "name": "Snake (jutsu)",
+        "note": "with, Jūgo"
+      },
+      {
+        "name": "Tornado of Water",
+        "note": "Game only"
+      },
+      {
+        "name": "Torrent: Hydrification Technique"
+      },
+      {
+        "name": "Unstoppable Blade Shuriken"
+      },
+      {
+        "name": "Water Clone Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Water Gun Technique"
+      },
+      {
+        "name": "Water Gun: Two Guns"
+      },
+      {
+        "name": "Water Prison Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Great Water Arm Technique"
+      },
+      {
+        "name": "Water Release: Great Water Arm Technique: Half-Moon Cut"
+      },
+      {
+        "name": "Water Release: Great Water Leg Technique"
+      },
+      {
+        "name": "Water Release: Gunshot",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Tate Eboshi"
+      },
+      {
+        "name": "Water Release: Water Colliding Wave",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Water Dragon Bullet Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Water Dragon Triple Step Technique"
+      },
+      {
+        "name": "Water Release: Water Fang Bullet",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Water Formation Wall",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Water Hail"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Kubikiribōchō"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Takashi Kondō"
+        }
+      ],
+      "english": [
+        {
+          "name": "Grant George"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Suigetsu_H%C5%8Dzuki",
+      "pageId": 2941,
+      "revision": "2026-02-12T22:48:37Z"
+    }
+  },
+  {
+    "id": 521,
+    "name": "Jūgo",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/42/Jugo.png",
+        "caption": "Part II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/a/af/Jugo_Part_III.png",
+        "caption": "New Era"
+      }
+    ],
+    "names": {
+      "english": "Jūgo",
+      "kanji": "重吾",
+      "romaji": "Jūgo",
+      "alternatives": [
+        {
+          "name": "Jūgo of the Scales",
+          "kanji": "天秤の重吾",
+          "romaji": "Tenbin no Jūgo",
+          "englishTv": "Bipolar Jūgo"
+        }
+      ]
+    },
+    "summary": "Jūgo is an Otogakure shinobi from an unnamed clan, who was being held at Orochimaru's Northern Hideout. He was said to have gone to Orochimaru of his own free will, hoping that Orochimaru would cure him of his rages. He was later recruited as a member of Sasuke Uchiha's group Taka, which was initially called \"Hebi\" at the time of its creation.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "348",
+        "label": "Naruto Chapter #348"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 116,
+        "label": "Naruto Shippūden Episode #116"
+      },
+      "novel": "Naruto Jinraiden: The Day the Wolf Howled",
+      "game": "Naruto Shippūden: Dragon Blade Chronicles",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "birthdate": "October 1",
+      "bloodType": "AB",
+      "age": {
+        "Part II": "18-19"
+      },
+      "height": {
+        "Part II": "202.1 cm"
+      },
+      "weight": {
+        "Part II": "75.8 kg"
+      },
+      "classification": [
+        {
+          "name": "Sage"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 22,
+          "name": "Otogakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 114,
+          "name": "Taka"
+        }
+      ],
+      "clan": [
+        {
+          "id": 74,
+          "name": "Jūgo's Clan"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 11,
+          "name": "Jūgo's Clan's Kekkei Genkai"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Blaze Release: Susanoo Ōdachi",
+        "note": "with, Sasuke Uchiha"
+      },
+      {
+        "name": "Broadaxe"
+      },
+      {
+        "name": "Cellular Regeneration Absorption"
+      },
+      {
+        "name": "Cellular Regeneration Ejection"
+      },
+      {
+        "name": "Chain"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Cursed Seal: Killing Shout"
+      },
+      {
+        "name": "Jet Booster Jump"
+      },
+      {
+        "name": "Multiple Lotus Nonself Connected Cannons"
+      },
+      {
+        "name": "Nosedive"
+      },
+      {
+        "name": "Pacification of the Grounds"
+      },
+      {
+        "name": "Piston Fist"
+      },
+      {
+        "name": "Piston Fist: Style One"
+      },
+      {
+        "name": "Piston Fist: Style Zero"
+      },
+      {
+        "name": "Pressurisation"
+      },
+      {
+        "name": "Pulverisation"
+      },
+      {
+        "name": "Sage Mode"
+      },
+      {
+        "name": "Sage Transformation"
+      },
+      {
+        "name": "Snake (jutsu)",
+        "note": "with, Suigetsu Hōzuki"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Fūma Shuriken",
+        "note": "Game only"
+      }
+    ],
+    "uniqueTraits": [
+      "Can absorb chakra"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Shūhei Sakaguchi"
+        }
+      ],
+      "english": [
+        {
+          "name": "Travis Willingham"
+        },
+        {
+          "name": "Kyle Hebert",
+          "note": "Boruto #22+"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/J%C5%ABgo",
+      "pageId": 3045,
+      "revision": "2026-07-21T02:27:21Z"
+    }
+  },
+  {
+    "id": 558,
+    "name": "Kakuzu",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/57/Kakuzu.png"
+      }
+    ],
+    "names": {
+      "english": "Kakuzu",
+      "kanji": "角都",
+      "romaji": "Kakuzu",
+      "alternatives": [
+        {
+          "name": "Akatsuki's Treasurer",
+          "kanji": "\"暁\"のサイフ役",
+          "romaji": "Akatsuki no Saifuyaku",
+          "viz": "The Akatsuki's Purse-Holder"
+        }
+      ]
+    },
+    "summary": "Kakuzu was an S-rank missing-nin from Takigakure and a member of Akatsuki who was partnered with Hidan. Kisame Hoshigaki jokingly referred to them as the Zombie Combo, due to the fact that, in differing senses, they could not die.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Left middle finger",
+        "kanji": "北",
+        "romaji": "hoku",
+        "meaning": "north",
+        "colour": "dark green",
+        "wornBy": [
+          "Kakuzu"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "312",
+        "label": "Naruto Chapter #312"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 71,
+        "label": "Naruto Shippūden Episode #71"
+      },
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Gekitō Ninja Taisen! EX 3",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "August 15",
+      "bloodType": "A",
+      "age": {
+        "Part II": "91"
+      },
+      "height": {
+        "Part II": "185 cm"
+      },
+      "weight": {
+        "Part II": "63.2 kg"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Akatsuki Treasurer"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 29,
+          "name": "Takigakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "partner": [
+        {
+          "id": 559,
+          "name": "Kakuzu's Partner"
+        },
+        {
+          "id": 388,
+          "name": "Hidan"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Lightning Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Biguro"
+      },
+      {
+        "name": "Earth Grudge Fear"
+      },
+      {
+        "name": "Earth Grudge Fear: Final Shot"
+      },
+      {
+        "name": "Earth Release: Earth Spear"
+      },
+      {
+        "name": "Earth Release: Rock Trail",
+        "note": "Game only"
+      },
+      {
+        "name": "Fire Release: Intelligent Hard Work"
+      },
+      {
+        "name": "Fire Release: Prison Flame Mask"
+      },
+      {
+        "name": "Fire Release: Wind Release: Blazing Wind Wild Wave"
+      },
+      {
+        "name": "Hellfire Gale"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Kongukan"
+      },
+      {
+        "name": "Lightning Release: False Darkness"
+      },
+      {
+        "name": "Sadistic Combination"
+      },
+      {
+        "name": "Strange Mask Exploding Flame"
+      },
+      {
+        "name": "The Immortals Rushing Madly Ahead",
+        "note": "with, Hidan"
+      },
+      {
+        "name": "Ultimate Death Beyond Terror",
+        "note": "with, Hidan"
+      },
+      {
+        "name": "Watchful Eye's Torrent"
+      },
+      {
+        "name": "Water Clone Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Water Release: Hiding in Water Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Water Release: Water Formation Wall",
+        "note": "Anime only"
+      },
+      {
+        "name": "Wind Cyclone of Lightning"
+      },
+      {
+        "name": "Wind Release: Great Wind Mask"
+      },
+      {
+        "name": "Wind Release: Pressure Damage"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Takaya Hashi"
+        }
+      ],
+      "english": [
+        {
+          "name": "Paul St. Peter",
+          "note": "Episode 135"
+        },
+        {
+          "name": "Fred Tatasciore"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kakuzu",
+      "pageId": 1751,
+      "revision": "2026-08-29T14:11:41Z"
+    }
+  },
+  {
+    "id": 559,
+    "name": "Kakuzu's Partner",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/c/cc/Kakuzu%27s_Partner.png"
+      }
+    ],
+    "names": {
+      "english": "Kakuzu's Partner"
+    },
+    "summary": "This shinobi was a missing-nin from an unknown village and a member of Akatsuki, who was partnered with Kakuzu.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Left index finger",
+        "kanji": "三",
+        "romaji": "san",
+        "meaning": "three",
+        "colour": "orange",
+        "wornBy": [
+          "Kakuzu's Partner",
+          "Hidan"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "322",
+        "note": "Mentioned",
+        "label": "Naruto Chapter #322"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 455,
+        "label": "Naruto Shippūden Episode #455"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "height": {
+        "Part II": "194 cm"
+      },
+      "classification": [
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "partner": [
+        {
+          "id": 558,
+          "name": "Kakuzu"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kakuzu's_Partner",
+      "pageId": 202904,
+      "revision": "2026-02-27T05:15:24Z"
+    }
+  },
+  {
+    "id": 593,
+    "name": "Karin",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/72/Karin3.png",
+        "caption": "Part II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/6/6e/Karin_p3.png",
+        "caption": "New Era"
+      }
+    ],
+    "names": {
+      "english": "Karin",
+      "kanji": "香燐",
+      "romaji": "Karin"
+    },
+    "summary": "Karin is an Otogakure shinobi, a former kunoichi of Kusagakure, and a member of the Uzumaki clan. She assisted Orochimaru in his experiments, and was left in charge as warden of his Southern Hideout while he was away. She was later recruited into Sasuke Uchiha's group Taka, which was initially called \"Hebi\" at the time of its creation.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "347",
+        "label": "Naruto Chapter #347"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 115,
+        "label": "Naruto Shippūden Episode #115"
+      },
+      "novel": "Naruto Jinraiden: The Day the Wolf Howled",
+      "game": "Naruto Shippūden: Dragon Blade Chronicles",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Female",
+      "status": "Alive",
+      "birthdate": "June 20",
+      "bloodType": "AB",
+      "age": {
+        "Part II": "16-17"
+      },
+      "height": {
+        "Part II": "162.6 cm",
+        "New Era": "166 cm"
+      },
+      "weight": {
+        "Part II": "45.8 kg"
+      },
+      "classification": [
+        {
+          "name": "Missing-nin"
+        },
+        {
+          "name": "Sensor Type"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 18,
+          "name": "Kusagakure"
+        },
+        {
+          "id": 22,
+          "name": "Otogakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 165,
+          "name": "Team Shigeri"
+        },
+        {
+          "id": 114,
+          "name": "Taka"
+        }
+      ],
+      "clan": [
+        {
+          "id": 98,
+          "name": "Uzumaki Clan"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part II": "Genin"
+      }
+    },
+    "family": [
+      {
+        "relation": "Mother",
+        "id": 595,
+        "name": "Karin's Mother",
+        "note": "Anime only"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Yin Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Adamantine Sealing Chains",
+        "note": "Game only"
+      },
+      {
+        "name": "Chakra Suppression Technique"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Heal Bite"
+      },
+      {
+        "name": "Kagura Square Formation"
+      },
+      {
+        "name": "Long Range Mind's Eye of the Kagura"
+      },
+      {
+        "name": "Medical Mode"
+      },
+      {
+        "name": "Mind's Eye of the Kagura"
+      },
+      {
+        "name": "Mystical Palm Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Perfume Spray"
+      },
+      {
+        "name": "Serial Kick"
+      },
+      {
+        "name": "Short Range Mind's Eye of the Kagura"
+      },
+      {
+        "name": "Tight Binding Golden Chain Technique"
+      },
+      {
+        "name": "Violent Headspinner"
+      },
+      {
+        "name": "Violent Stabbing Face Slap"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Senbon",
+        "note": "Game only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kanako Tōjō"
+        },
+        {
+          "name": "Toa Yukinari",
+          "note": "Shippūden episode 485+"
+        }
+      ],
+      "english": [
+        {
+          "name": "Ali Hillis"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Karin",
+      "pageId": 6376,
+      "revision": "2026-09-19T20:56:06Z"
+    }
+  },
+  {
+    "id": 627,
+    "name": "Kie",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/6/60/Monjin.png"
+      }
+    ],
+    "names": {
+      "english": "Kie",
+      "kanji": "掃依",
+      "romaji": "Kie",
+      "alternatives": [
+        {
+          "name": "Monjin",
+          "kanji": "紋沈",
+          "romaji": "Monjin"
+        }
+      ]
+    },
+    "summary": "Kie was a member of the original Akatsuki.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "509",
+        "label": "Naruto Chapter #509"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 252,
+        "label": "Naruto Shippūden Episode #252"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "age": {
+        "Part II": "18"
+      },
+      "affiliation": [
+        {
+          "id": 0,
+          "name": "Amegakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ]
+    },
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Shinobu Matsumoto"
+        }
+      ],
+      "english": [
+        {
+          "name": "Richard Epcar"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kie",
+      "pageId": 120742,
+      "revision": "2025-01-16T23:02:14Z"
+    }
+  },
+  {
+    "id": 684,
+    "name": "Konan",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/58/Konan_Infobox.png"
+      }
+    ],
+    "names": {
+      "english": "Konan",
+      "kanji": "小南",
+      "romaji": "Konan",
+      "alternatives": [
+        {
+          "name": "Angel",
+          "kanji": "天使",
+          "romaji": "Tenshi"
+        }
+      ]
+    },
+    "summary": "Konan was a kunoichi from Amegakure and a founding member of the original Akatsuki. After Yahiko's death, she was partnered with Nagato, who had since taken control of Akatsuki, and was the only member to call him by his name. After Nagato's death, she defected from Akatsuki and became the de facto village head of Amegakure.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Right middle finger",
+        "kanji": "白",
+        "romaji": "byaku, haku",
+        "meaning": "white",
+        "colour": "white",
+        "wornBy": [
+          "Konan"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "363",
+        "label": "Naruto Chapter #363"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 125,
+        "label": "Naruto Shippūden Episode #125"
+      },
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Heroes 3",
+      "ova": "Naruto x UT"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Female",
+      "status": "Deceased",
+      "birthdate": "February 20",
+      "bloodType": "O",
+      "age": {
+        "Part II": "35"
+      },
+      "height": {
+        "Part II": "169.4 cm"
+      },
+      "weight": {
+        "Part II": "45.3 kg"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Sensor Type"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Village Head"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 0,
+          "name": "Amegakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 3,
+          "name": "Ame Orphans"
+        }
+      ],
+      "partner": [
+        {
+          "id": 861,
+          "name": "Nagato"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Dance of the Shikigami"
+      },
+      {
+        "name": "Dance of the Shikigami: Explosion"
+      },
+      {
+        "name": "Dance of the Shikigami: Punishment"
+      },
+      {
+        "name": "Dance of the Shikigami: Storm"
+      },
+      {
+        "name": "Fiery Paper Star of God",
+        "note": "with, Nagato"
+      },
+      {
+        "name": "Gospel of the Angel"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Origami Skewer"
+      },
+      {
+        "name": "Paper Chakram"
+      },
+      {
+        "name": "Paper Clone"
+      },
+      {
+        "name": "Paper Drizzle"
+      },
+      {
+        "name": "Paper Person of God Technique"
+      },
+      {
+        "name": "Paper Shuriken"
+      },
+      {
+        "name": "Sensing Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Small Package"
+      },
+      {
+        "name": "Weapon Reverse Control Technique"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Explosive Tag"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Atsuko Tanaka"
+        },
+        {
+          "name": "Kaori Mine",
+          "note": "Child"
+        }
+      ],
+      "english": [
+        {
+          "name": "Dorothy Elias-Fahn"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Konan",
+      "pageId": 3218,
+      "revision": "2026-07-05T20:17:08Z"
+    }
+  },
+  {
+    "id": 735,
+    "name": "Kyōya",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/7e/Kyoya.png"
+      }
+    ],
+    "names": {
+      "english": "Kyōya",
+      "kanji": "キョウヤ",
+      "romaji": "Kyōya"
+    },
+    "summary": "Kyōya is an accountant of Kakuzu, a member of the Akatsuki.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "355",
+        "label": "Naruto Chapter #355"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 122,
+        "label": "Naruto Shippūden Episode #122"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "age": {
+        "Part II": "23"
+      },
+      "occupation": [
+        {
+          "name": "Accountant"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "partner": [
+        {
+          "id": 325,
+          "name": "Ginji"
+        }
+      ]
+    },
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Takafumi Kawakami"
+        }
+      ],
+      "english": [
+        {
+          "name": "Tony Oliver"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ky%C5%8Dya",
+      "pageId": 19501,
+      "revision": "2025-03-23T16:57:42Z"
+    }
+  },
+  {
+    "id": 736,
+    "name": "Kyūsuke",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/e7/Kyusuke.png"
+      }
+    ],
+    "names": {
+      "english": "Kyūsuke",
+      "kanji": "鳩助",
+      "romaji": "Kyūsuke",
+      "alternatives": [
+        {
+          "name": "Swift Foot Kyūsuke",
+          "kanji": "韋駄天の鳩助",
+          "romaji": "Idaten no Kyūsuke"
+        }
+      ]
+    },
+    "summary": "Kyūsuke was once a shinobi from Amegakure and one of the original founding Akatsuki members.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "446",
+        "label": "Naruto Chapter #446"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 173,
+        "label": "Naruto Shippūden Episode #173"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 3"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "height": {
+        "Part II": "171.6 cm"
+      },
+      "affiliation": [
+        {
+          "id": 0,
+          "name": "Amegakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 14,
+          "name": "Lava Release",
+          "note": "Anime only"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Lava Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Fire Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Earth Release",
+        "note": "Anime only"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Lava Release: Quicklime Congealing Technique",
+        "note": "Anime only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Hidenobu Kiuchi"
+        }
+      ],
+      "english": [
+        {
+          "name": "Keith Silverstein"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ky%C5%ABsuke",
+      "pageId": 119468,
+      "revision": "2025-04-23T22:37:41Z"
+    }
+  },
+  {
+    "id": 778,
+    "name": "Mecha-Naruto",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/4d/Mecha-Naruto.png"
+      }
+    ],
+    "names": {
+      "english": "Mecha-Naruto",
+      "kanji": "メカナルト",
+      "romaji": "Meka-Naruto"
+    },
+    "summary": "Mecha-Naruto was a mechanised replica of Naruto Uzumaki that appears in the anime-exclusive episodes, Naruto Shippūden: Ultimate Ninja Storm Revolution, Naruto Shippūden: Ultimate Ninja Storm 4,and Naruto x Boruto: Ultimate Ninja Storm Connections.",
+    "akatsuki": {},
+    "debut": {
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 376,
+        "label": "Naruto Shippūden Episode #376"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja Storm Revolution"
+    },
+    "media": [
+      "Anime",
+      "Game"
+    ],
+    "personal": {
+      "species": "Mecha",
+      "status": "Incapacitated",
+      "classification": [
+        {
+          "name": "Pseudo-Jinchūriki",
+          "note": "Kurama"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 22,
+          "name": "Otogakure"
+        },
+        {
+          "name": "Akatsuki"
+        },
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 928,
+        "name": "Orochimaru"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Auger"
+      },
+      {
+        "name": "Car Mode"
+      },
+      {
+        "name": "Dummy Balloon"
+      },
+      {
+        "name": "Electric Eye Laser"
+      },
+      {
+        "name": "Flight Mode"
+      },
+      {
+        "name": "Heavy Hammer Spark"
+      },
+      {
+        "name": "Hurricane Head Butt"
+      },
+      {
+        "name": "Mach Boomerang"
+      },
+      {
+        "name": "Mecha-Naruto Taijutsu Combo"
+      },
+      {
+        "name": "Mechanical Light Shield Block",
+        "note": "Game only"
+      },
+      {
+        "name": "Mechanical Wings"
+      },
+      {
+        "name": "Mental Replacement Device"
+      },
+      {
+        "name": "Missile"
+      },
+      {
+        "name": "Narutimate Blaster"
+      },
+      {
+        "name": "Narutimate Tornado"
+      },
+      {
+        "name": "Naruto Beam"
+      },
+      {
+        "name": "Naruto Punch"
+      },
+      {
+        "name": "Nine-Tails Chakra Bomb"
+      },
+      {
+        "name": "Rocket Rasengan"
+      },
+      {
+        "name": "Thunder Laser Scan"
+      },
+      {
+        "name": "Unite",
+        "note": "with, Naruto Uzumaki"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Chakra Blade",
+        "note": "Anime only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Junko Takeuchi"
+        }
+      ],
+      "english": [
+        {
+          "name": "Maile Flanagan"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Mecha-Naruto",
+      "pageId": 118777,
+      "revision": "2026-06-26T22:29:10Z"
+    }
+  },
+  {
+    "id": 850,
+    "name": "Mukade",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/b/b3/Mukade.png"
+      }
+    ],
+    "names": {
+      "english": "Mukade",
+      "kanji": "ムカデ",
+      "romaji": "Mukade"
+    },
+    "summary": "Mukade was a jōnin from Sunagakure who left Suna and became a servant of Akatsuki member Sasori.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "260",
+        "label": "Naruto Chapter #260"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 15,
+        "label": "Naruto Shippūden Episode #15"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja 5"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "age": {
+        "Part II": "28"
+      },
+      "classification": [
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Akatsuki spy"
+        },
+        {
+          "name": "Sasori's subordinate"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 28,
+          "name": "Sunagakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part II": "Jōnin"
+      }
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Mukade",
+      "pageId": 10698,
+      "revision": "2026-09-08T13:27:07Z"
+    }
+  },
+  {
+    "id": 861,
+    "name": "Nagato",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/46/Nagato.png"
+      }
+    ],
+    "names": {
+      "english": "Nagato",
+      "kanji": "長門",
+      "romaji": "Nagato",
+      "alternatives": [
+        {
+          "name": "Pain",
+          "kanji": "ペイン",
+          "romaji": "Pein"
+        },
+        {
+          "name": "God",
+          "kanji": "神",
+          "romaji": "Kami"
+        },
+        {
+          "name": "Child of the Prophecy",
+          "kanji": "予言の子",
+          "romaji": "Yogen no Ko"
+        },
+        {
+          "name": "Saviour of this World",
+          "kanji": "この世の救世主",
+          "romaji": "Kono Yo no Kyūseishu"
+        },
+        {
+          "name": "Third Six Paths",
+          "kanji": "三人目の六道",
+          "romaji": "Sanninme no Rikudō"
+        }
+      ]
+    },
+    "summary": "Nagato was a shinobi of Amegakure and descendant of the Uzumaki clan. Forming Akatsuki alongside his friends (and fellow war orphans) Yahiko and Konan, Nagato dreamed of bringing peace to the violent shinobi world. However, following Yahiko's death, Nagato adopted the alias of Pain and, along with Konan, began leading the Akatsuki — an organisation that would force the world into peace using any means necessary.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Right thumb",
+        "kanji": "零",
+        "romaji": "rei",
+        "meaning": "zero",
+        "colour": "purplish-grey",
+        "wornBy": [
+          "Nagato"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "372",
+        "label": "Naruto Chapter #372"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 128,
+        "label": "Naruto Shippūden Episode #128"
+      },
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+      "movie": "Road to Ninja: Naruto the Movie (Pain)",
+      "game": "Naruto Shippūden: Ultimate Ninja Heroes 3 (Pain)"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "September 19",
+      "bloodType": "A",
+      "age": {
+        "Part II": "35"
+      },
+      "height": {
+        "Part II": "175.5 cm"
+      },
+      "weight": {
+        "Part II": "40.1 kg"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Sensor Type"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Akatsuki Leader"
+        },
+        {
+          "name": "Village Head"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 0,
+          "name": "Amegakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 3,
+          "name": "Ame Orphans"
+        }
+      ],
+      "partner": [
+        {
+          "id": 684,
+          "name": "Konan"
+        }
+      ],
+      "clan": [
+        {
+          "id": 98,
+          "name": "Uzumaki Clan"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 24,
+          "name": "Rinnegan"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Mother",
+        "id": 252,
+        "name": "Fusō"
+      },
+      {
+        "relation": "Father",
+        "id": 476,
+        "name": "Ise"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Amplification Summoning Technique"
+      },
+      {
+        "name": "Animal Path"
+      },
+      {
+        "name": "Asura Attack"
+      },
+      {
+        "name": "Asura Path"
+      },
+      {
+        "name": "Banshō Ten'in"
+      },
+      {
+        "name": "Black Needle Stab"
+      },
+      {
+        "name": "Black Rain"
+      },
+      {
+        "name": "Black Receiver"
+      },
+      {
+        "name": "Blocking Technique Absorption Seal"
+      },
+      {
+        "name": "Chakra Disguise"
+      },
+      {
+        "name": "Chibaku Tensei"
+      },
+      {
+        "name": "Combo Attack: Shinra Tensei"
+      },
+      {
+        "name": "Demonic Statue of the Outer Path (jutsu)"
+      },
+      {
+        "name": "Deva Path"
+      },
+      {
+        "name": "Earth Release: Earth-Style Wall",
+        "note": "Anime only"
+      },
+      {
+        "name": "Fiery Paper Star of God",
+        "note": "with, Konan"
+      },
+      {
+        "name": "Fire Release: Flame Bullet",
+        "note": "Game only"
+      },
+      {
+        "name": "Five-Seal Barrier"
+      },
+      {
+        "name": "Flaming Arrow of Amazing Ability"
+      },
+      {
+        "name": "Flaming Arrow Warhead"
+      },
+      {
+        "name": "Four Symbols Puppet Shinobi"
+      },
+      {
+        "name": "Genjutsu Protect"
+      },
+      {
+        "name": "Hidden Doorway Technique"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Human Path"
+      },
+      {
+        "name": "Internal Weapon"
+      },
+      {
+        "name": "Magic Lantern Body Technique"
+      },
+      {
+        "name": "Mirrored Sudden Attacker Technique"
+      },
+      {
+        "name": "Naraka Path"
+      },
+      {
+        "name": "Outer Path"
+      },
+      {
+        "name": "Outer Path — Samsara of Heavenly Life Technique"
+      },
+      {
+        "name": "Preta Path"
+      },
+      {
+        "name": "Rain Tiger at Will Technique"
+      },
+      {
+        "name": "Rinne Six Paths"
+      },
+      {
+        "name": "Sealing Technique: Phantom Dragons Nine Consuming Seals"
+      },
+      {
+        "name": "Sensing Technique"
+      },
+      {
+        "name": "Shadow Clone Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Shapeshifting Technique",
+        "note": "with, Deva Path"
+      },
+      {
+        "name": "Shinra Tensei"
+      },
+      {
+        "name": "Six Paths of Pain"
+      },
+      {
+        "name": "Six Paths Technique"
+      },
+      {
+        "name": "Summoning Rinnegan"
+      },
+      {
+        "name": "Summoning Technique"
+      },
+      {
+        "name": "Summoning Technique — Fall"
+      },
+      {
+        "name": "Summoning: Demonic Statue of the Outer Path"
+      },
+      {
+        "name": "Tornado of Water",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Exploding Water Colliding Wave",
+        "note": "Anime only"
+      },
+      {
+        "name": "Water Release: Wild Water Wave"
+      },
+      {
+        "name": "Wind Release: Air Bullets"
+      },
+      {
+        "name": "Wind Release: Gale Palm"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Junpei Morita"
+        },
+        {
+          "name": "Ken'yū Horiuchi",
+          "note": "Pain"
+        },
+        {
+          "name": "Tomoaki Maeno",
+          "note": "Child"
+        },
+        {
+          "name": "Shiho Hisajima",
+          "note": "Female Animal Path"
+        }
+      ],
+      "english": [
+        {
+          "name": "Vic Mignogna"
+        },
+        {
+          "name": "Troy Baker",
+          "note": "Pain"
+        },
+        {
+          "name": "Matthew Mercer",
+          "note": "Pain (Shippūden episode 454+)"
+        },
+        {
+          "name": "Dave Wittenberg",
+          "note": "Pain in Episode 135"
+        },
+        {
+          "name": "Kari Wahlgren",
+          "note": "Female Animal Path in Ultimate Ninja Storm 2"
+        },
+        {
+          "name": "Stephanie Sheh",
+          "note": "Female Animal Path"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Nagato",
+      "pageId": 3219,
+      "revision": "2026-09-20T00:47:20Z"
+    }
+  },
+  {
+    "id": 928,
+    "name": "Orochimaru",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png",
+        "caption": "Parts I-II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/b/be/Orochimaru_Part_III.png",
+        "caption": "New Era"
+      }
+    ],
+    "names": {
+      "english": "Orochimaru",
+      "kanji": "大蛇丸",
+      "romaji": "Orochimaru"
+    },
+    "summary": "Orochimaru is one of Konohagakure's legendary Sannin. With a life-ambition to learn all of the world's secrets, Orochimaru seeks immortality so that he might live all of the lives necessary to accomplish his task. After being caught red-handed performing unethical experiments on his fellow citizens for the sake of this immortality, Orochimaru defected from Konoha rather than be persecuted for his ambitions, and for many years sought the village's destruction in order to take revenge and demonstrate what he had learned. After realising the flaws of his approach in life from witnessing it emulated by Kabuto Yakushi, his former associate, Orochimaru began focusing his research on the development of life rather than its manipulation after seeing the actions of his former apprentice, Sasuke Uchiha.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Left little finger",
+        "kanji": "空",
+        "romaji": "kū",
+        "meaning": "sky, void",
+        "colour": "slate blue",
+        "wornBy": [
+          "Orochimaru"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "45",
+        "label": "Naruto Chapter #45"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 27,
+        "label": "Naruto Episode #27"
+      },
+      "novel": "Sasuke Shinden: Book of Sunrise",
+      "movie": "Naruto Shippūden the Movie: Bonds",
+      "game": "Naruto: Ninja Council",
+      "ova": "Hidden Leaf Village Grand Sports Festival!"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Various",
+      "status": "Alive",
+      "birthdate": "October 27",
+      "bloodType": "B",
+      "age": {
+        "Part I": "50-51",
+        "Part II": "54"
+      },
+      "height": {
+        "Part I": "179.4 cm-172 cm",
+        "Part II": "172 cm",
+        "New Era": "179.5 cm"
+      },
+      "weight": {
+        "Part I": "63.9 kg-57.3 kg",
+        "Part II": "57.3 kg"
+      },
+      "classification": [
+        {
+          "name": "Missing-nin"
+        },
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Sannin"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Founder and Leader of Otogakure"
+        },
+        {
+          "name": "Scientist"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        },
+        {
+          "name": "Root"
+        },
+        {
+          "name": "Akatsuki"
+        },
+        {
+          "id": 22,
+          "name": "Otogakure"
+        },
+        {
+          "id": 23,
+          "name": "Ryūchi Cave"
+        }
+      ],
+      "team": [
+        {
+          "id": 204,
+          "name": "Sannin"
+        },
+        {
+          "id": 158,
+          "name": "Team Orochimaru"
+        },
+        {
+          "id": 138,
+          "name": "Team Dosu"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1042,
+          "name": "Sasori"
+        },
+        {
+          "id": 1359,
+          "name": "Kabuto Yakushi"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 11,
+          "name": "Jūgo's Clan's Kekkei Genkai"
+        },
+        {
+          "id": 26,
+          "name": "Sakon and Ukon's Kekkei Genkai"
+        },
+        {
+          "id": 30,
+          "name": "Shikotsumyaku"
+        },
+        {
+          "id": 36,
+          "name": "Wood Release"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part I": "Anbu"
+      },
+      "ninjaRegistration": "002300",
+      "academyGraduationAge": "6"
+    },
+    "family": [
+      {
+        "relation": "Clone/Son",
+        "id": 744,
+        "name": "Log"
+      },
+      {
+        "relation": "Clone/Son",
+        "id": 813,
+        "name": "Mitsuki"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wood Release"
+      },
+      {
+        "name": "Yin Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Binding Snake Glare Spell"
+      },
+      {
+        "name": "Casualty Puppet"
+      },
+      {
+        "name": "Chakra Scalpel",
+        "note": "Anime only"
+      },
+      {
+        "name": "Chakra Scalpel Snake Crush",
+        "note": "with, Kabuto Yakushi"
+      },
+      {
+        "name": "Crushing Snake Constriction"
+      },
+      {
+        "name": "Dance of the Sword"
+      },
+      {
+        "name": "Demonic Illusion: False Surroundings Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Diving Snake Attack"
+      },
+      {
+        "name": "Earth Release: Hiding Like a Mole Technique"
+      },
+      {
+        "name": "Earth Release: Shadow Clone"
+      },
+      {
+        "name": "Eight Branches Technique"
+      },
+      {
+        "name": "Eight Trigrams Sealing Style",
+        "note": "Anime only"
+      },
+      {
+        "name": "Evil Greatness"
+      },
+      {
+        "name": "Fire Leaping Windhole",
+        "note": "with, Jiraiya and Tsunade"
+      },
+      {
+        "name": "Five Elements Seal"
+      },
+      {
+        "name": "Five Elements Unseal",
+        "note": "Anime only"
+      },
+      {
+        "name": "Forbidden Technique: Gedō Seal"
+      },
+      {
+        "name": "Forbidden Technique: Impure World Seal Destruction"
+      },
+      {
+        "name": "Formation of Ten Thousand Snakes"
+      },
+      {
+        "name": "Four Black Snakes Formation"
+      },
+      {
+        "name": "Four Symbols Seal",
+        "note": "Anime only"
+      },
+      {
+        "name": "Fūinjutsu Trap"
+      },
+      {
+        "name": "Genjutsu Binding"
+      },
+      {
+        "name": "Great Snake Charmer Technique"
+      },
+      {
+        "name": "Hidden Doorway Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Hidden Shadow Snake Hands"
+      },
+      {
+        "name": "Hideout Destruction Trap"
+      },
+      {
+        "name": "Hiding in Surface Technique"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Living Corpse Reincarnation"
+      },
+      {
+        "name": "Many Hidden Shadow Snake Hands"
+      },
+      {
+        "name": "Mirrored Sudden Attacker Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Orochimaru-Style Body Replacement Technique"
+      },
+      {
+        "name": "Orochimaru's Juinjutsu"
+      },
+      {
+        "name": "Raging Snakes"
+      },
+      {
+        "name": "Red-Banded Snake"
+      },
+      {
+        "name": "Regeneration Ability"
+      },
+      {
+        "name": "Reversible Technique"
+      },
+      {
+        "name": "Sannin Mode"
+      },
+      {
+        "name": "Self-Healing Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Shadow Clone Technique"
+      },
+      {
+        "name": "Shuriken Shadow Clone Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Sleeping Snake Blade Slash"
+      },
+      {
+        "name": "Slithering Snake Mode"
+      },
+      {
+        "name": "Snake Charmer Technique"
+      },
+      {
+        "name": "Snake Clone Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Snake Mouth Bind"
+      },
+      {
+        "name": "Snake Reconnection Technique"
+      },
+      {
+        "name": "Soft Neck Throw"
+      },
+      {
+        "name": "Soft Physique Modification"
+      },
+      {
+        "name": "Sound Wave Technique"
+      },
+      {
+        "name": "Space–Time Technique Formula: Underworld Turnover"
+      },
+      {
+        "name": "Substitute Technique"
+      },
+      {
+        "name": "Summoning Technique"
+      },
+      {
+        "name": "Summoning: Impure World Reincarnation"
+      },
+      {
+        "name": "Summoning: Impure World Reincarnation Hokage"
+      },
+      {
+        "name": "Summoning: Rashōmon"
+      },
+      {
+        "name": "Summoning: Triple Rashōmon"
+      },
+      {
+        "name": "Sword of Kusanagi: Blades from All Directions"
+      },
+      {
+        "name": "Sword of Kusanagi: Longsword of the Sky"
+      },
+      {
+        "name": "Sword of Kusanagi: One-Stab Death"
+      },
+      {
+        "name": "Tearing Blade"
+      },
+      {
+        "name": "Temporary Paralysis Technique"
+      },
+      {
+        "name": "Three-Seal Barrier"
+      },
+      {
+        "name": "Thunder of the Dead",
+        "note": "with, Sasuke Uchiha"
+      },
+      {
+        "name": "Twin Snakes Mutual Death Technique"
+      },
+      {
+        "name": "Two Calm Kusanagi",
+        "note": "with, Sasuke Uchiha"
+      },
+      {
+        "name": "Vanishing Facial Copy Technique"
+      },
+      {
+        "name": "White Snake"
+      },
+      {
+        "name": "White Snake Charmer Technique"
+      },
+      {
+        "name": "White Snake Possession"
+      },
+      {
+        "name": "Wind Dust Violent Wave"
+      },
+      {
+        "name": "Wind Release: Breakthrough"
+      },
+      {
+        "name": "Wind Release: Gale Palm",
+        "note": "Anime only"
+      },
+      {
+        "name": "Wind Release: Great Breakthrough"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Dōjutsu Glasses"
+      },
+      {
+        "name": "Genjutsu Pill"
+      },
+      {
+        "name": "Mind Awakening Pill"
+      },
+      {
+        "name": "Poison"
+      },
+      {
+        "name": "Senbon",
+        "note": "Game only"
+      },
+      {
+        "name": "Shinigami Mask"
+      },
+      {
+        "name": "Sword of Kusanagi (Orochimaru)"
+      }
+    ],
+    "uniqueTraits": [
+      "Can absorb chakra"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kujira",
+          "note": "Original form"
+        },
+        {
+          "name": "Yuriko Yamaguchi",
+          "note": "Shiore"
+        },
+        {
+          "name": "Mayumi Yamaguchi",
+          "note": "Child"
+        },
+        {
+          "name": "Sachiko Kojima",
+          "note": "Female body"
+        },
+        {
+          "name": "Masahiko Tanaka",
+          "note": "Fourth Kazekage"
+        }
+      ],
+      "english": [
+        {
+          "name": "Steven Blum",
+          "note": "Original form"
+        },
+        {
+          "name": "Mary Elizabeth McGlynn",
+          "note": "Shiore and Female Body"
+        },
+        {
+          "name": "Crispin Freeman",
+          "note": "Fourth Kazekage"
+        },
+        {
+          "name": "Doug Erholtz",
+          "note": "Ninja Council 3"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Orochimaru",
+      "pageId": 1534,
+      "revision": "2026-09-08T02:22:55Z"
+    }
+  },
+  {
+    "id": 1042,
+    "name": "Sasori",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/f/f7/Sasori.png"
+      }
+    ],
+    "names": {
+      "english": "Sasori",
+      "kanji": "サソリ",
+      "romaji": "Sasori",
+      "alternatives": [
+        {
+          "name": "Sasori of the Red Sand",
+          "kanji": "赤砂のサソリ",
+          "romaji": "Akasuna no Sasori"
+        },
+        {
+          "name": "Genius Modelling Specialist of the Puppet Brigade",
+          "kanji": "傀儡部隊の天才造形師",
+          "romaji": "Kugutsu Butai no Tensai Zōkeishi",
+          "englishTv": "The Legendary Master Craftsman of the Puppet Corps"
+        }
+      ]
+    },
+    "summary": "Sasori, renowned as Sasori of the Red Sand, was an S-rank missing-nin from Sunagakure's Puppet Brigade and a member of Akatsuki, where he was partnered with Orochimaru and later Deidara.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Left thumb",
+        "kanji": "玉",
+        "romaji": "gyoku",
+        "meaning": "jewel, ball, also the black king in shōgi",
+        "colour": "purple",
+        "wornBy": [
+          "Sasori",
+          "Obito Uchiha"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "247",
+        "label": "Naruto Chapter #247"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 2,
+        "label": "Naruto Shippūden Episode #2"
+      },
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Gekitō Ninja Taisen! EX",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "November 8",
+      "bloodType": "AB",
+      "age": {
+        "Part II": "35"
+      },
+      "height": {
+        "Part II": "164.1 cm"
+      },
+      "weight": {
+        "Part II": "47.3 kg"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 28,
+          "name": "Sunagakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 93,
+          "name": "Puppet Brigade"
+        },
+        {
+          "id": 113,
+          "name": "Surprise Attack and Diversion Platoon"
+        }
+      ],
+      "partner": [
+        {
+          "id": 928,
+          "name": "Orochimaru"
+        },
+        {
+          "id": 193,
+          "name": "Deidara"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRegistration": "33-001",
+      "academyGraduationAge": "7",
+      "chuninPromotionAge": "8"
+    },
+    "family": [
+      {
+        "relation": "Father",
+        "id": 1043,
+        "name": "Sasori's Father"
+      },
+      {
+        "relation": "Mother",
+        "id": 1044,
+        "name": "Sasori's Mother"
+      },
+      {
+        "relation": "Grandmother",
+        "id": 148,
+        "name": "Chiyo"
+      },
+      {
+        "relation": "Granduncle",
+        "id": 213,
+        "name": "Ebizō"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Collaboration: Ultimate Art",
+        "note": "puppet, Third Kazekage, with Deidara"
+      },
+      {
+        "name": "Combination Art",
+        "note": "puppet, Third Kazekage, with Deidara"
+      },
+      {
+        "name": "Combined Killing Art",
+        "note": "puppet, Third Kazekage, with Deidara"
+      },
+      {
+        "name": "Flame Combo",
+        "note": "puppet, Sasori"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Iron Sand Chain World",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand Drizzle",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand Funeral",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand Gathering Assault",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand Gathering Assault: Drop",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand Gathering Assault: Giant Hammer",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand Gathering Assault: Wedge",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand Mountain Range",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand Scattered Showers",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand World Method",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand World Method: Earth Break",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Iron Sand: Black Iron Wings",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Memory-Concealing Manipulative Sand Technique"
+      },
+      {
+        "name": "Poison Cloud",
+        "note": "puppet, Hiruko"
+      },
+      {
+        "name": "Poison Missile",
+        "note": "puppet, Hiruko"
+      },
+      {
+        "name": "Prepared Puppet: Eight Waves of Needles",
+        "note": "puppet, Hiruko"
+      },
+      {
+        "name": "Puppet Performance: Skilful Achievement with a Human Body"
+      },
+      {
+        "name": "Puppet Technique"
+      },
+      {
+        "name": "Puppet Technique: Bishamon",
+        "note": "puppet, Hiruko"
+      },
+      {
+        "name": "Puppet Technique: Heavy Blade Warehouse",
+        "note": "puppet, Hiruko"
+      },
+      {
+        "name": "Puppet Technique: Prosthetic Arm Senbon",
+        "note": "puppet, Hiruko"
+      },
+      {
+        "name": "Puppet: Iron Sand Prison Mass",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Red Secret Technique: Performance of a Hundred Puppets"
+      },
+      {
+        "name": "Red Secret Technique: Red Sea",
+        "note": "puppet, Sasori"
+      },
+      {
+        "name": "Sand Clone",
+        "note": "Anime only"
+      },
+      {
+        "name": "Tail Path Foolishness",
+        "note": "puppet, Hiruko"
+      },
+      {
+        "name": "Thousand Hands Manipulation Force",
+        "note": "puppet, Third Kazekage"
+      },
+      {
+        "name": "Thousand Hands Manipulation Force: Thrust",
+        "note": "puppet, Third Kazekage"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Flamethrower"
+      },
+      {
+        "name": "Hiruko"
+      },
+      {
+        "name": "Iron Sand"
+      },
+      {
+        "name": "Kama"
+      },
+      {
+        "name": "Karasu"
+      },
+      {
+        "name": "Komushi (puppet)"
+      },
+      {
+        "name": "Kuroari"
+      },
+      {
+        "name": "Mother and Father"
+      },
+      {
+        "name": "Poison"
+      },
+      {
+        "name": "Puppet Buzzsaw"
+      },
+      {
+        "name": "Sand",
+        "note": "Anime only"
+      },
+      {
+        "name": "Sanshōuo"
+      },
+      {
+        "name": "Sasori (puppet)"
+      },
+      {
+        "name": "Senbon"
+      },
+      {
+        "name": "Third Kazekage (puppet)"
+      },
+      {
+        "name": "Water Stream Shooters"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Takahiro Sakurai"
+        },
+        {
+          "name": "Yutaka Aoyama",
+          "note": "Hiruko"
+        },
+        {
+          "name": "Akiko Yajima",
+          "note": "Child"
+        }
+      ],
+      "english": [
+        {
+          "name": "Johnny Yong Bosch",
+          "note": "Adult and Child in Episode 319"
+        },
+        {
+          "name": "J.B. Blanc",
+          "note": "Hiruko"
+        },
+        {
+          "name": "Kate Higgins",
+          "note": "Child"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Sasori",
+      "pageId": 1787,
+      "revision": "2026-08-14T07:06:47Z"
+    }
+  },
+  {
+    "id": 1229,
+    "name": "Tobi (Zetsu)",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/72/Tobi.png"
+      }
+    ],
+    "names": {
+      "english": "Tobi",
+      "kanji": "トビ",
+      "romaji": "Tobi",
+      "alternatives": [
+        {
+          "name": "Guruguru",
+          "kanji": "グルグル",
+          "romaji": "Guruguru",
+          "englishTv": "Swirly"
+        }
+      ]
+    },
+    "summary": "Tobi, nicknamed Guruguru by Obito Uchiha for the swirl pattern of his face, was one of the first victims of the Infinite Tsukuyomi, and eventually was pulled from the Demonic Statue of the Outer Path by Black Zetsu.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "602",
+        "label": "Naruto Chapter #602"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 344,
+        "label": "Naruto Shippūden Episode #344"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja Storm 4"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Mutated Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "bloodType": "B",
+      "height": {
+        "Part II": "180 cm"
+      },
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 189,
+          "name": "White Zetsu Army"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1426,
+          "name": "White Zetsu"
+        },
+        {
+          "id": 1303,
+          "name": "Obito Uchiha"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 36,
+          "name": "Wood Release"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Wood Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Lightning Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Agonizing Thorn Technique (Simply Put a Kanchō)"
+      },
+      {
+        "name": "All is Suffering"
+      },
+      {
+        "name": "Bomb Setting Huge Success!"
+      },
+      {
+        "name": "Earth Release: Hiding Like a Mole Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Great Rotating Pushing Kick (Failed…)"
+      },
+      {
+        "name": "Impaling Spear Tree",
+        "note": "Game only"
+      },
+      {
+        "name": "Kanzeon Lotus King"
+      },
+      {
+        "name": "Landmine Field Technique"
+      },
+      {
+        "name": "Long-Distance Bombing"
+      },
+      {
+        "name": "Mayfly"
+      },
+      {
+        "name": "Regeneration Ability"
+      },
+      {
+        "name": "Skewering Headbutt (Me)"
+      },
+      {
+        "name": "Top Transformed Buddha"
+      },
+      {
+        "name": "Wood Release: Cutting Technique"
+      },
+      {
+        "name": "Wood Release: Great Spear Tree"
+      },
+      {
+        "name": "Wood Release: Thousand Core Piercing Technique"
+      },
+      {
+        "name": "Wood Release: Wood Human Technique"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Nobuo Tobita"
+        }
+      ],
+      "english": [
+        {
+          "name": "Travis Willingham"
+        },
+        {
+          "name": "Michael Yurchak",
+          "note": "Ultimate Ninja Storm 4"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Tobi_(Zetsu)",
+      "pageId": 103136,
+      "revision": "2026-03-21T17:50:13Z"
+    }
+  },
+  {
+    "id": 1293,
+    "name": "Itachi Uchiha",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/b/bb/Itachi.png"
+      }
+    ],
+    "names": {
+      "english": "Itachi Uchiha",
+      "kanji": "うちはイタチ",
+      "romaji": "Uchiha Itachi",
+      "alternatives": [
+        {
+          "name": "Itachi of the Sharingan",
+          "kanji": "写輪眼のイタチ",
+          "romaji": "Sharingan no Itachi",
+          "literal": "Itachi of the Copy Wheel Eye"
+        },
+        {
+          "name": "Clan Killer Itachi",
+          "kanji": "一族殺しのイタチ",
+          "romaji": "Ichizokugoroshi no Itachi"
+        }
+      ]
+    },
+    "summary": "Itachi Uchiha was a shinobi of Konohagakure's Uchiha clan who served as an Anbu Captain. He later became an international criminal after murdering his entire clan, sparing only his younger brother, Sasuke. He afterwards joined the international criminal organisation known as Akatsuki, whose activity brought him into frequent conflict with Konoha and its ninja — including Sasuke who sought to avenge their clan by killing Itachi. Following his death, Itachi's motives were revealed to be more complicated than they seemed and that his actions were only ever in the interest of his brother and village, and that he remained a loyal shinobi of Konohagakure to the very end.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Right ring finger",
+        "kanji": "朱",
+        "romaji": "shu",
+        "meaning": "vermilion, scarlet",
+        "colour": "red",
+        "wornBy": [
+          "Itachi Uchiha"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "139",
+        "label": "Naruto Chapter #139"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 80,
+        "label": "Naruto Episode #80"
+      },
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto: Ultimate Ninja 2",
+      "ova": "Hidden Leaf Village Grand Sports Festival!"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "June 9",
+      "bloodType": "AB",
+      "age": {
+        "Part I": "17-18",
+        "Part II": "21"
+      },
+      "height": {
+        "Part I": "175.2 cm",
+        "Part II": "178 cm"
+      },
+      "weight": {
+        "Part I": "57.1 kg",
+        "Part II": "58 kg"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Anbu Captain",
+          "note": "Former"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 118,
+          "name": "Team 2",
+          "note": "Anime and Novel only"
+        },
+        {
+          "id": 160,
+          "name": "Team Ro",
+          "note": "Anime only"
+        }
+      ],
+      "partner": [
+        {
+          "id": 122,
+          "name": "Jūzō Biwa",
+          "note": "Anime only"
+        },
+        {
+          "id": 421,
+          "name": "Kisame Hoshigaki"
+        }
+      ],
+      "clan": [
+        {
+          "id": 97,
+          "name": "Uchiha Clan"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 29,
+          "name": "Sharingan"
+        },
+        {
+          "id": 19,
+          "name": "Mangekyō Sharingan"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part I": "Anbu"
+      },
+      "ninjaRegistration": "012110",
+      "academyGraduationAge": "7",
+      "chuninPromotionAge": "10"
+    },
+    "family": [
+      {
+        "relation": "Father",
+        "id": 1289,
+        "name": "Fugaku Uchiha"
+      },
+      {
+        "relation": "Mother",
+        "id": 1300,
+        "name": "Mikoto Uchiha"
+      },
+      {
+        "relation": "Brother",
+        "id": 1307,
+        "name": "Sasuke Uchiha"
+      },
+      {
+        "relation": "Niece",
+        "id": 1306,
+        "name": "Sarada Uchiha"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Yin Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Amaterasu"
+      },
+      {
+        "name": "Amaterasu: Dual Layer",
+        "note": "with, Sasuke Uchiha"
+      },
+      {
+        "name": "Ame no Ohabari"
+      },
+      {
+        "name": "Black Dream"
+      },
+      {
+        "name": "Calamity Flame"
+      },
+      {
+        "name": "Chakra Suppression Technique",
+        "note": "Novel only"
+      },
+      {
+        "name": "Clone Great Explosion"
+      },
+      {
+        "name": "Crow Clone Technique"
+      },
+      {
+        "name": "Demonic Illusion: Mirage Crow"
+      },
+      {
+        "name": "Demonic Illusion: Mirror Heaven and Earth Change"
+      },
+      {
+        "name": "Demonic Illusion: Nail Paralysis"
+      },
+      {
+        "name": "Demonic Illusion: Shackling Stakes Technique"
+      },
+      {
+        "name": "Demonic Illusion: Triple Funeral"
+      },
+      {
+        "name": "Dōjutsu: Inferno"
+      },
+      {
+        "name": "Dōjutsu: Powerful Calm"
+      },
+      {
+        "name": "Dragon Flame Wild Dance",
+        "note": "with, Shisui Uchiha"
+      },
+      {
+        "name": "Early Sacrifice"
+      },
+      {
+        "name": "Ephemeral"
+      },
+      {
+        "name": "Evilest Assassins",
+        "note": "with, Kisame Hoshigaki"
+      },
+      {
+        "name": "Extinction: Still Water Slash"
+      },
+      {
+        "name": "Fantasy"
+      },
+      {
+        "name": "Fire Release: Great Blaze Ball"
+      },
+      {
+        "name": "Fire Release: Great Dragon Fire Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique: Onibi"
+      },
+      {
+        "name": "Fire Release: Phoenix Sage Fire Technique"
+      },
+      {
+        "name": "Fire Release: Phoenix Sage Flower Nail Crimson"
+      },
+      {
+        "name": "Fire Release: Uchiha Great Flame Sphere",
+        "note": "with, Sasuke Uchiha"
+      },
+      {
+        "name": "Genjutsu: Sharingan"
+      },
+      {
+        "name": "Genjutsu: Unknown Fire"
+      },
+      {
+        "name": "Genjutsu: Yaksha Shark and Birds",
+        "note": "with, Kisame Hoshigaki"
+      },
+      {
+        "name": "Hiding in Mist Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Izanami"
+      },
+      {
+        "name": "Mangekyō Shark Sword",
+        "note": "with, Kisame Hoshigaki"
+      },
+      {
+        "name": "Peregrine Falcon Drop",
+        "note": "Game only"
+      },
+      {
+        "name": "Rising Sun"
+      },
+      {
+        "name": "Sensing Barrier Pass Technique"
+      },
+      {
+        "name": "Shadow Clone Kick"
+      },
+      {
+        "name": "Shadow Clone Technique"
+      },
+      {
+        "name": "Sharingan: Negative Confusion"
+      },
+      {
+        "name": "Shrike"
+      },
+      {
+        "name": "Summoning Technique"
+      },
+      {
+        "name": "Susanoo"
+      },
+      {
+        "name": "Susanoo: Fist"
+      },
+      {
+        "name": "Susanoo: Twin Flames",
+        "note": "with, Sasuke Uchiha"
+      },
+      {
+        "name": "Susanoo: Twin Gods Lightning Advent",
+        "note": "with, Sasuke Uchiha"
+      },
+      {
+        "name": "Sword of Totsuka: Serial Slashes"
+      },
+      {
+        "name": "Sword of Totsuka: Slashing Rise"
+      },
+      {
+        "name": "Transcription Seal: Amaterasu"
+      },
+      {
+        "name": "Tsukuyomi"
+      },
+      {
+        "name": "Tsukuyomi Mode"
+      },
+      {
+        "name": "Turbulent Four Seasons",
+        "note": "with, Shisui Uchiha"
+      },
+      {
+        "name": "Uchiha Style: Dance of the Sun Halo"
+      },
+      {
+        "name": "Uchiha Style: Dance of the Sun Halo – Flame Formation"
+      },
+      {
+        "name": "Water Clone Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Starch Syrup Capturing Field",
+        "note": "Novel only"
+      },
+      {
+        "name": "Water Release: Water Bullet Technique"
+      },
+      {
+        "name": "Water Release: Water Dragon Bullet Technique"
+      },
+      {
+        "name": "Water Release: Water Fang Bullet"
+      },
+      {
+        "name": "Yasaka Magatama"
+      },
+      {
+        "name": "Yasaka Magatama: Tailed Beast Noka",
+        "note": "with, Killer B and Naruto Uzumaki"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Fūma Shuriken",
+        "note": "Game only"
+      },
+      {
+        "name": "Military Rations Pill",
+        "note": "Anime only"
+      },
+      {
+        "name": "Sword"
+      },
+      {
+        "name": "Sword of Totsuka"
+      },
+      {
+        "name": "Tantō",
+        "note": "Anime only"
+      },
+      {
+        "name": "Yata Mirror"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Hideo Ishikawa"
+        },
+        {
+          "name": "Yuka Terasaki",
+          "note": "Child"
+        }
+      ],
+      "english": [
+        {
+          "name": "Skip Stellrecht",
+          "note": "Episodes 29-30"
+        },
+        {
+          "name": "Crispin Freeman"
+        },
+        {
+          "name": "Doug Erholtz",
+          "note": "Naruto: Ninja Council 3"
+        },
+        {
+          "name": "Michelle Ruff",
+          "note": "Child"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Itachi_Uchiha",
+      "pageId": 1514,
+      "revision": "2026-10-09T18:30:10Z"
+    }
+  },
+  {
+    "id": 1303,
+    "name": "Obito Uchiha",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/4a/Obito_Uchiha.png",
+        "caption": "Obito"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/3/3c/Obito.png",
+        "caption": "Tobi"
+      }
+    ],
+    "names": {
+      "english": "Obito Uchiha",
+      "kanji": "うちはオビト",
+      "romaji": "Uchiha Obito",
+      "alternatives": [
+        {
+          "name": "Second Sage of Six Paths",
+          "kanji": "第二の六道仙人",
+          "romaji": "Daini no Rikudō Sennin"
+        },
+        {
+          "name": "Tobi",
+          "kanji": "トビ",
+          "romaji": "Tobi"
+        },
+        {
+          "name": "Madara Uchiha",
+          "kanji": "うちはマダラ",
+          "romaji": "Uchiha Madara"
+        },
+        {
+          "name": "Masked Madara",
+          "kanji": "仮面のマダラ",
+          "romaji": "Kamen no Madara"
+        },
+        {
+          "name": "Masked Man",
+          "kanji": "仮面の男",
+          "romaji": "Kamen no Otoko"
+        },
+        {
+          "name": "Saviour",
+          "kanji": "救世主",
+          "romaji": "Kyūseishu"
+        }
+      ]
+    },
+    "summary": "Obito Uchiha was a member of Konohagakure's Uchiha clan. He was believed to have died during the Third Shinobi World War, his only surviving legacy being the Sharingan he gave to his teammate, Kakashi Hatake. In truth, Obito was saved from death and trained by Madara, but the events of the war left Obito disillusioned with reality, and he inherited Madara's plan to create an ideal world. Resurfacing under the names of Tobi and Madara Uchiha himself, Obito subtly took control of the Akatsuki, using them as a means to advance his machinations, eventually going public and starting the Fourth Shinobi World War. However, towards the war's conclusion, Obito had a change of heart and, as atonement, sacrificed his life to save the same world he sought to replace.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Left thumb",
+        "kanji": "玉",
+        "romaji": "gyoku",
+        "meaning": "jewel, ball, also the black king in shōgi",
+        "colour": "purple",
+        "wornBy": [
+          "Sasori",
+          "Obito Uchiha"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "239",
+        "label": "Naruto Chapter #239"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 32,
+        "label": "Naruto Shippūden Episode #32"
+      },
+      "novel": "Naruto Jinraiden: The Day the Wolf Howled",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Heroes 3",
+      "ova": "Naruto: The Cross Roads"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "February 10",
+      "bloodType": "O",
+      "age": {
+        "Part I": "13 (Kakashi Gaiden)",
+        "Part II": "31"
+      },
+      "height": {
+        "Part I": "154.2 cm",
+        "Part II": "175 cm - 182 cm"
+      },
+      "weight": {
+        "Part I": "44.5 kg",
+        "Part II": "55.9 kg - 70.3 kg"
+      },
+      "classification": [
+        {
+          "name": "Jinchūriki"
+        },
+        {
+          "name": "Pseudo-Jinchūriki"
+        },
+        {
+          "name": "Missing-nin"
+        },
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Sensor Type"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Leader of Akatsuki"
+        },
+        {
+          "name": "Secret Leader of Kirigakure"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        },
+        {
+          "name": "Akatsuki"
+        },
+        {
+          "id": 14,
+          "name": "Kirigakure"
+        }
+      ],
+      "team": [
+        {
+          "id": 155,
+          "name": "Team Minato"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1299,
+          "name": "Madara Uchiha"
+        },
+        {
+          "id": 193,
+          "name": "Deidara"
+        },
+        {
+          "name": "Zetsu"
+        }
+      ],
+      "clan": [
+        {
+          "id": 97,
+          "name": "Uchiha Clan"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 29,
+          "name": "Sharingan"
+        },
+        {
+          "id": 19,
+          "name": "Mangekyō Sharingan"
+        },
+        {
+          "id": 36,
+          "name": "Wood Release"
+        },
+        {
+          "id": 24,
+          "name": "Rinnegan"
+        }
+      ],
+      "tailedBeast": [
+        {
+          "id": 1,
+          "name": "Ten-Tails"
+        },
+        {
+          "id": 1127,
+          "name": "Shukaku"
+        },
+        {
+          "id": 345,
+          "name": "Gyūki"
+        },
+        {
+          "name": "Kurama (Yin half)"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part I": "Chūnin"
+      },
+      "ninjaRegistration": "010886",
+      "academyGraduationAge": "9",
+      "chuninPromotionAge": "11"
+    },
+    "family": [
+      {
+        "relation": "Grandmother",
+        "id": 1304,
+        "name": "Obito's Grandmother",
+        "note": "Anime only"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wood Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Yin Release"
+      },
+      {
+        "name": "Yang Release"
+      },
+      {
+        "name": "Yin–Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Agonizing Thorn Technique (Simply Put a Kanchō)"
+      },
+      {
+        "name": "Animal Path"
+      },
+      {
+        "name": "Annihilation"
+      },
+      {
+        "name": "Ascension and Fall"
+      },
+      {
+        "name": "Asura Path"
+      },
+      {
+        "name": "Big Truth-Seeking Ball",
+        "note": "Game only"
+      },
+      {
+        "name": "Black Receiver"
+      },
+      {
+        "name": "Bomb Setting Huge Success!"
+      },
+      {
+        "name": "Chain Pull"
+      },
+      {
+        "name": "Chain Rope"
+      },
+      {
+        "name": "Chained Heaven"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Crimson Lotus Lightning Fire Technique",
+        "note": "with, Kakashi Hatake"
+      },
+      {
+        "name": "Cruelty"
+      },
+      {
+        "name": "Demonic Statue Chains"
+      },
+      {
+        "name": "Demonic Statue of the Outer Path: Palm"
+      },
+      {
+        "name": "Deva Path"
+      },
+      {
+        "name": "Divine Retribution"
+      },
+      {
+        "name": "Divine Sword: Sword of Nunoboko"
+      },
+      {
+        "name": "Drilling Bee"
+      },
+      {
+        "name": "Earth Release: Hiding Like a Mole Technique"
+      },
+      {
+        "name": "Eight Trigrams Sealing Style",
+        "note": "Manga only"
+      },
+      {
+        "name": "Ensnaring Exploding Flame"
+      },
+      {
+        "name": "Evernight"
+      },
+      {
+        "name": "Evil Deeds"
+      },
+      {
+        "name": "Explosive Landmines",
+        "note": "with, Deidara"
+      },
+      {
+        "name": "Falling Chain"
+      },
+      {
+        "name": "Fanned Calamity Flames"
+      },
+      {
+        "name": "Fanned Flame Great Fire"
+      },
+      {
+        "name": "Fire Release: Blast Wave Wild Dance"
+      },
+      {
+        "name": "Fire Release: Flame Bullet",
+        "note": "Game only"
+      },
+      {
+        "name": "Fire Release: Flame Murdering Boundary"
+      },
+      {
+        "name": "Fire Release: Great Fire Whirlwind"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique — Revolving Flame"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique: First Step"
+      },
+      {
+        "name": "Fire Release: Phoenix Sage Fire Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Flawless Three",
+        "note": "with, Rin Nohara and Kakashi Hatake"
+      },
+      {
+        "name": "Four Symbols Seal",
+        "note": "Manga only"
+      },
+      {
+        "name": "Genjutsu: Sharingan"
+      },
+      {
+        "name": "Great Rotating Pushing Kick (Failed…)"
+      },
+      {
+        "name": "Great Twin Circles"
+      },
+      {
+        "name": "Gunbai Fanned Wind",
+        "note": "Game only"
+      },
+      {
+        "name": "Hands of Flame"
+      },
+      {
+        "name": "Heaven and Earth Exploding Funeral"
+      },
+      {
+        "name": "Heaven-Bending Bomb Assault"
+      },
+      {
+        "name": "Heavenly Insertion Hammering Star",
+        "note": "with, Madara Uchiha"
+      },
+      {
+        "name": "Hero of the Sharingan"
+      },
+      {
+        "name": "Human Path"
+      },
+      {
+        "name": "Hunt"
+      },
+      {
+        "name": "Infinite Tsukuyomi"
+      },
+      {
+        "name": "Izanagi"
+      },
+      {
+        "name": "Kamui"
+      },
+      {
+        "name": "Kamui Running"
+      },
+      {
+        "name": "Kamui Running: Brutal"
+      },
+      {
+        "name": "Kick Attack Crash"
+      },
+      {
+        "name": "Landmine Field Technique"
+      },
+      {
+        "name": "Landmine Great Plain Technique"
+      },
+      {
+        "name": "Long-Distance Bombing"
+      },
+      {
+        "name": "Morning Moon"
+      },
+      {
+        "name": "Mortality of All Creation"
+      },
+      {
+        "name": "Naraka Path"
+      },
+      {
+        "name": "One Thousand Years of Death",
+        "note": "Game only"
+      },
+      {
+        "name": "Opening and Closing of the Universe"
+      },
+      {
+        "name": "Outer Path"
+      },
+      {
+        "name": "Outer Path — Samsara of Heavenly Life Technique"
+      },
+      {
+        "name": "Owl Drop"
+      },
+      {
+        "name": "Pair's Kamui",
+        "note": "with, Kakashi Hatake"
+      },
+      {
+        "name": "Preta Path"
+      },
+      {
+        "name": "Regeneration Ability"
+      },
+      {
+        "name": "Resonance Blast"
+      },
+      {
+        "name": "Rotating Funeral"
+      },
+      {
+        "name": "Sea of Trees Erosion"
+      },
+      {
+        "name": "Sealing Technique: Phantom Dragons Nine Consuming Seals"
+      },
+      {
+        "name": "Sensing Technique"
+      },
+      {
+        "name": "Six Paths of Pain"
+      },
+      {
+        "name": "Six Paths Senjutsu"
+      },
+      {
+        "name": "Six Paths Technique"
+      },
+      {
+        "name": "Six Paths Ten-Tails Coffin Seal"
+      },
+      {
+        "name": "Six Paths: Cross Lantern"
+      },
+      {
+        "name": "Six Paths: Flame Extinction Hand"
+      },
+      {
+        "name": "Six Red Yang Formation"
+      },
+      {
+        "name": "Six Red Yang Formation: Blazing Annihilation"
+      },
+      {
+        "name": "Skewering Headbutt (Me)"
+      },
+      {
+        "name": "Stake Chains"
+      },
+      {
+        "name": "Summoning Rinnegan"
+      },
+      {
+        "name": "Summoning Technique"
+      },
+      {
+        "name": "Summoning: Demonic Statue of the Outer Path"
+      },
+      {
+        "name": "Summoning: Nine-Tails"
+      },
+      {
+        "name": "Summoning: Ten-Tails"
+      },
+      {
+        "name": "Tail Releasing Method"
+      },
+      {
+        "name": "Tailed Beast Ball"
+      },
+      {
+        "name": "Tailed Beast Transfer Technique"
+      },
+      {
+        "name": "Telescope Technique"
+      },
+      {
+        "name": "Tenpenchii",
+        "note": "Game only"
+      },
+      {
+        "name": "Trinity",
+        "note": "with, Kakashi Hatake and Minato Namikaze"
+      },
+      {
+        "name": "Truth-Seeking Ball"
+      },
+      {
+        "name": "Truth-Seeking Body Flicker"
+      },
+      {
+        "name": "Truth-Seeking Scorched Earth"
+      },
+      {
+        "name": "Truth-Seeking Umbrella"
+      },
+      {
+        "name": "Truth-Seeking: Pure Shadow"
+      },
+      {
+        "name": "Truth-Seeking: Saving Light"
+      },
+      {
+        "name": "Truth-Seeking: Sever"
+      },
+      {
+        "name": "Truth-Seeking: Shining Deity"
+      },
+      {
+        "name": "Uchiha Flame Formation"
+      },
+      {
+        "name": "Uchiha Return"
+      },
+      {
+        "name": "Unknown Ability"
+      },
+      {
+        "name": "Whac-A-Mole Technique"
+      },
+      {
+        "name": "Wild Boar Spin"
+      },
+      {
+        "name": "Wood Release: Cutting Technique"
+      },
+      {
+        "name": "Wood Release: Great Forest Technique"
+      },
+      {
+        "name": "Wood Release: Great Spear Tree"
+      },
+      {
+        "name": "Wood Release: Revolt of Hell"
+      },
+      {
+        "name": "Wood Release: Wood Dragon Technique"
+      },
+      {
+        "name": "Yin–Yang Release (jutsu)"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Flash Bomb",
+        "note": "Game only"
+      },
+      {
+        "name": "Fūma Shuriken"
+      },
+      {
+        "name": "Gunbai"
+      },
+      {
+        "name": "Sword"
+      },
+      {
+        "name": "Sword of Nunoboko"
+      }
+    ],
+    "uniqueTraits": [
+      "Can absorb chakra"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Wataru Takagi"
+        },
+        {
+          "name": "Naoya Uchida",
+          "note": "Madara"
+        },
+        {
+          "name": "Sōsuke Komori",
+          "note": "Child, Kakashi Gaiden and 5 video games"
+        },
+        {
+          "name": "Megumi Han",
+          "note": "Child, Shippūden episode 343+ and 2 video games"
+        }
+      ],
+      "english": [
+        {
+          "name": "Michael Yurchak"
+        },
+        {
+          "name": "Todd Haberkorn",
+          "note": "Ultimate Ninja Storm Revolution"
+        },
+        {
+          "name": "Neil Kaplan",
+          "note": "Madara"
+        },
+        {
+          "name": "Nolan North",
+          "note": "Madara in Ultimate Ninja Storm 2"
+        },
+        {
+          "name": "Vic Mignogna",
+          "note": "Child in all media and Madara in Ultimate Ninja Impact"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Obito_Uchiha",
+      "pageId": 2671,
+      "revision": "2026-08-30T00:25:28Z"
+    }
+  },
+  {
+    "id": 1307,
+    "name": "Sasuke Uchiha",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png",
+        "caption": "Part I"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/1/13/Sasuke_Part_2.png",
+        "caption": "Part II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/b/b7/Sasuke_Part_3.png",
+        "caption": "New Era"
+      }
+    ],
+    "names": {
+      "english": "Sasuke Uchiha",
+      "kanji": "うちはサスケ",
+      "romaji": "Uchiha Sasuke",
+      "alternatives": [
+        {
+          "name": "Child of the Prophecy",
+          "kanji": "予言の子",
+          "romaji": "Yogen no Ko"
+        },
+        {
+          "name": "Sasuke of the Sharingan",
+          "kanji": "写輪眼のサスケ",
+          "romaji": "Sharingan no Sasuke"
+        },
+        {
+          "name": "Supporting Kage",
+          "kanji": "支う影",
+          "romaji": "Sasaukage",
+          "literal": "Supporting Shadow"
+        }
+      ]
+    },
+    "summary": "Sasuke Uchiha is one of the last surviving members of Konohagakure's Uchiha clan and a reincarnation and descendant of Indra Ōtsutsuki. After his older brother, Itachi, slaughtered their clan, Sasuke made it his mission in life to avenge them by killing Itachi. He is added to Team 7 upon becoming a Shinobi, and, through competition with his rival and best friend, Naruto Uzumaki, Sasuke starts developing his skills but eventually grows dissatisfied with his progress. He defects from Konoha so that he can acquire the strength needed to exact his revenge and master the Cursed Seal of Heaven. His years of seeking vengeance and the actions that followed became increasingly demanding, irrational, and isolated from others, leading him to be branded as an international criminal. After learning the truth of his brother's sacrifice, later proving instrumental in ending the Fourth Shinobi World War, and being happily redeemed by Naruto, Sasuke decides to return to Konoha and dedicate his life to help protect the village and its inhabitants, becoming referred to as the \"Supporting Kage\".",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "3",
+        "label": "Naruto Chapter #3"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 1,
+        "label": "Naruto Episode #1"
+      },
+      "novel": "Naruto: Innocent Heart, Demonic Blood",
+      "movie": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "game": "Naruto: Konoha Ninpōchō",
+      "ova": "Find the Four-Leaf Red Clover!"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie",
+      "Movie canon"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Incapacitated",
+      "birthdate": "July 23",
+      "bloodType": "AB",
+      "age": {
+        "Part I": "12-13",
+        "Part II": "16-17"
+      },
+      "height": {
+        "Part I": "150.8 cm-153.2 cm",
+        "Part II": "168 cm",
+        "Blank Period": "182 cm"
+      },
+      "weight": {
+        "Part I": "42.2 kg-43.5 kg",
+        "Part II": "52.2 kg"
+      },
+      "classification": [
+        {
+          "name": "Missing-nin"
+        },
+        {
+          "name": "Sensor Type"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Head of the Uchiha Clan"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        },
+        {
+          "id": 22,
+          "name": "Otogakure"
+        },
+        {
+          "id": 23,
+          "name": "Ryūchi Cave"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 150,
+          "name": "Team 7 (Kakashi)"
+        },
+        {
+          "id": 106,
+          "name": "Sound Four"
+        },
+        {
+          "id": 114,
+          "name": "Taka"
+        }
+      ],
+      "clan": [
+        {
+          "id": 97,
+          "name": "Uchiha Clan"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 29,
+          "name": "Sharingan"
+        },
+        {
+          "id": 19,
+          "name": "Mangekyō Sharingan"
+        },
+        {
+          "id": 24,
+          "name": "Rinnegan"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part I": "Genin"
+      },
+      "ninjaRegistration": "012606",
+      "academyGraduationAge": "12"
+    },
+    "family": [
+      {
+        "relation": "Father",
+        "id": 1289,
+        "name": "Fugaku Uchiha"
+      },
+      {
+        "relation": "Mother",
+        "id": 1300,
+        "name": "Mikoto Uchiha"
+      },
+      {
+        "relation": "Brother",
+        "id": 1293,
+        "name": "Itachi Uchiha"
+      },
+      {
+        "relation": "Daughter",
+        "id": 1306,
+        "name": "Sarada Uchiha"
+      },
+      {
+        "relation": "Wife",
+        "id": 374,
+        "name": "Sakura Haruno"
+      },
+      {
+        "relation": "Clone",
+        "id": 389,
+        "name": "Hidari",
+        "note": "Manga only"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Lightning Release",
+        "note": "Affinity; Anime only"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Afterglow"
+      },
+      {
+        "name": "Amaterasu"
+      },
+      {
+        "name": "Amaterasu: Dual Layer",
+        "note": "with, Itachi Uchiha"
+      },
+      {
+        "name": "Amaterasu: Flame Wrapping Fire"
+      },
+      {
+        "name": "Amaterasu: Lingering Fire"
+      },
+      {
+        "name": "Amenotejikara"
+      },
+      {
+        "name": "Amenotejikara: Chidori"
+      },
+      {
+        "name": "Amenotejikara: Instant"
+      },
+      {
+        "name": "Animal Path"
+      },
+      {
+        "name": "Area Scanning Technique"
+      },
+      {
+        "name": "Asura Path"
+      },
+      {
+        "name": "Banshō Ten'in",
+        "note": "Anime only"
+      },
+      {
+        "name": "Binding Snake Glare Spell"
+      },
+      {
+        "name": "Blaze Release: Dragon Flame Release Song Technique"
+      },
+      {
+        "name": "Blaze Release: Flame Formation Wall Technique"
+      },
+      {
+        "name": "Blaze Release: Great Fireball Technique"
+      },
+      {
+        "name": "Blaze Release: Honoikazuchi"
+      },
+      {
+        "name": "Blaze Release: Kagutsuchi"
+      },
+      {
+        "name": "Blaze Release: Kagutsuchi — Flying Flame"
+      },
+      {
+        "name": "Blaze Release: Kagutsuchi — Heaven Step"
+      },
+      {
+        "name": "Blaze Release: Kagutsuchi — Porcupine"
+      },
+      {
+        "name": "Blaze Release: Susanoo Kagutsuchi"
+      },
+      {
+        "name": "Blaze Release: Susanoo Ōdachi",
+        "note": "with, Jūgo"
+      },
+      {
+        "name": "Blaze Release: Yasaka Magatama"
+      },
+      {
+        "name": "Blazing Shuriken Dance",
+        "note": "with, Sakura Haruno"
+      },
+      {
+        "name": "Bolting Blossom"
+      },
+      {
+        "name": "Chibaku Tensei"
+      },
+      {
+        "name": "Chibaku Tensei: Heavenly Fall"
+      },
+      {
+        "name": "Chibaku Tensei: Kirin Twin Birth"
+      },
+      {
+        "name": "Chidori"
+      },
+      {
+        "name": "Chidori Current"
+      },
+      {
+        "name": "Chidori Current: Black Heaven Collision"
+      },
+      {
+        "name": "Chidori Light Sword"
+      },
+      {
+        "name": "Chidori Senbon"
+      },
+      {
+        "name": "Chidori Sharp Spear"
+      },
+      {
+        "name": "Chidori Sharp Spear: Heaven Step"
+      },
+      {
+        "name": "Chidori Sharp Spear: Lightning Flower"
+      },
+      {
+        "name": "Chidori True Spear"
+      },
+      {
+        "name": "Chidori: Chakra Blade"
+      },
+      {
+        "name": "Chidori: Cry of the Thundergod"
+      },
+      {
+        "name": "Chidori: Fall"
+      },
+      {
+        "name": "Chidori: Lightning Strike"
+      },
+      {
+        "name": "Chidori: Star Crusher"
+      },
+      {
+        "name": "Chidori: Thunder"
+      },
+      {
+        "name": "Chidori: Thunderclap"
+      },
+      {
+        "name": "Coercion Sharingan"
+      },
+      {
+        "name": "Combination Transformation",
+        "note": "Anime only"
+      },
+      {
+        "name": "Culminated Feelings: Wind Lightning Cherry Blossom Formation",
+        "note": "with, Naruto Uzumaki and Sakura Haruno"
+      },
+      {
+        "name": "Cursed Seal of Heaven"
+      },
+      {
+        "name": "Cursed Strength"
+      },
+      {
+        "name": "Dance of the Fireball"
+      },
+      {
+        "name": "Dance of the Kusanagi"
+      },
+      {
+        "name": "Demonic Illusion: Mirage Crow"
+      },
+      {
+        "name": "Demonic Illusion: Shackling Stakes Technique"
+      },
+      {
+        "name": "Destructive Shock",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Deva Path"
+      },
+      {
+        "name": "Earth Release: Earth Quartz Technique"
+      },
+      {
+        "name": "Earth Release: Stone Luster"
+      },
+      {
+        "name": "Evil Releasing Method"
+      },
+      {
+        "name": "Falling Fire Scatter"
+      },
+      {
+        "name": "Fire Release: Dragon Fire Technique"
+      },
+      {
+        "name": "Fire Release: Dragon Flame Release Song Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Fire Release: Flying Flame Bullet"
+      },
+      {
+        "name": "Fire Release: Great Dragon Fire Technique"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique: Falling Fire"
+      },
+      {
+        "name": "Fire Release: Great Flame Flower",
+        "note": "Game only"
+      },
+      {
+        "name": "Fire Release: Phoenix Sage Fire Technique"
+      },
+      {
+        "name": "Fire Release: Two-Headed Dragon Fire: Heaven"
+      },
+      {
+        "name": "Fire Release: Uchiha Great Flame Sphere",
+        "note": "with, Itachi Uchiha"
+      },
+      {
+        "name": "Flight"
+      },
+      {
+        "name": "Gale Bullet"
+      },
+      {
+        "name": "Genjutsu: Sharingan"
+      },
+      {
+        "name": "Great Fire Lightning Flash"
+      },
+      {
+        "name": "Heavenly Chidori: Cherry Blossom",
+        "note": "with, Sakura Uchiha"
+      },
+      {
+        "name": "Heavenly Foot of Pain: Kirin",
+        "note": "with, Sakura Haruno"
+      },
+      {
+        "name": "Hidden Shadow Snake Hands"
+      },
+      {
+        "name": "Human Path"
+      },
+      {
+        "name": "Hurricane Thunderclap — Majestic Attire Sword Stroke",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Iaidō"
+      },
+      {
+        "name": "Indra's Arrow"
+      },
+      {
+        "name": "Instant"
+      },
+      {
+        "name": "Instant Lightning: Combination Tag",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Kagutsuchi Rasengan",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Kirin"
+      },
+      {
+        "name": "Lightning Flash"
+      },
+      {
+        "name": "Lightning Flash Lion Combo"
+      },
+      {
+        "name": "Lightning Thrust",
+        "note": "with, Kakashi Hatake"
+      },
+      {
+        "name": "Lion Combo"
+      },
+      {
+        "name": "Lion Flame Bullet"
+      },
+      {
+        "name": "Lorentz Gun"
+      },
+      {
+        "name": "Magnet Release: Spiral Jet Black",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Majestic Attire: Susanoo"
+      },
+      {
+        "name": "Manipulated Shuriken Technique"
+      },
+      {
+        "name": "Manipulated Shuriken Wire Binding",
+        "note": "Game only"
+      },
+      {
+        "name": "Manipulating Windmill Triple Blades"
+      },
+      {
+        "name": "Married Couple Combination: Adamantine Impact",
+        "note": "with, Sakura Haruno"
+      },
+      {
+        "name": "Master and Student's Move",
+        "note": "with, Boruto Uzumaki"
+      },
+      {
+        "name": "Moonlight"
+      },
+      {
+        "name": "Mystical Palm Technique"
+      },
+      {
+        "name": "Naka Shrine Pass Technique"
+      },
+      {
+        "name": "Naraka Path"
+      },
+      {
+        "name": "New: Summoning Three-Way Deadlock",
+        "note": "with, Naruto Uzumaki and Sakura Haruno"
+      },
+      {
+        "name": "One Thousand Years of Death",
+        "note": "Game only"
+      },
+      {
+        "name": "Orochimaru-Style Body Replacement Technique"
+      },
+      {
+        "name": "Outer Path"
+      },
+      {
+        "name": "Pachinko Technique",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Peerless Great Flame Bullet"
+      },
+      {
+        "name": "Peerless Great Wind Formation"
+      },
+      {
+        "name": "Peerless Hurricane Formation"
+      },
+      {
+        "name": "Peregrine Falcon Drop"
+      },
+      {
+        "name": "Preta Path"
+      },
+      {
+        "name": "Prison Flame Funeral"
+      },
+      {
+        "name": "Reverse Summoning Technique"
+      },
+      {
+        "name": "Round Moon"
+      },
+      {
+        "name": "Sasuke Uchiha's Space–Time Dōjutsu"
+      },
+      {
+        "name": "Scorch Release: Halo Hurricane Jet Black Arrow Style Zero",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Sensing Technique"
+      },
+      {
+        "name": "Sexy Reverse Harem Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Sexy Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Shadow Clone Technique"
+      },
+      {
+        "name": "Shadow of the Dancing Leaf"
+      },
+      {
+        "name": "Shadow Shuriken Technique"
+      },
+      {
+        "name": "Shinra Tensei",
+        "note": "Game only"
+      },
+      {
+        "name": "Six Paths — Chibaku Tensei",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Six Paths Technique"
+      },
+      {
+        "name": "Six Paths Yin Power"
+      },
+      {
+        "name": "Six Paths: Shinra Tenkyō",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Slashing Shadow"
+      },
+      {
+        "name": "Soaring Bird Crusher"
+      },
+      {
+        "name": "Spiralling Great Fire Sphere",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Strong Fist"
+      },
+      {
+        "name": "Summoning Technique"
+      },
+      {
+        "name": "Summoning: Blue Snake Ring Prison"
+      },
+      {
+        "name": "Summoning: Lightning Flash Blade Creation"
+      },
+      {
+        "name": "Supercooled Water Technique"
+      },
+      {
+        "name": "Surging Fire Wild Dance"
+      },
+      {
+        "name": "Susanoo"
+      },
+      {
+        "name": "Susanoo: Attack"
+      },
+      {
+        "name": "Susanoo: Captive Slash"
+      },
+      {
+        "name": "Susanoo: Chidori"
+      },
+      {
+        "name": "Susanoo: Crush"
+      },
+      {
+        "name": "Susanoo: Fist"
+      },
+      {
+        "name": "Susanoo: Great Fireball Technique"
+      },
+      {
+        "name": "Susanoo: Slash"
+      },
+      {
+        "name": "Susanoo: Smash"
+      },
+      {
+        "name": "Susanoo: Twin Flames",
+        "note": "with, Itachi Uchiha"
+      },
+      {
+        "name": "Susanoo: Twin Gods Lightning Advent",
+        "note": "with, Itachi Uchiha"
+      },
+      {
+        "name": "Sword of Kagutsuchi"
+      },
+      {
+        "name": "Sword of Kagutsuchi: Sever"
+      },
+      {
+        "name": "Sword of Kagutsuchi: Stabbing Flame"
+      },
+      {
+        "name": "Sword of Kagutsuchi: Violent"
+      },
+      {
+        "name": "Sword of Kusanagi: Chidori Katana"
+      },
+      {
+        "name": "Sword of Kusanagi: Hawk Flash"
+      },
+      {
+        "name": "Takemikazuchi"
+      },
+      {
+        "name": "Team-work is Outstanding",
+        "note": "with, Naruto Uzumaki and Sakura Haruno"
+      },
+      {
+        "name": "Tenhōjimetsu",
+        "note": "with, Indra Ōtsutsuki and Madara Uchiha"
+      },
+      {
+        "name": "Thunder of the Dead",
+        "note": "with, Orochimaru"
+      },
+      {
+        "name": "Trump Card of Pair",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Two Calm Kusanagi",
+        "note": "with, Orochimaru"
+      },
+      {
+        "name": "Uchiha Cherry Blossom Thunderclap",
+        "note": "with, Sakura Haruno and Sarada Uchiha"
+      },
+      {
+        "name": "Uchiha Family: Trinity Technique",
+        "note": "with, Sakura Haruno and Sarada Uchiha"
+      },
+      {
+        "name": "Uchiha Style Blade Technique: Hagoromo",
+        "note": "Manga only"
+      },
+      {
+        "name": "Uchiha Style Kenjutsu"
+      },
+      {
+        "name": "Uchiha Style Shurikenjutsu: \"Lightning\": Triple"
+      },
+      {
+        "name": "Water Release: Water Formation Wall",
+        "note": "Novel only"
+      },
+      {
+        "name": "Water Release: Water Gun",
+        "note": "Game only"
+      },
+      {
+        "name": "Wind and Lightning Release: Typhoon Lightning Spiral",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Yasaka Magatama",
+        "note": "Game only"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Fūma Shuriken"
+      },
+      {
+        "name": "History of Warring States Seals"
+      },
+      {
+        "name": "Mind Awakening Pill"
+      },
+      {
+        "name": "Sword of Kusanagi (Orochimaru)",
+        "note": "Game only"
+      },
+      {
+        "name": "Sword of Kusanagi (Sasuke Uchiha)"
+      },
+      {
+        "name": "Sword of Kusanagi (Scientific Ninja Tool)"
+      },
+      {
+        "name": "Wire Strings"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Noriaki Sugiyama"
+        },
+        {
+          "name": "Nao Tōyama",
+          "note": "Infant and Child"
+        }
+      ],
+      "english": [
+        {
+          "name": "Yuri Lowenthal"
+        },
+        {
+          "name": "Erica Mendez",
+          "note": "Infant"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Sasuke_Uchiha",
+      "pageId": 1535,
+      "revision": "2026-10-11T08:41:14Z"
+    }
+  },
+  {
+    "id": 1309,
+    "name": "Shin Uchiha",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/c/cd/Shin_uchiha.png"
+      }
+    ],
+    "names": {
+      "english": "Shin Uchiha",
+      "kanji": "うちはシン",
+      "romaji": "Uchiha Shin"
+    },
+    "summary": "Shin Uchiha was a former test subject of Orochimaru. After developing a fixation on the Uchiha Clan, he took the Uchiha name for himself and severed ties with Orochimaru, taking his \"sons\" with him. Believing that peace was detrimental to human evolution, Shin began a plot to revive the Akatsuki so that the ensuing conflict would be a catalyst to further his beliefs.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "702",
+        "label": "Naruto Chapter #702"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 20,
+        "label": "Boruto Episode #20"
+      },
+      "novel": "Naruto Shinden: Parent and Child Day (Mentioned)",
+      "game": "Naruto: Ultimate Ninja Online"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "height": {
+        "New Era": "175.8 cm"
+      },
+      "classification": [
+        {
+          "name": "Medical-nin"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 22,
+          "name": "Otogakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 102,
+          "name": "Shin Uchiha (Clones)"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 29,
+          "name": "Sharingan"
+        },
+        {
+          "id": 19,
+          "name": "Mangekyō Sharingan"
+        }
+      ]
+    },
+    "jutsu": [
+      {
+        "name": "Object Manipulation Technique"
+      },
+      {
+        "name": "Shin Uchiha's Space–Time Dōjutsu"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Nobuyuki Hiyama"
+        }
+      ],
+      "english": [
+        {
+          "name": "Mick Wingert"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Shin_Uchiha",
+      "pageId": 170707,
+      "revision": "2026-09-10T23:52:44Z"
+    }
+  },
+  {
+    "id": 1356,
+    "name": "Yahiko",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/76/Yahiko.png"
+      }
+    ],
+    "names": {
+      "english": "Yahiko",
+      "kanji": "弥彦",
+      "romaji": "Yahiko",
+      "alternatives": [
+        {
+          "name": "Deva Path",
+          "kanji": "天道",
+          "romaji": "Tendō"
+        }
+      ]
+    },
+    "summary": "Yahiko was a shinobi from Amegakure. Alongside his fellow war orphans, Nagato and Konan, he founded and led the Akatsuki in an attempt to bring peace. Following Yahiko's death, Nagato would turn his body into the Deva Path of his Six Paths of Pain, which he used as the continued public image of Akatsuki's leadership.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "372",
+        "label": "Naruto Chapter #372"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 128,
+        "label": "Naruto Shippūden Episode #128"
+      },
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja Heroes 3",
+      "ova": "Naruto x UT"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "February 20",
+      "bloodType": "O",
+      "age": {
+        "Part II": "15"
+      },
+      "height": {
+        "Part II": "176.5 cm"
+      },
+      "weight": {
+        "Part II": "57.2 kg"
+      },
+      "occupation": [
+        {
+          "name": "Founder and leader of Akatsuki"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 0,
+          "name": "Amegakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 3,
+          "name": "Ame Orphans"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Water Release: Pillar Encirclement"
+      },
+      {
+        "name": "Water Release: Water Colliding Wave",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Water Dragon Bullet Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Wild Water Wave"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Ken'yū Horiuchi"
+        },
+        {
+          "name": "Wataru Hatano",
+          "note": "Child"
+        }
+      ],
+      "english": [
+        {
+          "name": "Troy Baker"
+        },
+        {
+          "name": "Matthew Mercer",
+          "note": "Shippūden Episode 252+"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Yahiko",
+      "pageId": 3475,
+      "revision": "2026-07-11T00:40:42Z"
+    }
+  },
+  {
+    "id": 1359,
+    "name": "Kabuto Yakushi",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/c/c9/Kabuto_Part_1.png",
+        "caption": "Part I-II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/0/0b/Kabuto_Part_II.png",
+        "caption": "Part II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/6/68/Kabuto_Part_III.png",
+        "caption": "New Era"
+      }
+    ],
+    "names": {
+      "english": "Kabuto Yakushi",
+      "kanji": "薬師カブト",
+      "romaji": "Yakushi Kabuto"
+    },
+    "summary": "Kabuto Yakushi spent most of his life as a spy working for many different individuals, organisations, and countries. His natural talents in intelligence-gathering and medicine attracted the attention of Orochimaru when he was younger, who made Kabuto his right-hand man. Although Kabuto learns much about the world under Orochimaru, he eventually decides that his life of serving others has prevented him from making an identity for himself. He thereafter seeks power and becomes a major factor in the Fourth Shinobi World War, using his higher place in the world so that he can find where in it he belongs. After finally finding himself in the world, Kabuto returns to Konohagakure to run the orphanage there, helping others such as himself to find their own way.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "39",
+        "label": "Naruto Chapter #39"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 23,
+        "label": "Naruto Episode #23"
+      },
+      "novel": "Sasuke Shinden: Book of Sunrise (Mentioned)",
+      "movie": "Naruto Shippūden the Movie: Bonds",
+      "game": "Naruto: Ultimate Ninja",
+      "ova": "Hidden Leaf Village Grand Sports Festival!"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "birthdate": "February 29",
+      "bloodType": "AB",
+      "age": {
+        "Part I": "19-20",
+        "Part II": "23-24"
+      },
+      "height": {
+        "Part I": "176.2 cm",
+        "Part II": "177 cm"
+      },
+      "weight": {
+        "Part I": "65 kg"
+      },
+      "classification": [
+        {
+          "name": "Medical-nin"
+        },
+        {
+          "name": "Missing-nin"
+        },
+        {
+          "name": "Sage"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Orochimaru's right-hand man",
+          "note": "Formerly"
+        },
+        {
+          "name": "Sasori's spy",
+          "note": "Formerly"
+        },
+        {
+          "name": "Caretaker at the Konoha Orphanage"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        },
+        {
+          "name": "Konoha Orphanage"
+        },
+        {
+          "name": "Root"
+        },
+        {
+          "id": 22,
+          "name": "Otogakure"
+        },
+        {
+          "id": 23,
+          "name": "Ryūchi Cave"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 148,
+          "name": "Team Kabuto"
+        }
+      ],
+      "partner": [
+        {
+          "id": 928,
+          "name": "Orochimaru"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 11,
+          "name": "Jūgo's Clan's Kekkei Genkai"
+        },
+        {
+          "id": 26,
+          "name": "Sakon and Ukon's Kekkei Genkai"
+        },
+        {
+          "id": 30,
+          "name": "Shikotsumyaku"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part I": "Genin"
+      },
+      "ninjaRegistration": "012140",
+      "academyGraduationAge": "10"
+    },
+    "family": [
+      {
+        "relation": "Adoptive Mother",
+        "id": 1361,
+        "name": "Nonō Yakushi"
+      },
+      {
+        "relation": "Adoptive Sons",
+        "name": "Shin Uchiha (Clones)"
+      },
+      {
+        "relation": "Adoptive Brother",
+        "id": 1332,
+        "name": "Urushi"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Fire Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Yin Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Attack of the Twin Demons"
+      },
+      {
+        "name": "Biting Cut"
+      },
+      {
+        "name": "Body Fluid Shedding Technique"
+      },
+      {
+        "name": "Body Recreation Technique"
+      },
+      {
+        "name": "Chakra Absorbing Snakes"
+      },
+      {
+        "name": "Chakra Draining Seal"
+      },
+      {
+        "name": "Chakra Scalpel"
+      },
+      {
+        "name": "Chakra Scalpel Snake Crush",
+        "note": "with, Orochimaru"
+      },
+      {
+        "name": "Chakra Scalpel: Cruelty"
+      },
+      {
+        "name": "Chakra Scalpel: Destruction"
+      },
+      {
+        "name": "Chakra Scalpel: Sever"
+      },
+      {
+        "name": "Clone Snakes"
+      },
+      {
+        "name": "Clone Snakes: Serpent Technique"
+      },
+      {
+        "name": "Concealment"
+      },
+      {
+        "name": "Dance of the Camellia",
+        "note": "Game only"
+      },
+      {
+        "name": "Dance of the Clematis: Flower",
+        "note": "Game only"
+      },
+      {
+        "name": "Dance of the Larch",
+        "note": "Game only"
+      },
+      {
+        "name": "Dance of the Seedling Fern"
+      },
+      {
+        "name": "Dead Soul Technique"
+      },
+      {
+        "name": "Death Technique: Heart Sever"
+      },
+      {
+        "name": "Death Technique: Returning Soul Play"
+      },
+      {
+        "name": "Demonic Flute: Phantom Sound Chains"
+      },
+      {
+        "name": "Demonic Flute: Phantom Spirit Wave"
+      },
+      {
+        "name": "Earth Release: Double Suicide Decapitation Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Earth Release: Earth Mausoleum Dumpling",
+        "note": "Game only"
+      },
+      {
+        "name": "Earth Release: Earth Shore Return"
+      },
+      {
+        "name": "Earth Release: Hiding Like a Mole Technique"
+      },
+      {
+        "name": "Fire Escape Technique"
+      },
+      {
+        "name": "Forbidden Technique: Dead Soul Technique"
+      },
+      {
+        "name": "Forbidden Technique: Gedō Seal"
+      },
+      {
+        "name": "Four Snakes Intimidating Thrust"
+      },
+      {
+        "name": "Genjutsu Binding",
+        "note": "Game only"
+      },
+      {
+        "name": "Great Snake Binding"
+      },
+      {
+        "name": "Hidden Shadow Snake Hands"
+      },
+      {
+        "name": "Hiding with Camouflage Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Incursion of Clarity"
+      },
+      {
+        "name": "Many Hidden Shadow Snake Hands"
+      },
+      {
+        "name": "Medical Technique: Triple Unity of Death"
+      },
+      {
+        "name": "Mystical Palm Technique"
+      },
+      {
+        "name": "Orochimaru-Style Body Replacement Technique"
+      },
+      {
+        "name": "Reverse Summoning Technique"
+      },
+      {
+        "name": "Revolt of the Demon World",
+        "note": "Game only"
+      },
+      {
+        "name": "Sage Art: Inorganic Reincarnation"
+      },
+      {
+        "name": "Sage Art: Scattering Rage Technique"
+      },
+      {
+        "name": "Sage Art: White Rage Technique"
+      },
+      {
+        "name": "Sage Mode"
+      },
+      {
+        "name": "Sage Transformation"
+      },
+      {
+        "name": "Scroll Communication Technique"
+      },
+      {
+        "name": "Sealing Technique: Spirit Sealing"
+      },
+      {
+        "name": "Secret Technique: Summoning: Mugen Castle"
+      },
+      {
+        "name": "Slithering Snake Mode"
+      },
+      {
+        "name": "Snake Charmer Technique"
+      },
+      {
+        "name": "Snake Clone Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Snake Mouth Poison Mist Technique"
+      },
+      {
+        "name": "Snake Skin Sword Stroke"
+      },
+      {
+        "name": "Soft Physique Modification"
+      },
+      {
+        "name": "Spider Sticky Gold",
+        "note": "Game only"
+      },
+      {
+        "name": "Spider War Bow: Terrible Split",
+        "note": "Game only"
+      },
+      {
+        "name": "Spider Web Unrolling"
+      },
+      {
+        "name": "Stagnate Snake Confinement"
+      },
+      {
+        "name": "Stealth Snake Hand"
+      },
+      {
+        "name": "Strange Transmission Distant Shadow"
+      },
+      {
+        "name": "Summoning Technique"
+      },
+      {
+        "name": "Summoning: Impure World Reincarnation"
+      },
+      {
+        "name": "Temple of Nirvana Technique"
+      },
+      {
+        "name": "Ten-Finger Drilling Bullets",
+        "note": "Game only"
+      },
+      {
+        "name": "Vanishing Facial Copy Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Water Release: Great Waterfall Technique"
+      },
+      {
+        "name": "Water Release: Water Bullet Technique"
+      },
+      {
+        "name": "Water Release: Water Dragon Bullet Technique"
+      },
+      {
+        "name": "Whirling Snake Tail"
+      },
+      {
+        "name": "White Snake Charmer Technique"
+      },
+      {
+        "name": "Yin Healing Wound Destruction"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Blood Increasing Pill"
+      },
+      {
+        "name": "Blowpipe"
+      },
+      {
+        "name": "Military Rations Pill"
+      },
+      {
+        "name": "Ninja Info Cards"
+      },
+      {
+        "name": "Poison"
+      },
+      {
+        "name": "Senbon",
+        "note": "Anime only"
+      },
+      {
+        "name": "Triple-Bladed Scythe",
+        "note": "Anime only"
+      }
+    ],
+    "uniqueTraits": [
+      "Can absorb chakra"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Nobutoshi Canna"
+        },
+        {
+          "name": "Mariko Mizuno",
+          "note": "Child"
+        }
+      ],
+      "english": [
+        {
+          "name": "Henry Dittman"
+        },
+        {
+          "name": "Kirk Thornton",
+          "note": "Episode 135"
+        },
+        {
+          "name": "Tara Sands",
+          "note": "Child"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kabuto_Yakushi",
+      "pageId": 2052,
+      "revision": "2026-06-19T00:18:22Z"
+    }
+  },
+  {
+    "id": 1409,
+    "name": "Yūra",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/8/85/Yura_in_sand_outfit.png"
+      }
+    ],
+    "names": {
+      "english": "Yūra",
+      "kanji": "由良",
+      "romaji": "Yūra"
+    },
+    "summary": "Yūra was a jōnin from Sunagakure. He was also a sleeper agent of Sasori.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "247",
+        "label": "Naruto Chapter #247"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 2,
+        "label": "Naruto Shippūden Episode #2"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja 5"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "October 31",
+      "bloodType": "AB",
+      "age": {
+        "Part II": "28"
+      },
+      "height": {
+        "Part II": "173 cm"
+      },
+      "weight": {
+        "Part II": "53.4 kg"
+      },
+      "occupation": [
+        {
+          "name": "Senior"
+        },
+        {
+          "name": "Sasori's subordinate"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 28,
+          "name": "Sunagakure"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 110,
+          "name": "Suna Council"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part II": "Jōnin"
+      },
+      "ninjaRegistration": "44-005"
+    },
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Hideo Watanabe"
+        }
+      ],
+      "english": [
+        {
+          "name": "Keith Silverstein"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Y%C5%ABra",
+      "pageId": 2647,
+      "revision": "2026-07-08T17:50:55Z"
+    }
+  },
+  {
+    "id": 1420,
+    "name": "Zangei",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/f/fc/Zangei.png"
+      }
+    ],
+    "names": {
+      "english": "Zangei",
+      "kanji": "ザンゲイ",
+      "romaji": "Zangei"
+    },
+    "summary": "Zangei was a bounty exchange master who ran one of the Land of Fire Bounty Stations.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "320",
+        "label": "Naruto Chapter #320"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 76,
+        "label": "Naruto Shippūden Episode #76"
+      },
+      "game": "Naruto Shippūden: Ultimate Ninja Blazing"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "age": {
+        "Part II": "36"
+      },
+      "occupation": [
+        {
+          "name": "Bounty exchange master"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        },
+        {
+          "name": "Land of Fire"
+        }
+      ]
+    },
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kōji Fujiyoshi"
+        }
+      ],
+      "english": [
+        {
+          "name": "Kirk Thornton"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Zangei",
+      "pageId": 13271,
+      "revision": "2022-06-09T16:34:37Z"
+    }
+  },
+  {
+    "id": 1425,
+    "name": "Black Zetsu",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/e9/Black_Zetsu.png"
+      }
+    ],
+    "names": {
+      "english": "Black Zetsu",
+      "kanji": "黒ゼツ",
+      "romaji": "Kuro Zetsu",
+      "alternatives": [
+        {
+          "name": "Wicked Tongue",
+          "kanji": "毒舌",
+          "romaji": "Dokuzetsu"
+        }
+      ]
+    },
+    "summary": "Black Zetsu is the physical manifestation of Kaguya Ōtsutsuki's will. Having been created to secure its creator's revival, it secretly instigated many events that shaped the shinobi world, during which it posed as Madara Uchiha's manifested will, leading to it being partnered with White Zetsu to become half of the Akatsuki member known simply as Zetsu.",
+    "akatsuki": {
+      "ring": {
+        "finger": "Right little finger",
+        "kanji": "亥",
+        "romaji": "gai",
+        "meaning": "sign of the boar",
+        "colour": "green",
+        "wornBy": [
+          "Black Zetsu"
+        ]
+      }
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "234",
+        "label": "Naruto Chapter #234"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 134,
+        "label": "Naruto Episode #134"
+      },
+      "novel": "Naruto Jinraiden: The Day the Wolf Howled",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja 4",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Artificial Human",
+      "status": "Incapacitated",
+      "classification": [
+        {
+          "name": "Jinchūriki"
+        },
+        {
+          "name": "S-rank"
+        },
+        {
+          "name": "Sensor Type"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Akatsuki spy"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "partner": [
+        {
+          "id": 940,
+          "name": "Kaguya Ōtsutsuki"
+        },
+        {
+          "id": 1426,
+          "name": "White Zetsu"
+        },
+        {
+          "id": 1303,
+          "name": "Obito Uchiha"
+        },
+        {
+          "id": 1299,
+          "name": "Madara Uchiha"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 36,
+          "name": "Wood Release"
+        },
+        {
+          "id": 24,
+          "name": "Rinnegan"
+        },
+        {
+          "id": 29,
+          "name": "Sharingan"
+        },
+        {
+          "id": 19,
+          "name": "Mangekyō Sharingan"
+        }
+      ],
+      "tailedBeast": [
+        {
+          "name": "Kurama (Yin half)"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 940,
+        "name": "Kaguya Ōtsutsuki"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Wood Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Yin Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "All-Killing Ash Bones"
+      },
+      {
+        "name": "Black Receiver"
+      },
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Event Recording"
+      },
+      {
+        "name": "Hiding in Surface Technique"
+      },
+      {
+        "name": "Hiding with Camouflage Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Kamui"
+      },
+      {
+        "name": "Kuramitsuha"
+      },
+      {
+        "name": "Magatsuhi no Kami"
+      },
+      {
+        "name": "Mayfly"
+      },
+      {
+        "name": "Mayfly: Antlion"
+      },
+      {
+        "name": "Possession"
+      },
+      {
+        "name": "Projection Technique"
+      },
+      {
+        "name": "Sea of Trees Erosion"
+      },
+      {
+        "name": "Sensing Technique"
+      },
+      {
+        "name": "Spore Technique"
+      },
+      {
+        "name": "Temporary Paralysis Technique"
+      },
+      {
+        "name": "Wood Release: Great Spear Tree",
+        "note": "Game only"
+      },
+      {
+        "name": "Yomotsu Hirasaka"
+      }
+    ],
+    "uniqueTraits": [
+      "Can absorb chakra"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Nobuo Tobita"
+        },
+        {
+          "name": "Kengo Kawanishi",
+          "note": "Child"
+        }
+      ],
+      "english": [
+        {
+          "name": "Travis Willingham"
+        },
+        {
+          "name": "Michael Sorich",
+          "note": "Naruto Episode 135"
+        },
+        {
+          "name": "Todd Haberkorn",
+          "note": "Child"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Black_Zetsu",
+      "pageId": 40362,
+      "revision": "2026-07-31T01:49:10Z"
+    }
+  },
+  {
+    "id": 1426,
+    "name": "White Zetsu",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/5f/White_Zetsu.png"
+      }
+    ],
+    "names": {
+      "english": "White Zetsu",
+      "kanji": "白ゼツ",
+      "romaji": "Shiro Zetsu",
+      "alternatives": [
+        {
+          "name": "Chatterbox",
+          "kanji": "饒舌",
+          "romaji": "Jōzetsu",
+          "englishTv": "Wagging Tongue"
+        }
+      ]
+    },
+    "summary": "White Zetsu was half of the Akatsuki member Zetsu, the other being Black Zetsu. He was one of the first victims of Kaguya Ōtsutsuki's Infinite Tsukuyomi, and was eventually pulled from the Demonic Statue of the Outer Path by Black Zetsu, and infused with the DNA of Hashirama Senju by Madara Uchiha.",
+    "akatsuki": {},
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "234",
+        "label": "Naruto Chapter #234"
+      },
+      "anime": {
+        "series": "Naruto",
+        "episode": 134,
+        "label": "Naruto Episode #134"
+      },
+      "novel": "Naruto Jinraiden: The Day the Wolf Howled",
+      "movie": "Road to Ninja: Naruto the Movie",
+      "game": "Naruto Shippūden: Ultimate Ninja 4",
+      "ova": "Naruto Shippūden: UNSG anime cutscenes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game",
+      "Movie"
+    ],
+    "personal": {
+      "species": "Mutated Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "bloodType": "B",
+      "height": {
+        "Part II": "177 cm"
+      },
+      "classification": [
+        {
+          "name": "S-rank"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Akatsuki Spy"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Akatsuki"
+        }
+      ],
+      "team": [
+        {
+          "id": 189,
+          "name": "White Zetsu Army"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1425,
+          "name": "Black Zetsu"
+        },
+        {
+          "id": 1303,
+          "name": "Obito Uchiha"
+        },
+        {
+          "id": 1229,
+          "name": "Tobi (Zetsu)"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 36,
+          "name": "Wood Release"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Wood Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Wind Release"
+      },
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Yin Release"
+      },
+      {
+        "name": "Yang Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Chakra Transfer Technique"
+      },
+      {
+        "name": "Horror of Akatsuki"
+      },
+      {
+        "name": "Mayfly"
+      },
+      {
+        "name": "Mayfly: Antlion"
+      },
+      {
+        "name": "Parasite Clone"
+      },
+      {
+        "name": "Regeneration Ability"
+      },
+      {
+        "name": "Spore Technique"
+      },
+      {
+        "name": "Substitute Technique"
+      },
+      {
+        "name": "Wood Release: Great Spear Tree",
+        "note": "Game only"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Samehada"
+      },
+      {
+        "name": "Triple-Bladed Scythe",
+        "note": "Movie only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Nobuo Tobita"
+        }
+      ],
+      "english": [
+        {
+          "name": "Travis Willingham"
+        },
+        {
+          "name": "Brian Beacock",
+          "note": "Naruto episode 135"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/White_Zetsu",
+      "pageId": 40363,
+      "revision": "2025-12-21T05:09:23Z"
+    }
+  },
+  {
+    "id": 1452,
+    "name": "Merz",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/6/69/Merz.png"
+      }
+    ],
+    "names": {
+      "english": "Merz",
+      "kanji": "メルツ",
+      "romaji": "Merutsu"
+    },
+    "summary": "Merz is a character from Naruto x Boruto: Ultimate Ninja Storm Connections.",
+    "akatsuki": {},
+    "debut": {
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "media": [
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "classification": [
+        {
+          "name": "Missing-nin"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 0,
+          "name": "Amegakure"
+        },
+        {
+          "name": "Zero"
+        },
+        {
+          "name": "Akatsuki"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Earth Release: Earth Crust Tearing Impact"
+      },
+      {
+        "name": "Earth Release: Rock Trail",
+        "note": "Game only"
+      },
+      {
+        "name": "Engraved Tsukuyomi",
+        "note": "with, artificial Sharingan"
+      },
+      {
+        "name": "Majestic Attire: Susanoo",
+        "note": "Game only, with, artificial Sharingan"
+      },
+      {
+        "name": "Susanoo",
+        "note": "Game only, with, artificial Sharingan"
+      },
+      {
+        "name": "Susanoo: Blade of Yachihoko",
+        "note": "with, artificial Sharingan"
+      },
+      {
+        "name": "Susanoo: Dance of the Sword",
+        "note": "with, artificial Sharingan"
+      },
+      {
+        "name": "Tsukuyomi",
+        "note": "Game only, with, artificial Sharingan"
+      },
+      {
+        "name": "Water Release: Water Dragon Bullet Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Yachihoko",
+        "note": "with, artificial Sharingan"
+      },
+      {
+        "name": "Yasaka Magatama",
+        "note": "Game only, with, artificial Sharingan"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Artificial Sharingan"
+      },
+      {
+        "name": "Kiseki"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Ryūnosuke Watanuki"
+        }
+      ],
+      "english": [
+        {
+          "name": "Kyle McCarley"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Merz",
+      "pageId": 294309,
+      "revision": "2026-08-30T01:46:21Z"
+    }
+  }
+]

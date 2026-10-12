@@ -1,0 +1,2612 @@
+[
+  {
+    "id": 17,
+    "name": "Ada",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/f/f6/Ada_Infobox_Image.png"
+      }
+    ],
+    "names": {
+      "english": "Ada",
+      "kanji": "エイダ",
+      "romaji": "Eida"
+    },
+    "summary": "Ada is a former member of Kara and a citizen of Konohagakure.",
+    "kara": {
+      "rank": "Other",
+      "role": "Cyborg whose destruction was ordered by Jigen.",
+      "status": "Survived to next iteration"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "56",
+        "label": "Boruto Chapter #56"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 287,
+        "label": "Boruto Episode #287"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Female",
+      "status": "Alive",
+      "birthdate": "June 21",
+      "age": {
+        "New Era": "16-19"
+      },
+      "affiliation": [
+        {
+          "name": "Kara"
+        },
+        {
+          "id": 16,
+          "name": "Konohagakure",
+          "note": "Manga only"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 28,
+          "name": "Senrigan"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Brother",
+        "id": 165,
+        "name": "Daemon"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Omnipotence"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kana Hanazawa"
+        }
+      ],
+      "english": [
+        {
+          "name": "Anairis Quiñones"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ada",
+      "pageId": 290541,
+      "revision": "2026-09-22T20:28:23Z"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Ao",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/72/Ao.png",
+        "caption": "Part II"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/4c/Ao_Part_III.png",
+        "caption": "New Era"
+      }
+    ],
+    "names": {
+      "english": "Ao",
+      "kanji": "青",
+      "romaji": "Ao",
+      "alternatives": [
+        {
+          "name": "Byakugan Killer",
+          "kanji": "白眼殺し",
+          "romaji": "Byakugangoroshi"
+        },
+        {
+          "name": "Grass",
+          "kanji": "草",
+          "romaji": "Kusa"
+        }
+      ]
+    },
+    "summary": "Ao was a former Anbu of Kirigakure's Hunter-nin Corps, that served as the Fifth Mizukage's right hand. For his services, he was regarded as a hero of his village, before retiring and secretly working as an Outer for Kara.",
+    "kara": {
+      "rank": "Outer",
+      "status": "Killed by Koji Kashin"
+    },
+    "debut": {
+      "manga": {
+        "series": "Naruto",
+        "type": "Chapter",
+        "number": "454",
+        "label": "Naruto Chapter #454"
+      },
+      "anime": {
+        "series": "Naruto Shippūden",
+        "episode": 199,
+        "label": "Naruto Shippūden Episode #199"
+      },
+      "novel": "Sasuke Shinden: Book of Sunrise (Mentioned)",
+      "game": "Naruto Shippūden: Ultimate Ninja Impact"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "birthdate": "August 1",
+      "bloodType": "A",
+      "age": {
+        "Part II": "46"
+      },
+      "height": {
+        "Part II": "182 cm"
+      },
+      "weight": {
+        "Part II": "70.9 kg"
+      },
+      "classification": [
+        {
+          "name": "Sensor Type"
+        },
+        {
+          "name": "Hunter-nin"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Fifth Mizukage's Bodyguard"
+        },
+        {
+          "name": "Captain of the Sensor Division of the Allied Shinobi Forces"
+        },
+        {
+          "name": "Outer"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 14,
+          "name": "Kirigakure"
+        },
+        {
+          "name": "Allied Shinobi Forces"
+        },
+        {
+          "name": "Kara"
+        }
+      ],
+      "team": [
+        {
+          "id": 100,
+          "name": "Sensor Division"
+        }
+      ],
+      "partner": [
+        {
+          "id": 384,
+          "name": "Heki"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 1,
+          "name": "Byakugan"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "Part II": "Jōnin"
+      }
+    },
+    "natureType": [
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Barrier Talisman: Armoured Eye"
+      },
+      {
+        "name": "Sensing Technique"
+      },
+      {
+        "name": "Sensing Water Sphere"
+      },
+      {
+        "name": "Water Clone Technique",
+        "note": "Game only"
+      },
+      {
+        "name": "Water Release: Azure Dragon Palm"
+      },
+      {
+        "name": "Water Release: Water Colliding Wave"
+      },
+      {
+        "name": "Water Release: Water Formation Wall",
+        "note": "Game only"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Chakra Blade"
+      },
+      {
+        "name": "Fire Gatling"
+      },
+      {
+        "name": "Jutsu Absorption Arm"
+      },
+      {
+        "name": "Mirror Drone"
+      },
+      {
+        "name": "Shinobi Gauntlet"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Tadahisa Saizen"
+        }
+      ],
+      "english": [
+        {
+          "name": "Steven Blum"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ao",
+      "pageId": 17081,
+      "revision": "2026-08-27T19:19:10Z"
+    }
+  },
+  {
+    "id": 125,
+    "name": "Boro",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/6/63/Boro.png"
+      }
+    ],
+    "names": {
+      "english": "Boro",
+      "kanji": "ボロ",
+      "romaji": "Boro",
+      "alternatives": [
+        {
+          "name": "Saviour",
+          "kanji": "救世主",
+          "romaji": "Kyūseishu"
+        },
+        {
+          "name": "Possessor of the Hyper-Regenerative Ability",
+          "kanji": "超再生能力の持ち主",
+          "romaji": "Chō Saisei Nōryoku no Mochinushi"
+        }
+      ]
+    },
+    "summary": "Boro was an Inner from the organisation Kara and the leader of an Ōtsutsuki-worshipping cult.",
+    "kara": {
+      "rank": "Inner",
+      "romanNumeral": "Ⅲ",
+      "status": "Killed by Momoshiki-possessed Boruto"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "15",
+        "label": "Boruto Chapter #15"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 157,
+        "label": "Boruto Episode #157"
+      },
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "occupation": [
+        {
+          "name": "Inner"
+        },
+        {
+          "name": "Cult Leader"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 14,
+          "name": "Lava Release"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Lava Release"
+      },
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Water Release"
+      },
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Dark Cloud"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Genjutsu Communication"
+      },
+      {
+        "name": "Great Gunpowder Attack"
+      },
+      {
+        "name": "Gunpowder Fist"
+      },
+      {
+        "name": "Kara Savagery"
+      },
+      {
+        "name": "Lava Release: Planet-Branding Blast"
+      },
+      {
+        "name": "Self-Healing Technique"
+      },
+      {
+        "name": "Water Release: Water Formation Wall"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Space-Time Gate"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kenta Miyake"
+        }
+      ],
+      "english": [
+        {
+          "name": "Dave B. Mitchell"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Boro",
+      "pageId": 274578,
+      "revision": "2026-03-18T23:13:44Z"
+    }
+  },
+  {
+    "id": 128,
+    "name": "Bug",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/7d/Bug.png"
+      }
+    ],
+    "names": {
+      "english": "Bug",
+      "kanji": "バグ",
+      "romaji": "Bagu"
+    },
+    "summary": "Bug was an Outer from the organisation Kara and a follower of an Ōtsutsuki Cult lead by Boro.",
+    "kara": {
+      "rank": "Outer",
+      "status": "Deceased due to Mamushi's Thornsoul rotting"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "56",
+        "label": "Boruto Chapter #56"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 287,
+        "label": "Boruto Episode #287"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "occupation": [
+        {
+          "name": "Outer"
+        },
+        {
+          "name": "Cultist"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Clone",
+        "id": 758,
+        "name": "Mamushi",
+        "note": "Manga only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Takumi Yamazaki"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Bug",
+      "pageId": 290542,
+      "revision": "2026-05-24T16:01:49Z"
+    }
+  },
+  {
+    "id": 159,
+    "name": "Code",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/3/38/Code.png",
+        "caption": "Generations"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/3/39/Code_TBV_Profile.png",
+        "caption": "Vortex"
+      }
+    ],
+    "names": {
+      "english": "Code",
+      "kanji": "コード",
+      "romaji": "Kōdo"
+    },
+    "summary": "Code is the last remaining Inner of the organisation Kara and its current leader after the death of its previous commander Isshiki Ōtsutsuki. Carrying Isshiki's legacy within him, he inherited the Ōtsutsuki Clan's will to become a Celestial Being and continually evolve to reach godhood with the power of the White Kāma bestowed to him by his master.",
+    "kara": {
+      "rank": "Inner",
+      "romanNumeral": "Ⅵ",
+      "role": "leader",
+      "status": "Active"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "15",
+        "label": "Boruto Chapter #15"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 157,
+        "label": "Boruto Episode #157"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "age": {
+        "New Era": "15-18"
+      },
+      "height": {
+        "New Era": "170 cm"
+      },
+      "classification": [
+        {
+          "name": "Sensor Type"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Inner"
+        },
+        {
+          "name": "Leader of Kara"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creation",
+        "name": "Fission Beings"
+      },
+      {
+        "relation": "Creation",
+        "id": 1446,
+        "name": "Jura",
+        "note": "Manga only"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Claw Mark"
+      },
+      {
+        "name": "Genjutsu Communication"
+      },
+      {
+        "name": "Kāma"
+      },
+      {
+        "name": "Reverse Scale"
+      },
+      {
+        "name": "Sensing Technique",
+        "note": "Manga only"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Microscopic Scientific Ninja Tools"
+      },
+      {
+        "name": "Space-Time Gate"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Junta Terashima"
+        }
+      ],
+      "english": [
+        {
+          "name": "Jacob Hopkins"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Code",
+      "pageId": 274580,
+      "revision": "2026-09-28T09:09:08Z"
+    }
+  },
+  {
+    "id": 165,
+    "name": "Daemon",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/2/25/Daemon_infobox.png"
+      }
+    ],
+    "names": {
+      "english": "Daemon",
+      "kanji": "デイモン",
+      "romaji": "Daimon",
+      "alternatives": [
+        {
+          "name": "Knight",
+          "kanji": "騎士",
+          "romaji": "Naito"
+        },
+        {
+          "name": "Bodyguard",
+          "kanji": "番人",
+          "romaji": "Bannin"
+        }
+      ]
+    },
+    "summary": "Daemon is a former member of Kara and a citizen of Konohagakure.",
+    "kara": {
+      "rank": "Other",
+      "role": "Cyborg whose destruction was ordered by Jigen.",
+      "status": "Survived to next iteration"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "59",
+        "label": "Boruto Chapter #59"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 289,
+        "label": "Boruto Episode #289"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "age": {
+        "New Era": "10-13"
+      },
+      "affiliation": [
+        {
+          "name": "Kara"
+        },
+        {
+          "id": 16,
+          "name": "Konohagakure",
+          "note": "Manga only"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Sister",
+        "id": 17,
+        "name": "Ada"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Reflection"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Yumiri Hanamori"
+        }
+      ],
+      "english": [
+        {
+          "name": "A.J. Beckles"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Daemon",
+      "pageId": 291173,
+      "revision": "2026-08-18T19:27:41Z"
+    }
+  },
+  {
+    "id": 192,
+    "name": "Deepa",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/6/69/Deepa.png"
+      }
+    ],
+    "names": {
+      "english": "Deepa",
+      "kanji": "ディーパ",
+      "romaji": "Dīpa"
+    },
+    "summary": "Deepa was an Inner from the organisation Kara.",
+    "kara": {
+      "rank": "Inner",
+      "romanNumeral": "Ⅶ",
+      "status": "Crushed by falling debris. Later revived and killed again by Amado",
+      "note": "Anime only"
+    },
+    "debut": {
+      "anime": {
+        "series": "Boruto",
+        "episode": 157,
+        "label": "Boruto Episode #157"
+      },
+      "game": "Naruto Mobile"
+    },
+    "media": [
+      "Anime",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "occupation": [
+        {
+          "name": "Inner"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1346,
+          "name": "Victor"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Carbon Armour"
+      },
+      {
+        "name": "Carbon Control"
+      },
+      {
+        "name": "Carbon Ring"
+      },
+      {
+        "name": "Carbon Whip"
+      },
+      {
+        "name": "Genjutsu Communication",
+        "note": "Anime only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Tetsuya Kakihara"
+        }
+      ],
+      "english": [
+        {
+          "name": "Chris Hackney"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Deepa",
+      "pageId": 285423,
+      "revision": "2025-11-04T11:30:03Z"
+    }
+  },
+  {
+    "id": 194,
+    "name": "Delta",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/7c/Delta_Infobox.png"
+      }
+    ],
+    "names": {
+      "english": "Delta",
+      "kanji": "デルタ",
+      "romaji": "Deruta",
+      "alternatives": [
+        {
+          "name": "Embodiment of the Desire for Destruction",
+          "romaji": "破壊衝動の化身"
+        }
+      ]
+    },
+    "summary": "Delta is a clone of Akebi Sanzu, and a former Inner from the organisation Kara. After her initial deactivation and Amado Sanzu's defection to Konohagakure, he would reprogram Delta to serve as an asset to protect the village.",
+    "kara": {
+      "rank": "Inner",
+      "romanNumeral": "Ⅰ",
+      "status": "Reprogrammed for Konoha's use by Amado"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "15",
+        "label": "Boruto Chapter #15"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 157,
+        "label": "Boruto Episode #157"
+      },
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Female",
+      "status": "Alive",
+      "height": {
+        "New Era": "163.6 cm"
+      },
+      "occupation": [
+        {
+          "name": "Inner",
+          "note": "Former"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        },
+        {
+          "id": 16,
+          "name": "Konohagakure",
+          "note": "Manga only"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Genetic source",
+        "id": 1026,
+        "name": "Akebi Sanzu"
+      },
+      {
+        "relation": "Creator/Father",
+        "id": 1027,
+        "name": "Amado Sanzu"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Aerobatic Strike"
+      },
+      {
+        "name": "Destruction Beam"
+      },
+      {
+        "name": "Eruption Legs"
+      },
+      {
+        "name": "Genjutsu Communication"
+      },
+      {
+        "name": "Great Crushing Funeral"
+      },
+      {
+        "name": "Kara Savagery"
+      },
+      {
+        "name": "Reverse Scale"
+      },
+      {
+        "name": "Rising Thorn"
+      },
+      {
+        "name": "Runway Booster"
+      },
+      {
+        "name": "Scale Fragment",
+        "note": "Game only"
+      },
+      {
+        "name": "Self-Destruction"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Absorbing Eye"
+      },
+      {
+        "name": "Microscopic Scientific Ninja Tools"
+      },
+      {
+        "name": "Space-Time Gate"
+      },
+      {
+        "name": "Spy Drone"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Houko Kuwashima"
+        }
+      ],
+      "english": [
+        {
+          "name": "Amber Lee Connors"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Delta",
+      "pageId": 261140,
+      "revision": "2026-04-21T11:28:46Z"
+    }
+  },
+  {
+    "id": 274,
+    "name": "Kiseru Gankubi",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/1/1f/Kiseru_Gankubi.png"
+      }
+    ],
+    "names": {
+      "english": "Kiseru Gankubi",
+      "kanji": "雁首キセル",
+      "romaji": "Gankubi Kiseru"
+    },
+    "summary": "Kiseru Gankubi is an Anbu from Konohagakure. He is a former undercover agent as an Outer of Kara.",
+    "kara": {
+      "rank": "Outer",
+      "status": "Defected (Double agent)",
+      "note": "Anime only"
+    },
+    "debut": {
+      "anime": {
+        "series": "Boruto",
+        "episode": 276,
+        "label": "Boruto Episode #276"
+      }
+    },
+    "media": [
+      "Anime"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "classification": [
+        {
+          "name": "Medical-nin"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Outer",
+          "note": "Former"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        },
+        {
+          "name": "Kara"
+        }
+      ],
+      "team": [
+        {
+          "id": 27,
+          "name": "Five Great Countries' Joint Investigation Team"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "New Era": "Anbu"
+      }
+    },
+    "natureType": [
+      {
+        "name": "Fire Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Fire Release Chakra Mode"
+      },
+      {
+        "name": "Fire Release: Deep Flame Explosion"
+      },
+      {
+        "name": "Fire Release: Flame Attack",
+        "note": "Anime only"
+      },
+      {
+        "name": "Fire Release: Flame Bullet",
+        "note": "Anime only"
+      },
+      {
+        "name": "Fire Release: Flaming Hail"
+      },
+      {
+        "name": "Fire Release: Phoenix Sage Fire Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Mystical Palm Technique",
+        "note": "Anime only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Katsunori Okai"
+        }
+      ],
+      "english": [
+        {
+          "name": "A.J. Beckles"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kiseru_Gankubi",
+      "pageId": 293434,
+      "revision": "2026-08-20T05:19:02Z"
+    }
+  },
+  {
+    "id": 283,
+    "name": "Garō",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/0/07/Gar%C5%8D.png"
+      }
+    ],
+    "names": {
+      "english": "Garō",
+      "kanji": "我婁",
+      "romaji": "Garō"
+    },
+    "summary": "Garō was a man who worked for Kara as an Outer.",
+    "kara": {
+      "rank": "Outer",
+      "status": "Killed by Kawaki"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "24",
+        "label": "Boruto Chapter #24"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 188,
+        "label": "Boruto Episode #188"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "occupation": [
+        {
+          "name": "Outer"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        }
+      ]
+    },
+    "tools": [
+      {
+        "name": "Shinobi Gauntlet"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Hiroaki Tajiri"
+        }
+      ],
+      "english": [
+        {
+          "name": "John Eric Bentley"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Gar%C5%8D",
+      "pageId": 261135,
+      "revision": "2025-06-27T22:05:38Z"
+    }
+  },
+  {
+    "id": 487,
+    "name": "Iwa Doctor",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/f/ff/Iwa_Doctor_Infobox.png"
+      }
+    ],
+    "names": {
+      "english": "Iwa Doctor",
+      "alternatives": [
+        {
+          "name": "Doctor",
+          "kanji": "ドクター",
+          "romaji": "Dokutā"
+        }
+      ]
+    },
+    "summary": "The Doctor was an Outer of Kara who worked for Victor's company in the Land of Valleys. Wanting to elevate his position, he secretly worked with the retired Third Tsuchikage Ōnoki to create the Fabrications and Akuta.",
+    "kara": {
+      "rank": "Outer",
+      "status": "Absorbed by Victor's God Tree",
+      "note": "Anime only"
+    },
+    "debut": {
+      "anime": {
+        "series": "Boruto",
+        "episode": 78,
+        "label": "Boruto Episode #78"
+      }
+    },
+    "media": [
+      "Anime"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Presumed Deceased",
+      "occupation": [
+        {
+          "name": "Doctor"
+        },
+        {
+          "name": "Outer"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 11,
+          "name": "Iwagakure"
+        },
+        {
+          "name": "Kara"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creation",
+        "id": 701,
+        "name": "Kū"
+      },
+      {
+        "relation": "Creation",
+        "id": 673,
+        "name": "Kokuyō"
+      },
+      {
+        "relation": "Creation",
+        "id": 553,
+        "name": "Kakō"
+      },
+      {
+        "relation": "Creation",
+        "id": 645,
+        "name": "Kirara"
+      },
+      {
+        "relation": "Creation",
+        "id": 1054,
+        "name": "Sekiei"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Tomohisa Asō"
+        }
+      ],
+      "english": [
+        {
+          "name": "Kyle Hebert"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Iwa_Doctor",
+      "pageId": 283291,
+      "revision": "2026-03-14T04:05:43Z"
+    }
+  },
+  {
+    "id": 510,
+    "name": "Jigen",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/5/54/Jigen_Infobox.png"
+      }
+    ],
+    "names": {
+      "english": "Jigen",
+      "kanji": "ジゲン",
+      "romaji": "Jigen"
+    },
+    "summary": "Jigen was a novice monk that had his body taken over by Isshiki Ōtsutsuki and eventually became his vessel, acting as an Inner of Kara and its surrogate leader.",
+    "kara": {
+      "rank": "Inner",
+      "romanNumeral": "Ⅳ",
+      "role": "leader's vessel",
+      "status": "Killed by Koji Kashin"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "15",
+        "label": "Boruto Chapter #15"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 157,
+        "label": "Boruto Episode #157"
+      },
+      "game": "Jumputi Heroes"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Celestial Being",
+      "sex": "Male",
+      "status": "Deceased",
+      "height": {
+        "New Era": "186 cm"
+      },
+      "occupation": [
+        {
+          "name": "Monk"
+        },
+        {
+          "name": "Vessel"
+        },
+        {
+          "name": "Inner"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Host",
+        "id": 939,
+        "name": "Isshiki Ōtsutsuki"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Kāma"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kenjirō Tsuda"
+        }
+      ],
+      "english": [
+        {
+          "name": "Keith Silverstein"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Jigen",
+      "pageId": 242558,
+      "revision": "2026-04-21T05:39:29Z"
+    }
+  },
+  {
+    "id": 600,
+    "name": "Koji Kashin",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/f/f2/Koji.png",
+        "caption": "Generations"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/ef/Koji_Part_II.png",
+        "caption": "Vortex"
+      }
+    ],
+    "names": {
+      "english": "Koji Kashin",
+      "kanji": "果心居士",
+      "romaji": "Kashin Koji",
+      "alternatives": [
+        {
+          "name": "Masked Toad User",
+          "romaji": "仮面の蝦蟇使い"
+        }
+      ]
+    },
+    "summary": "Koji Kashin is a clone of Jiraiya that was created by Amado Sanzu for the purpose of killing Isshiki Ōtsutsuki. A former Inner of Kara, he was in charge of the sector on the outskirts of the Land of Fire. At some point in the three years following Boruto Uzumaki's forced defection from Konohagakure after his life was altered, Koji became Boruto's aide and newest teacher in his quest to eliminate Code and the God Trees, involving to aid Boruto to prove his innocence and regain everything that was taken from him.",
+    "kara": {
+      "rank": "Inner",
+      "romanNumeral": "Ⅱ",
+      "status": "Defected"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "15",
+        "label": "Boruto Chapter #15"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 53,
+        "label": "Boruto Episode #53"
+      },
+      "game": "Naruto x Boruto: Ultimate Ninja Storm Connections"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "height": {
+        "New Era": "187 cm"
+      },
+      "classification": [
+        {
+          "name": "Sage"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Inner",
+          "note": "Former"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        },
+        {
+          "id": 20,
+          "name": "Mount Myōboku"
+        }
+      ],
+      "partner": [
+        {
+          "id": 1339,
+          "name": "Boruto Uzumaki"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Creator",
+        "id": 1027,
+        "name": "Amado Sanzu"
+      },
+      {
+        "relation": "Genetic template",
+        "id": 515,
+        "name": "Jiraiya"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Fire Release"
+      },
+      {
+        "name": "Earth Release"
+      },
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Big Ball Rasengan"
+      },
+      {
+        "name": "Earth Release: Swamp of the Underworld"
+      },
+      {
+        "name": "Fire Release: Big Flame Bullet"
+      },
+      {
+        "name": "Fire Release: Flame Attack"
+      },
+      {
+        "name": "Fire Release: Flame Bullet"
+      },
+      {
+        "name": "Fire Release: Hurricane Oil Flame Bullet"
+      },
+      {
+        "name": "Genjutsu Communication"
+      },
+      {
+        "name": "Kara Savagery"
+      },
+      {
+        "name": "Needle Jizō"
+      },
+      {
+        "name": "Rasengan"
+      },
+      {
+        "name": "Reverse Summoning Technique"
+      },
+      {
+        "name": "Sage Art: Five Fire Gods' Fan of Flames"
+      },
+      {
+        "name": "Sage Art: Five Fire Gods' Fan of Flames: True Fire"
+      },
+      {
+        "name": "Sage Mode"
+      },
+      {
+        "name": "Sealing Technique: Frog Suppression"
+      },
+      {
+        "name": "Shadow Clone Technique"
+      },
+      {
+        "name": "Summoning Technique"
+      },
+      {
+        "name": "Summoning: Food Cart Destroyer Technique"
+      },
+      {
+        "name": "Summoning: True Fire of the Flaming Mountain"
+      },
+      {
+        "name": "Ten Directions"
+      },
+      {
+        "name": "Toad Oil Bullet"
+      },
+      {
+        "name": "Toad Smoke Technique"
+      },
+      {
+        "name": "Toad Spying Technique"
+      },
+      {
+        "name": "True Fire of Samadhi"
+      },
+      {
+        "name": "Ultra-Big Ball Rasengan"
+      },
+      {
+        "name": "Wild Lion's Mane Technique"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Toad (Scientific Ninja Tool)"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Yūichi Nakamura"
+        }
+      ],
+      "english": [
+        {
+          "name": "Kaiji Tang"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Koji_Kashin",
+      "pageId": 244273,
+      "revision": "2026-10-06T04:01:00Z"
+    }
+  },
+  {
+    "id": 609,
+    "name": "Kawaki",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/e/ef/Kawaki_infobox.png",
+        "caption": "Generations"
+      },
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/3/33/Kawaki_Part_II.png",
+        "caption": "Vortex"
+      }
+    ],
+    "names": {
+      "english": "Kawaki",
+      "kanji": "カワキ",
+      "romaji": "Kawaki",
+      "alternatives": [
+        {
+          "name": "Vessel",
+          "kanji": "器",
+          "romaji": "Utsuwa"
+        },
+        {
+          "name": "Kawaki Uzumaki",
+          "kanji": "うずまきカワキ",
+          "romaji": "Uzumaki Kawaki"
+        }
+      ]
+    },
+    "summary": "Kawaki is a boy who was originally raised by Kara, who experimented on him for years with plans of making him the perfect vessel of Isshiki Ōtsutsuki. He is eventually rescued by Konohagakure and adopted into the family of Naruto Uzumaki. His love for Naruto and his hatred for the Ōtsutsuki Clan ultimately leads to accidentally switching lives with his adoptive brother, Boruto, causing most of the world to think of him as Kawaki Uzumaki.",
+    "kara": {
+      "rank": "Other",
+      "romanNumeral": "Ⅸ",
+      "role": "The chosen vessel for the organisation.",
+      "status": "Escaped to Konohagakure"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "1",
+        "label": "Boruto Chapter #1"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 1,
+        "label": "Boruto Episode #1"
+      },
+      "game": "Naruto x Boruto: Ninja Voltage"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Celestial Being",
+      "sex": "Male",
+      "status": "Alive",
+      "birthdate": "May 13",
+      "age": {
+        "New Era": "14-17"
+      },
+      "height": {
+        "New Era": "160 cm-183 cm"
+      },
+      "classification": [
+        {
+          "name": "Sensor Type"
+        }
+      ],
+      "occupation": [
+        {
+          "name": "Vessel"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        },
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        }
+      ],
+      "team": [
+        {
+          "id": 209,
+          "name": "Team 7 (Konohamaru)"
+        }
+      ],
+      "clan": [
+        {
+          "id": 98,
+          "name": "Uzumaki Clan",
+          "note": "By Adoption"
+        },
+        {
+          "id": 69,
+          "name": "Hyūga Clan",
+          "note": "By Adoption"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 39,
+          "name": "Kokugan"
+        }
+      ]
+    },
+    "rank": {
+      "ninjaRank": {
+        "New Era": "Genin"
+      }
+    },
+    "family": [
+      {
+        "relation": "Father",
+        "id": 667,
+        "name": "Kokatsu"
+      },
+      {
+        "relation": "Adoptive Grandfather",
+        "id": 865,
+        "name": "Minato Namikaze"
+      },
+      {
+        "relation": "Adoptive Grandmother",
+        "id": 1341,
+        "name": "Kushina Uzumaki"
+      },
+      {
+        "relation": "Adoptive Father",
+        "id": 1344,
+        "name": "Naruto Uzumaki"
+      },
+      {
+        "relation": "Adoptive Great-Grandfather",
+        "id": 434,
+        "name": "Hyūga Elder"
+      },
+      {
+        "relation": "Adoptive Grandfather",
+        "id": 436,
+        "name": "Hiashi Hyūga"
+      },
+      {
+        "relation": "Adoptive Granduncle",
+        "id": 439,
+        "name": "Hizashi Hyūga"
+      },
+      {
+        "relation": "Adoptive Grandmother",
+        "id": 438,
+        "name": "Hinata and Hanabi's Mother",
+        "note": "Anime only"
+      },
+      {
+        "relation": "Adoptive Mother",
+        "id": 437,
+        "name": "Hinata Hyūga"
+      },
+      {
+        "relation": "Adoptive Aunt",
+        "id": 435,
+        "name": "Hanabi Hyūga"
+      },
+      {
+        "relation": "Adoptive Brother",
+        "id": 1339,
+        "name": "Boruto Uzumaki"
+      },
+      {
+        "relation": "Adoptive Sister",
+        "id": 1340,
+        "name": "Himawari Uzumaki"
+      },
+      {
+        "relation": "Adoptive first cousin once removed",
+        "id": 444,
+        "name": "Neji Hyūga"
+      },
+      {
+        "relation": "Adoptive Father/Temporally Host",
+        "id": 939,
+        "name": "Isshiki Ōtsutsuki"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Fire Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Burial Arm Attack"
+      },
+      {
+        "name": "Chakra Suppression Technique"
+      },
+      {
+        "name": "Daihakoten"
+      },
+      {
+        "name": "Daikokuten"
+      },
+      {
+        "name": "Daikokuten: Collapse"
+      },
+      {
+        "name": "Daikokuten: Divine Descent"
+      },
+      {
+        "name": "Daikokuten: Shokatsu"
+      },
+      {
+        "name": "Daikokuten: Triple"
+      },
+      {
+        "name": "Fire Release: Soaring Flame Bullet Technique"
+      },
+      {
+        "name": "Great Burial Bullet"
+      },
+      {
+        "name": "Kāma"
+      },
+      {
+        "name": "Kāma: Destruction"
+      },
+      {
+        "name": "Kāma: Discharge"
+      },
+      {
+        "name": "Kāma: Great Burial Wave"
+      },
+      {
+        "name": "Kāma: Spiral",
+        "note": "with, Boruto Uzumaki"
+      },
+      {
+        "name": "Lacquer Bloom",
+        "note": "Game only"
+      },
+      {
+        "name": "Ōtsutsuki Teleportation"
+      },
+      {
+        "name": "Rasengan: \"Ensemble\"",
+        "note": "with, Naruto Uzumaki"
+      },
+      {
+        "name": "Rasengan: \"Unison\"",
+        "note": "with, Boruto Uzumaki"
+      },
+      {
+        "name": "Reverse Scale"
+      },
+      {
+        "name": "Revolving Blade Dance"
+      },
+      {
+        "name": "Scale Fragment"
+      },
+      {
+        "name": "Shadow Clone Technique"
+      },
+      {
+        "name": "Shape Transformation: Pressure"
+      },
+      {
+        "name": "Shape Transformation: Strike"
+      },
+      {
+        "name": "Sukunahikona"
+      },
+      {
+        "name": "Sukunahikona: Chaos Bloom"
+      },
+      {
+        "name": "Sukunahikona: God Hunter"
+      },
+      {
+        "name": "Sukunahikona: Instant Appearance"
+      },
+      {
+        "name": "Sukunahikona: Mighty Thrashing"
+      },
+      {
+        "name": "Sukunahikona: Rapid Succession"
+      },
+      {
+        "name": "Sukunahikona: Scale Fragment"
+      },
+      {
+        "name": "Thorn Explosion"
+      },
+      {
+        "name": "Tracking Crimson Bullet"
+      },
+      {
+        "name": "Violent Arm"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Absorbing Hand"
+      },
+      {
+        "name": "Microscopic Scientific Ninja Tools"
+      },
+      {
+        "name": "Shinobi Gauntlet",
+        "note": "Anime only"
+      },
+      {
+        "name": "Smoke-Flash Bomb",
+        "note": "Anime only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Yūma Uchida"
+        },
+        {
+          "name": "Shinya Hamazoe",
+          "note": "Boruto episode 1"
+        }
+      ],
+      "english": [
+        {
+          "name": "Michael Schwalbe"
+        },
+        {
+          "name": "Chris Niosi",
+          "note": "Boruto episode 1"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kawaki",
+      "pageId": 204845,
+      "revision": "2026-09-27T04:09:45Z"
+    }
+  },
+  {
+    "id": 912,
+    "name": "Ōga",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/0/04/%C5%8Cga.png"
+      }
+    ],
+    "names": {
+      "english": "Ōga",
+      "kanji": "オウガ",
+      "romaji": "Ōga",
+      "alternatives": [
+        {
+          "name": "Yatsume",
+          "kanji": "ヤツメ",
+          "romaji": "Yatsume"
+        }
+      ]
+    },
+    "summary": "Ōga is a former Inner and scientist of the organisation, Kara.",
+    "kara": {
+      "rank": "Inner",
+      "romanNumeral": "Ⅷ",
+      "status": "Defected",
+      "note": "Anime only"
+    },
+    "debut": {
+      "anime": {
+        "series": "Boruto",
+        "episode": 275,
+        "label": "Boruto Episode #275"
+      }
+    },
+    "media": [
+      "Anime"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Female",
+      "status": "Alive",
+      "occupation": [
+        {
+          "name": "Inner",
+          "note": "Former"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Lightning Release"
+      },
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Genjutsu Communication",
+        "note": "Anime only"
+      },
+      {
+        "name": "Labyrinth Genjutsu"
+      },
+      {
+        "name": "Lightning Release: Lightning Eel"
+      },
+      {
+        "name": "Lightning Release: Thunder Wedge"
+      },
+      {
+        "name": "Puppet Technique",
+        "note": "Anime only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Sara Matsumoto"
+        },
+        {
+          "name": "Kappei Yamaguchi",
+          "note": "Male puppet"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/%C5%8Cga",
+      "pageId": 293442,
+      "revision": "2026-04-21T05:36:37Z"
+    }
+  },
+  {
+    "id": 939,
+    "name": "Isshiki Ōtsutsuki",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/2/21/Isshiki.png"
+      }
+    ],
+    "names": {
+      "english": "Isshiki Ōtsutsuki",
+      "kanji": "大筒木イッシキ",
+      "romaji": "Ōtsutsuki Isshiki"
+    },
+    "summary": "Isshiki Ōtsutsuki was a member of the Ōtsutsuki clan's main family who originally came to Earth with Kaguya to plant a God Tree and harvest its chakra fruit. He was betrayed by Kaguya, who left him for dead, and took over the body of a novice monk named Jigen, who he also branded with a Kāma. Centuries later, he became the leader of Kara as Jigen in order to continue to carry out his original plan, as well as secure a new, better vessel in Kawaki. He was forced to resurrect in Jigen's body, and died without being able to apply a new Kāma, leading to his soul being extinguished, but not before entrusting his failed vessel and loyal follower Code with carrying on the Ōtsutsuki Will.",
+    "kara": {
+      "rank": "Inner",
+      "role": "leader",
+      "status": "Expired from improper revival; soul extinguished with no vessel"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "35",
+        "label": "Boruto Chapter #35"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 202,
+        "label": "Boruto Episode #202"
+      },
+      "game": "Naruto to Boruto: Shinobi Striker"
+    },
+    "media": [
+      "Anime",
+      "Manga",
+      "Game"
+    ],
+    "personal": {
+      "species": "Celestial Being",
+      "sex": "Male",
+      "status": "Deceased",
+      "occupation": [
+        {
+          "name": "Leader of Kara"
+        },
+        {
+          "name": "Inner"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        }
+      ],
+      "partner": [
+        {
+          "id": 940,
+          "name": "Kaguya Ōtsutsuki"
+        }
+      ],
+      "clan": [
+        {
+          "id": 104,
+          "name": "Ōtsutsuki Clan"
+        }
+      ],
+      "kekkeiGenkai": [
+        {
+          "id": 1,
+          "name": "Byakugan"
+        },
+        {
+          "id": 39,
+          "name": "Kokugan"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Adoptive Son/Vessel",
+        "id": 609,
+        "name": "Kawaki"
+      },
+      {
+        "relation": "Vessel",
+        "id": 510,
+        "name": "Jigen"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Black Holy Hammer"
+      },
+      {
+        "name": "Daihakoten"
+      },
+      {
+        "name": "Daikokuten"
+      },
+      {
+        "name": "Daikokuten: Disaster"
+      },
+      {
+        "name": "Daikokuten: Divine Descent"
+      },
+      {
+        "name": "Daikokuten: Falling Star"
+      },
+      {
+        "name": "Daikokuten: Karma Flame"
+      },
+      {
+        "name": "Daikokuten: Sukunahikona: Twin Crash"
+      },
+      {
+        "name": "Earth-Tearing Foot"
+      },
+      {
+        "name": "Genjutsu Communication"
+      },
+      {
+        "name": "Instant Earth Burial"
+      },
+      {
+        "name": "Kara Savagery"
+      },
+      {
+        "name": "Lacquer Bloom"
+      },
+      {
+        "name": "Ōtsutsuki Teleportation"
+      },
+      {
+        "name": "Piercing Funeral Foot"
+      },
+      {
+        "name": "Sukunahikona"
+      },
+      {
+        "name": "Sukunahikona: Canopy Box Drop"
+      },
+      {
+        "name": "Sukunahikona: Instant Appearance"
+      },
+      {
+        "name": "Sukunahikona: Rain of Early Summer"
+      },
+      {
+        "name": "Sukunahikona: Rapid Succession"
+      }
+    ],
+    "uniqueTraits": [
+      "Can absorb chakra"
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kenjirō Tsuda"
+        }
+      ],
+      "english": [
+        {
+          "name": "Keith Silverstein"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Isshiki_%C5%8Ctsutsuki",
+      "pageId": 277143,
+      "revision": "2026-08-26T01:19:50Z"
+    }
+  },
+  {
+    "id": 1027,
+    "name": "Amado Sanzu",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/74/Amado.png"
+      }
+    ],
+    "names": {
+      "english": "Amado Sanzu",
+      "kanji": "三途アマド",
+      "romaji": "Sanzu Amado"
+    },
+    "summary": "Amado Sanzu is a former Inner from the organisation Kara and was the head of its research and development division. He has since defected to Konohagakure, where he used a mix of bluffs and gifts to gain official citizenship for the Seventh Hokage's protection.",
+    "kara": {
+      "rank": "Inner",
+      "status": "Defected to Konohagakure"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "26",
+        "label": "Boruto Chapter #26"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 179,
+        "label": "Boruto Episode #179"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Alive",
+      "age": {
+        "New Era": "56-59"
+      },
+      "height": {
+        "New Era": "176 cm"
+      },
+      "occupation": [
+        {
+          "name": "Scientist"
+        },
+        {
+          "name": "Inner",
+          "note": "Former"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        },
+        {
+          "id": 16,
+          "name": "Konohagakure"
+        }
+      ],
+      "team": [
+        {
+          "id": 96,
+          "name": "Scientific Ninja Weapons Team"
+        }
+      ]
+    },
+    "family": [
+      {
+        "relation": "Daughter",
+        "id": 1026,
+        "name": "Akebi Sanzu"
+      },
+      {
+        "relation": "Creation/Clone Daughter",
+        "id": 194,
+        "name": "Delta"
+      },
+      {
+        "relation": "Creation",
+        "id": 600,
+        "name": "Koji Kashin"
+      }
+    ],
+    "natureType": [
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Genjutsu Communication"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Space-Time Gate"
+      },
+      {
+        "name": "Toad (Scientific Ninja Tool)",
+        "note": "Manga only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Akio Ōtsuka"
+        }
+      ],
+      "english": [
+        {
+          "name": "Greg Chun"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Amado_Sanzu",
+      "pageId": 244803,
+      "revision": "2026-08-18T19:28:22Z"
+    }
+  },
+  {
+    "id": 1247,
+    "name": "Garashi Tōno",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/4/4a/Garashi_T%C5%8Dno_Infobox.png"
+      }
+    ],
+    "names": {
+      "english": "Garashi Tōno",
+      "kanji": "唐野ガラシ",
+      "romaji": "Tōno Garashi"
+    },
+    "summary": "Garashi Tōno was a citizen of Amegakure and an Outer of Kara.",
+    "kara": {
+      "rank": "Outer",
+      "status": "Committed suicide",
+      "note": "Anime only"
+    },
+    "debut": {
+      "anime": {
+        "series": "Boruto",
+        "episode": 157,
+        "label": "Boruto Episode #157"
+      }
+    },
+    "media": [
+      "Anime"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "occupation": [
+        {
+          "name": "Outer"
+        }
+      ],
+      "affiliation": [
+        {
+          "id": 0,
+          "name": "Amegakure"
+        },
+        {
+          "name": "Kara"
+        }
+      ]
+    },
+    "jutsu": [
+      {
+        "name": "Shadow Clone Technique",
+        "note": "Anime only"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Kishō Taniyama"
+        }
+      ],
+      "english": [
+        {
+          "name": "Cory Yee"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Garashi_T%C5%8Dno",
+      "pageId": 286315,
+      "revision": "2025-10-18T03:45:31Z"
+    }
+  },
+  {
+    "id": 1346,
+    "name": "Victor",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/9/90/Victor.png"
+      }
+    ],
+    "names": {
+      "english": "Victor",
+      "kanji": "ヴィクタ",
+      "romaji": "Vikuta"
+    },
+    "summary": "Victor was an Inner from the secret organisation Kara. Formerly a shinobi, he became the president of a huge medical care manufacturing company in the Land of Valleys.",
+    "kara": {
+      "rank": "Inner",
+      "romanNumeral": "Ⅴ",
+      "status": "Killed by Koji Kashin"
+    },
+    "debut": {
+      "manga": {
+        "series": "Boruto",
+        "type": "Chapter",
+        "number": "15",
+        "label": "Boruto Chapter #15"
+      },
+      "anime": {
+        "series": "Boruto",
+        "episode": 157,
+        "label": "Boruto Episode #157"
+      }
+    },
+    "media": [
+      "Anime",
+      "Manga"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Male",
+      "status": "Deceased",
+      "occupation": [
+        {
+          "name": "Inner"
+        },
+        {
+          "name": "Medical Company President",
+          "note": "Anime only"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Kara"
+        },
+        {
+          "name": "Allied Shinobi Forces",
+          "note": "Anime only"
+        },
+        {
+          "name": "Land of Valleys",
+          "note": "Anime only"
+        }
+      ],
+      "partner": [
+        {
+          "id": 192,
+          "name": "Deepa",
+          "note": "Anime only"
+        }
+      ]
+    },
+    "natureType": [
+      {
+        "name": "Wind Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Lightning Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Earth Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Water Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Fire Release",
+        "note": "Anime only"
+      },
+      {
+        "name": "Yin Release"
+      }
+    ],
+    "jutsu": [
+      {
+        "name": "Arm Growth Technique"
+      },
+      {
+        "name": "Earth Release: Dust Storm"
+      },
+      {
+        "name": "Earth Release: Tearing Earth Turning Palm",
+        "note": "Anime only"
+      },
+      {
+        "name": "Fire Release: Great Fireball Technique",
+        "note": "Anime only"
+      },
+      {
+        "name": "Fire Release: Great Flame Flower",
+        "note": "Anime only"
+      },
+      {
+        "name": "Genjutsu Communication"
+      },
+      {
+        "name": "Lightning Release: Heavenly Formation Lightning"
+      },
+      {
+        "name": "Self-Healing Technique"
+      },
+      {
+        "name": "Water Release: Water Formation Wall",
+        "note": "Anime only"
+      },
+      {
+        "name": "Wind Release: Great Balloon"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Shinobi Gauntlet"
+      },
+      {
+        "name": "Space-Time Gate"
+      }
+    ],
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Chō"
+        }
+      ],
+      "english": [
+        {
+          "name": "Doug Stone"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Victor",
+      "pageId": 278950,
+      "revision": "2026-05-31T01:43:15Z"
+    }
+  },
+  {
+    "id": 1347,
+    "name": "Victor's Secretary",
+    "images": [
+      {
+        "url": "https://static.wikia.nocookie.net/naruto/images/7/7a/Victor%27s_Secretary_Newshot.png"
+      }
+    ],
+    "names": {
+      "english": "Victor's Secretary"
+    },
+    "summary": "This woman was the secretary to Victor at his medical manufacturing company and an Outer of Kara.",
+    "kara": {
+      "rank": "Outer",
+      "status": "Killed by Orochimaru",
+      "note": "Anime only"
+    },
+    "debut": {
+      "anime": {
+        "series": "Boruto",
+        "episode": 168,
+        "label": "Boruto Episode #168"
+      }
+    },
+    "media": [
+      "Anime"
+    ],
+    "personal": {
+      "species": "Human",
+      "sex": "Female",
+      "status": "Deceased",
+      "occupation": [
+        {
+          "name": "Secretary"
+        },
+        {
+          "name": "Outer"
+        }
+      ],
+      "affiliation": [
+        {
+          "name": "Land of Valleys"
+        },
+        {
+          "name": "Kara"
+        }
+      ]
+    },
+    "voiceActors": {
+      "japanese": [
+        {
+          "name": "Hitomi Nabatame"
+        }
+      ],
+      "english": [
+        {
+          "name": "Anairis Quiñones"
+        }
+      ]
+    },
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Victor's_Secretary",
+      "pageId": 289233,
+      "revision": "2023-02-16T17:31:44Z"
+    }
+  }
+]

@@ -1,0 +1,5193 @@
+[
+  {
+    "id": 0,
+    "name": "Amegakure",
+    "images": [],
+    "names": {
+      "english": "Amegakure",
+      "kanji": "雨隠れの里",
+      "romaji": "Amegakure no Sato",
+      "literal": "Village Hidden by Rain",
+      "englishTv": "The Village Hidden in the Rain"
+    },
+    "summary": "Amegakure is a small but highly industrialised hidden village located in an unnamed country. As its name suggests, it rains almost constantly in Amegakure and the surrounding area. All the water seemingly ends in a large lake that surrounds the village.",
+    "leaders": [
+      {
+        "id": 368,
+        "name": "Hanzō"
+      },
+      {
+        "id": 861,
+        "name": "Nagato"
+      },
+      {
+        "id": 684,
+        "name": "Konan"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/5/5b/Amegakure_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 24,
+        "name": "Ajisai"
+      },
+      {
+        "id": 105,
+        "name": "Baiu"
+      },
+      {
+        "id": 160,
+        "name": "Conch King"
+      },
+      {
+        "id": 166,
+        "name": "Daibutsu"
+      },
+      {
+        "id": 252,
+        "name": "Fusō"
+      },
+      {
+        "id": 257,
+        "name": "Fuyō"
+      },
+      {
+        "id": 368,
+        "name": "Hanzō"
+      },
+      {
+        "id": 383,
+        "name": "Heiji"
+      },
+      {
+        "id": 408,
+        "name": "Hisame"
+      },
+      {
+        "id": 448,
+        "name": "Ibuse"
+      },
+      {
+        "id": 476,
+        "name": "Ise"
+      },
+      {
+        "id": 526,
+        "name": "Kagari"
+      },
+      {
+        "id": 574,
+        "name": "Kandachi"
+      },
+      {
+        "id": 627,
+        "name": "Kie"
+      },
+      {
+        "id": 649,
+        "name": "Kirisame"
+      },
+      {
+        "id": 684,
+        "name": "Konan"
+      },
+      {
+        "id": 736,
+        "name": "Kyūsuke"
+      },
+      {
+        "id": 790,
+        "name": "Midare"
+      },
+      {
+        "id": 845,
+        "name": "Mubi"
+      },
+      {
+        "id": 854,
+        "name": "Murasame"
+      },
+      {
+        "id": 861,
+        "name": "Nagato"
+      },
+      {
+        "id": 911,
+        "name": "Oboro"
+      },
+      {
+        "id": 981,
+        "name": "Aoi Rokushō"
+      },
+      {
+        "id": 996,
+        "name": "Ryūsui"
+      },
+      {
+        "id": 1017,
+        "name": "Samidare"
+      },
+      {
+        "id": 1085,
+        "name": "Shigure"
+      },
+      {
+        "id": 1147,
+        "name": "Suiren"
+      },
+      {
+        "id": 1149,
+        "name": "Suiu"
+      },
+      {
+        "id": 1228,
+        "name": "Tezuna"
+      },
+      {
+        "id": 1247,
+        "name": "Garashi Tōno"
+      },
+      {
+        "id": 1319,
+        "name": "Ugatsu"
+      },
+      {
+        "id": 1356,
+        "name": "Yahiko"
+      },
+      {
+        "id": 1395,
+        "name": "Yūdachi"
+      },
+      {
+        "id": 1452,
+        "name": "Merz"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Amegakure",
+      "pageId": 3552,
+      "revision": "2026-07-09T06:31:17Z"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Bamboo Village",
+    "images": [],
+    "names": {
+      "english": "Bamboo Village",
+      "kanji": "竹ノ村",
+      "romaji": "Take no Mura"
+    },
+    "summary": "The Bamboo Village is a small village in the Land of Hot Water. It is surrounded by a forest of bamboo, and as such most of the village's buildings and goods are made out of bamboo.",
+    "country": "Land of Hot Water",
+    "leaders": [
+      {
+        "id": 500,
+        "name": "Iō (Bamboo Village)"
+      }
+    ],
+    "debut": {
+      "novel": "Sasuke Shinden: Book of Sunrise"
+    },
+    "characters": [
+      {
+        "id": 65,
+        "name": "Amino"
+      },
+      {
+        "id": 500,
+        "name": "Iō (Bamboo Village)"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Bamboo_Village",
+      "pageId": 220466,
+      "revision": "2026-04-01T10:33:16Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ceramic Village",
+    "images": [],
+    "names": {
+      "english": "Ceramic Village",
+      "kanji": "陶の里",
+      "romaji": "Chori no Sato"
+    },
+    "summary": "The Ceramic Village was a small village in the Land of Wind, near the border with the Land of Rivers. The area surrounding the village was not as barren as most of the country, being well-forested. Per its name, the village was famous for its ceramics, the clay for which was gathered from the surrounding area.",
+    "country": "Land of Wind",
+    "leaders": [
+      {
+        "id": 769,
+        "name": "Mashō"
+      },
+      {
+        "id": 334,
+        "name": "Gōshō"
+      }
+    ],
+    "debut": {
+      "novel": "Akatsuki Hiden: Evil Flowers in Full Bloom"
+    },
+    "characters": [
+      {
+        "id": 334,
+        "name": "Gōshō"
+      },
+      {
+        "id": 585,
+        "name": "Kanyū"
+      },
+      {
+        "id": 769,
+        "name": "Mashō"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ceramic_Village",
+      "pageId": 239443,
+      "revision": "2024-05-24T18:56:05Z"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Curtain Village",
+    "images": [],
+    "names": {
+      "english": "Curtain Village"
+    },
+    "summary": "Curtain Village is the capital of the Land of Silence. The city hosts the only black market in the region. The majority of its citizens live in poverty and crime; many former shinobi sell their headbands in exchange for money, while a select few nobility are afforded everything they want.",
+    "characters": [],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Curtain_Village",
+      "pageId": 288255,
+      "revision": "2026-04-07T13:17:30Z"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Daidai Village",
+    "images": [],
+    "names": {
+      "english": "Daidai Village"
+    },
+    "summary": "Daidai Village is a small village inhabited by the members of the Yoimura Clan.",
+    "characters": [
+      {
+        "id": 50,
+        "name": "Kankitsu Akitsuki"
+      },
+      {
+        "id": 91,
+        "name": "Asaki"
+      },
+      {
+        "id": 1378,
+        "name": "Remon Yoimura"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Daidai_Village",
+      "pageId": 276630,
+      "revision": "2024-07-13T22:12:31Z"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Genjutsu Tree Village",
+    "images": [],
+    "names": {
+      "english": "Genjutsu Tree Village"
+    },
+    "summary": "This unnamed village is hidden among special trees that produce a genjutsu-like effect, thus protecting the village from invaders. Naruto and Jiraiya came to the village to hone Naruto's genjutsu-repelling abilities. Villagers use Chilli Pepper Bombs to counter the genjutsu-like effects.",
+    "characters": [
+      {
+        "id": 1153,
+        "name": "Sukune"
+      },
+      {
+        "id": 1187,
+        "name": "Tanishi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Genjutsu_Tree_Village",
+      "pageId": 61296,
+      "revision": "2024-12-29T19:27:42Z"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Hachō Village",
+    "images": [],
+    "names": {
+      "english": "Hachō Village",
+      "kanji": "ハチョウ村",
+      "romaji": "Hachō-mura"
+    },
+    "summary": "The Hachō Village is a village lying on the outskirts of the border of the Land of Fire. They are on very friendly terms with the Tonika Village. When the village was attacked by Kabuto Yakushi in his attempt to gain access to The Hole, the villagers that were able to survive all fled to this village and the Hachō Village later sent officers to help guard the ruined village.",
+    "country": "Land of Fire",
+    "leaders": [
+      {
+        "id": 198,
+        "name": "Disonasu"
+      }
+    ],
+    "characters": [
+      {
+        "id": 198,
+        "name": "Disonasu"
+      },
+      {
+        "id": 1114,
+        "name": "Shiseru"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Hach%C5%8D_Village",
+      "pageId": 105437,
+      "revision": "2026-01-31T12:36:48Z"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Hoshigakure",
+    "images": [],
+    "names": {
+      "english": "Hoshigakure",
+      "kanji": "星隠れの里",
+      "romaji": "Hoshigakure no Sato",
+      "literal": "Village Hidden Among Stars",
+      "englishTv": "The Village Hidden in the Stars"
+    },
+    "summary": "Hoshigakure was introduced during the Star Guard Mission. It is founded by the First Hoshikage two hundred years before the start of the series and is located in the Land of Bears. It is also one of the lesser-known shinobi villages in the Naruto universe.",
+    "country": "Land of Bears",
+    "leaderTitle": "Hoshikage",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/2/23/Hoshigakure_Symbol.svg"
+    },
+    "kage": [
+      {
+        "order": 1,
+        "title": "First Hoshikage",
+        "id": 423,
+        "name": "First Hoshikage"
+      },
+      {
+        "order": 3,
+        "title": "Third Hoshikage",
+        "id": 424,
+        "name": "Third Hoshikage"
+      },
+      {
+        "order": 4,
+        "title": "Fourth Hoshikage",
+        "id": 28,
+        "name": "Akahoshi"
+      }
+    ],
+    "characters": [
+      {
+        "id": 28,
+        "name": "Akahoshi"
+      },
+      {
+        "id": 418,
+        "name": "Hokuto"
+      },
+      {
+        "id": 423,
+        "name": "First Hoshikage"
+      },
+      {
+        "id": 424,
+        "name": "Third Hoshikage"
+      },
+      {
+        "id": 427,
+        "name": "Hotarubi"
+      },
+      {
+        "id": 821,
+        "name": "Mizura"
+      },
+      {
+        "id": 884,
+        "name": "Natsuhi"
+      },
+      {
+        "id": 1116,
+        "name": "Shisō"
+      },
+      {
+        "id": 1154,
+        "name": "Sumaru"
+      },
+      {
+        "id": 1391,
+        "name": "Yotaka"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Hoshigakure",
+      "pageId": 3145,
+      "revision": "2026-01-13T22:18:34Z"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Howling Wolf Village",
+    "images": [],
+    "names": {
+      "english": "Howling Wolf Village",
+      "kanji": "狼哭の里",
+      "romaji": "Rōkoku no Sato"
+    },
+    "summary": "The Howling Wolf Village was originally a settlement of the Kodon clan. Since ancient times, the settlement was periodically attacked by Rōen, a wolf-like monster. The Kodon eventually found a way to seal Rōen, bringing peace to the region and leading non-Kodon to settle in the village. By selling medicines and offering modest shinobi services, the Howling Wolf was able to support itself as a hidden village.",
+    "country": "Land of Medicines",
+    "debut": {
+      "novel": "Naruto Jinraiden: The Day the Wolf Howled"
+    },
+    "characters": [
+      {
+        "id": 659,
+        "name": "Kina Kodon"
+      },
+      {
+        "id": 660,
+        "name": "Reishi Kodon"
+      },
+      {
+        "id": 661,
+        "name": "Tenma Kodon"
+      },
+      {
+        "id": 978,
+        "name": "Rōen"
+      },
+      {
+        "id": 1060,
+        "name": "Jiryū Sendō"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Howling_Wolf_Village",
+      "pageId": 166631,
+      "revision": "2026-03-16T18:51:21Z"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Inaho Village",
+    "images": [],
+    "names": {
+      "english": "Inaho Village",
+      "kanji": "稲穂村",
+      "romaji": "Inaho-mura",
+      "literal": "Rice Village"
+    },
+    "summary": "Inaho Village is located near the hills where Genmai was kidnapped.",
+    "debut": {
+      "ova": "Naruto: The Cross Roads"
+    },
+    "characters": [
+      {
+        "id": 300,
+        "name": "Genmai"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Inaho_Village",
+      "pageId": 77116,
+      "revision": "2026-02-08T19:38:27Z"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Ishigakure",
+    "images": [],
+    "names": {
+      "english": "Ishigakure",
+      "kanji": "石隠れの里",
+      "romaji": "Ishigakure no Sato",
+      "literal": "Village Hidden in Stones"
+    },
+    "summary": "Ishigakure is the hidden village of the country located between the Land of Earth and the Land of Wind.",
+    "characters": [
+      {
+        "id": 548,
+        "name": "Kajūra"
+      },
+      {
+        "id": 687,
+        "name": "Etoro Konjiki"
+      },
+      {
+        "id": 688,
+        "name": "Metoro Konjiki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ishigakure",
+      "pageId": 59922,
+      "revision": "2022-12-26T19:31:11Z"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Iwagakure",
+    "images": [],
+    "names": {
+      "english": "Iwagakure",
+      "kanji": "岩隠れの里",
+      "romaji": "Iwagakure no Sato",
+      "literal": "Village Hidden by Rocks",
+      "englishTv": "The Village Hidden in the Stones"
+    },
+    "summary": "Iwagakure is the hidden village of the Land of Earth. As the village of one of the Five Great Shinobi Countries, Iwagakure has a Kage as its leader known as the Tsuchikage, of which there have been four in its history. The rocky mountain ranges that surround the village provide a natural stronghold that it is very proud of.",
+    "country": "Land of Earth",
+    "leaderTitle": "Tsuchikage",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/a/a5/Iwagakure_Symbol.svg"
+    },
+    "ratings": {
+      "population": 4,
+      "military": 4,
+      "economy": 2
+    },
+    "kage": [
+      {
+        "order": 1,
+        "title": "First Tsuchikage",
+        "id": 479,
+        "name": "Ishikawa"
+      },
+      {
+        "order": 2,
+        "title": "Second Tsuchikage",
+        "id": 844,
+        "name": "Mū"
+      },
+      {
+        "order": 3,
+        "title": "Third Tsuchikage",
+        "id": 925,
+        "name": "Ōnoki"
+      },
+      {
+        "order": 4,
+        "title": "Fourth Tsuchikage",
+        "id": 725,
+        "name": "Kurotsuchi"
+      }
+    ],
+    "characters": [
+      {
+        "id": 35,
+        "name": "Akatsuchi"
+      },
+      {
+        "id": 51,
+        "name": "Akkun"
+      },
+      {
+        "id": 103,
+        "name": "Shibito Azuma"
+      },
+      {
+        "id": 117,
+        "name": "Beekeeper"
+      },
+      {
+        "id": 193,
+        "name": "Deidara"
+      },
+      {
+        "id": 254,
+        "name": "Tsubute Futaba"
+      },
+      {
+        "id": 279,
+        "name": "Gantetsu (Iwagakure)"
+      },
+      {
+        "id": 282,
+        "name": "Gari"
+      },
+      {
+        "id": 363,
+        "name": "Han"
+      },
+      {
+        "id": 479,
+        "name": "Ishikawa"
+      },
+      {
+        "id": 485,
+        "name": "Ittan"
+      },
+      {
+        "id": 487,
+        "name": "Iwa Doctor"
+      },
+      {
+        "id": 488,
+        "name": "Iwa Kunoichi"
+      },
+      {
+        "id": 489,
+        "name": "Iwaji"
+      },
+      {
+        "id": 490,
+        "name": "Iwakyō"
+      },
+      {
+        "id": 493,
+        "name": "Iwazō"
+      },
+      {
+        "id": 507,
+        "name": "Jibachi"
+      },
+      {
+        "id": 552,
+        "name": "Kakkō"
+      },
+      {
+        "id": 553,
+        "name": "Kakō"
+      },
+      {
+        "id": 645,
+        "name": "Kirara"
+      },
+      {
+        "id": 653,
+        "name": "Kitsuchi"
+      },
+      {
+        "id": 669,
+        "name": "Kokuō"
+      },
+      {
+        "id": 673,
+        "name": "Kokuyō"
+      },
+      {
+        "id": 690,
+        "name": "Kontsuchi"
+      },
+      {
+        "id": 700,
+        "name": "Kozuchi"
+      },
+      {
+        "id": 701,
+        "name": "Kū"
+      },
+      {
+        "id": 717,
+        "name": "Kurobachi"
+      },
+      {
+        "id": 725,
+        "name": "Kurotsuchi"
+      },
+      {
+        "id": 753,
+        "name": "Mahiru"
+      },
+      {
+        "id": 833,
+        "name": "Monga"
+      },
+      {
+        "id": 837,
+        "name": "Morio"
+      },
+      {
+        "id": 844,
+        "name": "Mū"
+      },
+      {
+        "id": 883,
+        "name": "Natsu"
+      },
+      {
+        "id": 925,
+        "name": "Ōnoki"
+      },
+      {
+        "id": 983,
+        "name": "Rōshi"
+      },
+      {
+        "id": 1005,
+        "name": "Sagan"
+      },
+      {
+        "id": 1054,
+        "name": "Sekiei"
+      },
+      {
+        "id": 1058,
+        "name": "Sekki"
+      },
+      {
+        "id": 1076,
+        "name": "Shamo"
+      },
+      {
+        "id": 1078,
+        "name": "Erimaki Sharo"
+      },
+      {
+        "id": 1134,
+        "name": "Son Gokū"
+      },
+      {
+        "id": 1155,
+        "name": "Sumashi"
+      },
+      {
+        "id": 1165,
+        "name": "Suzumebachi"
+      },
+      {
+        "id": 1173,
+        "name": "Taiseki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Iwagakure",
+      "pageId": 2683,
+      "revision": "2023-04-29T19:51:40Z"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Jōmae Village",
+    "images": [],
+    "names": {
+      "english": "Jōmae Village",
+      "kanji": "錠前の里",
+      "romaji": "Jōmae no Sato",
+      "literal": "Lock Village",
+      "englishTv": "The Hidden Lock Village"
+    },
+    "summary": "The Jōmae Village is an anime-only shinobi village located in the Land of Keys. This village's shinobi are experts in espionage in order to gain information for negotiations with larger, more powerful nations.",
+    "country": "Land of Keys",
+    "leaders": [
+      {
+        "id": 519,
+        "name": "Jōmae Village Head"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/a/a1/J%C5%8Dmae_Village_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 365,
+        "name": "Hanare"
+      },
+      {
+        "id": 519,
+        "name": "Jōmae Village Head"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/J%C5%8Dmae_Village",
+      "pageId": 62580,
+      "revision": "2026-01-24T14:47:01Z"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Kagerō Village",
+    "images": [],
+    "names": {
+      "english": "Kagerō Village",
+      "kanji": "陽炎の里",
+      "romaji": "Kagerō no Sato",
+      "literal": "Heat Haze Village",
+      "englishTv": "Heat Devil Village"
+    },
+    "summary": "Kagerō Village, was a small village located in the Land of Mountains.",
+    "country": "Land of Mountains",
+    "characters": [
+      {
+        "id": 302,
+        "name": "Gennō"
+      },
+      {
+        "id": 303,
+        "name": "Gennō's Son"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kager%C5%8D_Village",
+      "pageId": 5469,
+      "revision": "2026-02-12T17:08:40Z"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kirigakure",
+    "images": [],
+    "names": {
+      "english": "Kirigakure",
+      "kanji": "霧隠れの里",
+      "romaji": "Kirigakure no Sato",
+      "literal": "Village Hidden by Mist",
+      "englishTv": "The Village Hidden in the Mist"
+    },
+    "summary": "Kirigakure is the hidden village of the Land of Water. As the village of one of the Five Great Shinobi Countries, Kiri has a Kage as its leader known as the Mizukage, of which there have been six in its history. Befitting its name, the village is surrounded by a thick mist, with several mountains in the background, making it difficult to find by foreigners.",
+    "country": "Land of Water",
+    "leaderTitle": "Mizukage",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/e/e5/Kirigakure_Symbol.svg"
+    },
+    "ratings": {
+      "population": 2,
+      "military": 3,
+      "economy": 2
+    },
+    "kage": [
+      {
+        "order": 1,
+        "title": "First Mizukage",
+        "id": 134,
+        "name": "Byakuren"
+      },
+      {
+        "order": 2,
+        "title": "Second Mizukage",
+        "id": 428,
+        "name": "Gengetsu Hōzuki"
+      },
+      {
+        "order": 3,
+        "title": "Third Mizukage",
+        "id": 817,
+        "name": "Third Mizukage"
+      },
+      {
+        "order": 4,
+        "title": "Fourth Mizukage",
+        "id": 591,
+        "name": "Yagura Karatachi"
+      },
+      {
+        "order": 5,
+        "title": "Fifth Mizukage",
+        "id": 1223,
+        "name": "Mei Terumī"
+      },
+      {
+        "order": 6,
+        "title": "Sixth Mizukage",
+        "id": 152,
+        "name": "Chōjūrō"
+      }
+    ],
+    "characters": [
+      {
+        "id": 36,
+        "name": "Jinin Akebino"
+      },
+      {
+        "id": 67,
+        "name": "Amuda"
+      },
+      {
+        "id": 68,
+        "name": "Anaguma"
+      },
+      {
+        "id": 80,
+        "name": "Ao"
+      },
+      {
+        "id": 122,
+        "name": "Jūzō Biwa"
+      },
+      {
+        "id": 134,
+        "name": "Byakuren"
+      },
+      {
+        "id": 145,
+        "name": "Chino"
+      },
+      {
+        "id": 152,
+        "name": "Chōjūrō"
+      },
+      {
+        "id": 157,
+        "name": "Chūkichi"
+      },
+      {
+        "id": 223,
+        "name": "Kyohō Fuefuki"
+      },
+      {
+        "id": 276,
+        "name": "Ganryū"
+      },
+      {
+        "id": 297,
+        "name": "Gengo"
+      },
+      {
+        "id": 299,
+        "name": "Genji"
+      },
+      {
+        "id": 310,
+        "name": "Giant Clam"
+      },
+      {
+        "id": 332,
+        "name": "Gonbee"
+      },
+      {
+        "id": 338,
+        "name": "Gōzu"
+      },
+      {
+        "id": 347,
+        "name": "Tsurushi Hachiya"
+      },
+      {
+        "id": 356,
+        "name": "Haku"
+      },
+      {
+        "id": 359,
+        "name": "Hakuhyō"
+      },
+      {
+        "id": 375,
+        "name": "Harusame"
+      },
+      {
+        "id": 382,
+        "name": "Hebiichigo"
+      },
+      {
+        "id": 384,
+        "name": "Heki"
+      },
+      {
+        "id": 421,
+        "name": "Kisame Hoshigaki"
+      },
+      {
+        "id": 422,
+        "name": "Shizuma Hoshigaki"
+      },
+      {
+        "id": 428,
+        "name": "Gengetsu Hōzuki"
+      },
+      {
+        "id": 429,
+        "name": "Mangetsu Hōzuki"
+      },
+      {
+        "id": 430,
+        "name": "Suigetsu Hōzuki"
+      },
+      {
+        "id": 455,
+        "name": "Kamakiri Ikeno"
+      },
+      {
+        "id": 480,
+        "name": "Isobu"
+      },
+      {
+        "id": 523,
+        "name": "Junsai"
+      },
+      {
+        "id": 540,
+        "name": "Kahyō"
+      },
+      {
+        "id": 546,
+        "name": "Kajika"
+      },
+      {
+        "id": 590,
+        "name": "Kagura Karatachi"
+      },
+      {
+        "id": 591,
+        "name": "Yagura Karatachi"
+      },
+      {
+        "id": 598,
+        "name": "Karyū",
+        "note": "Anime only"
+      },
+      {
+        "id": 646,
+        "name": "Kiri (ninja)"
+      },
+      {
+        "id": 648,
+        "name": "Kirisaki"
+      },
+      {
+        "id": 650,
+        "name": "Kiruru"
+      },
+      {
+        "id": 664,
+        "name": "Mukai Kohinata"
+      },
+      {
+        "id": 695,
+        "name": "Kosuke"
+      },
+      {
+        "id": 716,
+        "name": "Kushimaru Kuriarare"
+      },
+      {
+        "id": 723,
+        "name": "Buntan Kurosuki"
+      },
+      {
+        "id": 724,
+        "name": "Raiga Kurosuki"
+      },
+      {
+        "id": 729,
+        "name": "Kussaku"
+      },
+      {
+        "id": 779,
+        "name": "Meizu"
+      },
+      {
+        "id": 807,
+        "name": "Miru"
+      },
+      {
+        "id": 808,
+        "name": "Misuno"
+      },
+      {
+        "id": 817,
+        "name": "Third Mizukage"
+      },
+      {
+        "id": 831,
+        "name": "Zabuza Momochi"
+      },
+      {
+        "id": 853,
+        "name": "Jinpachi Munashi"
+      },
+      {
+        "id": 907,
+        "name": "Nowaki"
+      },
+      {
+        "id": 924,
+        "name": "Ichirōta Oniyuzu"
+      },
+      {
+        "id": 926,
+        "name": "Hassaku Onomichi"
+      },
+      {
+        "id": 958,
+        "name": "Rahyō"
+      },
+      {
+        "id": 966,
+        "name": "Ranmaru"
+      },
+      {
+        "id": 975,
+        "name": "Ameyuri Ringo"
+      },
+      {
+        "id": 985,
+        "name": "Ruka"
+      },
+      {
+        "id": 1009,
+        "name": "Saiken"
+      },
+      {
+        "id": 1018,
+        "name": "Unmo Samidare"
+      },
+      {
+        "id": 1068,
+        "name": "Makinami Senka"
+      },
+      {
+        "id": 1069,
+        "name": "Sazanami Senka"
+      },
+      {
+        "id": 1070,
+        "name": "Takanami Senka"
+      },
+      {
+        "id": 1145,
+        "name": "Fuguki Suikazan"
+      },
+      {
+        "id": 1148,
+        "name": "Suiren (Kiri)"
+      },
+      {
+        "id": 1223,
+        "name": "Mei Terumī"
+      },
+      {
+        "id": 1225,
+        "name": "Tetsu"
+      },
+      {
+        "id": 1282,
+        "name": "Tsurugi"
+      },
+      {
+        "id": 1303,
+        "name": "Obito Uchiha"
+      },
+      {
+        "id": 1335,
+        "name": "Utakata"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kirigakure",
+      "pageId": 2703,
+      "revision": "2026-01-12T20:02:44Z"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Kisaragi Village",
+    "images": [],
+    "names": {
+      "english": "Kisaragi Village",
+      "kanji": "如月の里",
+      "romaji": "Kisaragi no Sato"
+    },
+    "summary": "Kisaragi Village is a village south of Konohagakure. It was the subject of attacks by bandits in league with the Shirogane clan in their search for the spirit orbs.",
+    "country": "Land of Fire",
+    "debut": {
+      "game": "Naruto: Uzumaki Chronicles 2"
+    },
+    "characters": [],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kisaragi_Village",
+      "pageId": 100344,
+      "revision": "2024-10-05T21:43:51Z"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Konohagakure",
+    "images": [],
+    "names": {
+      "english": "Konohagakure",
+      "kanji": "木ノ葉隠れの里",
+      "romaji": "Konohagakure no Sato",
+      "literal": "Village Hidden by Tree Leaves",
+      "englishTv": "The Village Hidden in the Leaves"
+    },
+    "summary": "Konohagakure is the hidden village of the Land of Fire. As the village of one of the Five Great Shinobi Countries, Konohagakure has a Kage as its leader known as the Hokage, of which there have been seven in its history. Konoha resides deep within a forest at the base of a mountain known as the Hokage Rock, which has the faces of all those who have taken the office of Hokage engraved on it.",
+    "country": "Land of Fire",
+    "leaderTitle": "Hokage",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/d/de/Konohagakure_Symbol.svg"
+    },
+    "ratings": {
+      "population": 5,
+      "military": 3,
+      "economy": 2
+    },
+    "kage": [
+      {
+        "order": 1,
+        "title": "First Hokage",
+        "id": 1063,
+        "name": "Hashirama Senju"
+      },
+      {
+        "order": 2,
+        "title": "Second Hokage",
+        "id": 1066,
+        "name": "Tobirama Senju"
+      },
+      {
+        "order": 3,
+        "title": "Third Hokage",
+        "id": 1036,
+        "name": "Hiruzen Sarutobi"
+      },
+      {
+        "order": 4,
+        "title": "Fourth Hokage",
+        "id": 865,
+        "name": "Minato Namikaze"
+      },
+      {
+        "order": 5,
+        "title": "Fifth Hokage",
+        "id": 1280,
+        "name": "Tsunade"
+      },
+      {
+        "order": 6,
+        "title": "Sixth Hokage",
+        "id": 376,
+        "name": "Kakashi Hatake"
+      },
+      {
+        "order": 7,
+        "title": "Seventh Hokage",
+        "id": 1344,
+        "name": "Naruto Uzumaki"
+      }
+    ],
+    "characters": [
+      {
+        "id": 9,
+        "name": "Harika Aburame"
+      },
+      {
+        "id": 10,
+        "name": "Muta Aburame"
+      },
+      {
+        "id": 11,
+        "name": "Shibi Aburame"
+      },
+      {
+        "id": 12,
+        "name": "Shikuro Aburame"
+      },
+      {
+        "id": 13,
+        "name": "Shino Aburame"
+      },
+      {
+        "id": 14,
+        "name": "Tatsuma Aburame"
+      },
+      {
+        "id": 15,
+        "name": "Torune Aburame"
+      },
+      {
+        "id": 16,
+        "name": "Yōji Aburame"
+      },
+      {
+        "id": 17,
+        "name": "Ada",
+        "note": "Manga only"
+      },
+      {
+        "id": 26,
+        "name": "Manabu Akado"
+      },
+      {
+        "id": 27,
+        "name": "Yoroi Akadō"
+      },
+      {
+        "id": 29,
+        "name": "Akamaru"
+      },
+      {
+        "id": 30,
+        "name": "Iwana Akame"
+      },
+      {
+        "id": 32,
+        "name": "Akane (Kunoichi)"
+      },
+      {
+        "id": 37,
+        "name": "Akemaru"
+      },
+      {
+        "id": 38,
+        "name": "Chōbee Akimichi"
+      },
+      {
+        "id": 39,
+        "name": "Chōchō Akimichi"
+      },
+      {
+        "id": 40,
+        "name": "Chōji Akimichi"
+      },
+      {
+        "id": 41,
+        "name": "Chōji's Mother"
+      },
+      {
+        "id": 42,
+        "name": "Chōza Akimichi"
+      },
+      {
+        "id": 43,
+        "name": "Dōtō Akimichi"
+      },
+      {
+        "id": 44,
+        "name": "Makaro Akimichi"
+      },
+      {
+        "id": 45,
+        "name": "Maruten Akimichi"
+      },
+      {
+        "id": 46,
+        "name": "Shitō Akimichi"
+      },
+      {
+        "id": 47,
+        "name": "Torifu Akimichi"
+      },
+      {
+        "id": 48,
+        "name": "Akino"
+      },
+      {
+        "id": 51,
+        "name": "Akkun"
+      },
+      {
+        "id": 53,
+        "name": "Mikazuki Amaashi"
+      },
+      {
+        "id": 64,
+        "name": "Ami"
+      },
+      {
+        "id": 66,
+        "name": "Sōsha Amino"
+      },
+      {
+        "id": 70,
+        "name": "Anbu Commander"
+      },
+      {
+        "id": 71,
+        "name": "Bird-Masked Anbu Member"
+      },
+      {
+        "id": 72,
+        "name": "Boar-Masked Anbu Member"
+      },
+      {
+        "id": 73,
+        "name": "Eagle-Masked Anbu Member"
+      },
+      {
+        "id": 74,
+        "name": "Fox-Masked Anbu Member"
+      },
+      {
+        "id": 75,
+        "name": "Tiger-Masked Anbu Member"
+      },
+      {
+        "id": 79,
+        "name": "Ankorodō Shop Owner"
+      },
+      {
+        "id": 81,
+        "name": "Aoda"
+      },
+      {
+        "id": 83,
+        "name": "Aoneko"
+      },
+      {
+        "id": 86,
+        "name": "Mokume Arai"
+      },
+      {
+        "id": 92,
+        "name": "Neon Asakusa"
+      },
+      {
+        "id": 93,
+        "name": "Neon's Mother"
+      },
+      {
+        "id": 97,
+        "name": "Ashina"
+      },
+      {
+        "id": 101,
+        "name": "Ayame"
+      },
+      {
+        "id": 102,
+        "name": "Azami"
+      },
+      {
+        "id": 104,
+        "name": "Azure Fang"
+      },
+      {
+        "id": 108,
+        "name": "Baku"
+      },
+      {
+        "id": 109,
+        "name": "Baku (Anbu)"
+      },
+      {
+        "id": 118,
+        "name": "Bekkō"
+      },
+      {
+        "id": 121,
+        "name": "Bisuke"
+      },
+      {
+        "id": 126,
+        "name": "Boxing Kangaroos"
+      },
+      {
+        "id": 127,
+        "name": "Breeze Dancer"
+      },
+      {
+        "id": 129,
+        "name": "Bull"
+      },
+      {
+        "id": 137,
+        "name": "Gyokurō Chabashira"
+      },
+      {
+        "id": 138,
+        "name": "Chamaru"
+      },
+      {
+        "id": 140,
+        "name": "Chen"
+      },
+      {
+        "id": 161,
+        "name": "Condor"
+      },
+      {
+        "id": 162,
+        "name": "Crimson Fist"
+      },
+      {
+        "id": 165,
+        "name": "Daemon",
+        "note": "Manga only"
+      },
+      {
+        "id": 167,
+        "name": "Daichi"
+      },
+      {
+        "id": 187,
+        "name": "Dajimu"
+      },
+      {
+        "id": 194,
+        "name": "Delta",
+        "note": "Manga only"
+      },
+      {
+        "id": 200,
+        "name": "Dokan"
+      },
+      {
+        "id": 203,
+        "name": "Mawashi Dokuraku"
+      },
+      {
+        "id": 206,
+        "name": "Dōshin"
+      },
+      {
+        "id": 210,
+        "name": "Might Duy"
+      },
+      {
+        "id": 212,
+        "name": "Ebisu"
+      },
+      {
+        "id": 218,
+        "name": "Enra"
+      },
+      {
+        "id": 230,
+        "name": "Fukasaku"
+      },
+      {
+        "id": 231,
+        "name": "Fuki"
+      },
+      {
+        "id": 234,
+        "name": "Kiyomu Fukuda"
+      },
+      {
+        "id": 238,
+        "name": "Eiki Fūma"
+      },
+      {
+        "id": 239,
+        "name": "Kōtarō Fūma"
+      },
+      {
+        "id": 249,
+        "name": "Daikoku Funeno"
+      },
+      {
+        "id": 250,
+        "name": "Furofuki"
+      },
+      {
+        "id": 253,
+        "name": "Futaba"
+      },
+      {
+        "id": 256,
+        "name": "Futsu",
+        "note": "Novel only"
+      },
+      {
+        "id": 260,
+        "name": "Gama"
+      },
+      {
+        "id": 261,
+        "name": "Gamabunta"
+      },
+      {
+        "id": 263,
+        "name": "Gamagorō"
+      },
+      {
+        "id": 264,
+        "name": "Gamahiro"
+      },
+      {
+        "id": 265,
+        "name": "Gamaken"
+      },
+      {
+        "id": 266,
+        "name": "Gamakichi"
+      },
+      {
+        "id": 267,
+        "name": "Gamamaru"
+      },
+      {
+        "id": 269,
+        "name": "Gamariki"
+      },
+      {
+        "id": 271,
+        "name": "Gamatatsu"
+      },
+      {
+        "id": 274,
+        "name": "Kiseru Gankubi"
+      },
+      {
+        "id": 277,
+        "name": "Doseki Ganryū"
+      },
+      {
+        "id": 280,
+        "name": "Garaga"
+      },
+      {
+        "id": 291,
+        "name": "Gazeru"
+      },
+      {
+        "id": 293,
+        "name": "Hayate Gekkō"
+      },
+      {
+        "id": 294,
+        "name": "Gekomatsu"
+      },
+      {
+        "id": 301,
+        "name": "Gennai"
+      },
+      {
+        "id": 305,
+        "name": "Genzō"
+      },
+      {
+        "id": 306,
+        "name": "Gerotora"
+      },
+      {
+        "id": 307,
+        "name": "Giant Anteater"
+      },
+      {
+        "id": 315,
+        "name": "Giant Insect"
+      },
+      {
+        "id": 328,
+        "name": "Dōshu Goetsu"
+      },
+      {
+        "id": 340,
+        "name": "Gozu (Root)"
+      },
+      {
+        "id": 343,
+        "name": "Guruko"
+      },
+      {
+        "id": 344,
+        "name": "Might Guy"
+      },
+      {
+        "id": 348,
+        "name": "Kotetsu Hagane"
+      },
+      {
+        "id": 349,
+        "name": "Hagiri"
+      },
+      {
+        "id": 350,
+        "name": "Haguruma"
+      },
+      {
+        "id": 353,
+        "name": "Three Haimaru Brothers"
+      },
+      {
+        "id": 360,
+        "name": "Hakui"
+      },
+      {
+        "id": 361,
+        "name": "Hakui (medic)"
+      },
+      {
+        "id": 362,
+        "name": "Hakuto"
+      },
+      {
+        "id": 364,
+        "name": "Hana (student)"
+      },
+      {
+        "id": 370,
+        "name": "Harine"
+      },
+      {
+        "id": 372,
+        "name": "Kizashi Haruno"
+      },
+      {
+        "id": 373,
+        "name": "Mebuki Haruno"
+      },
+      {
+        "id": 374,
+        "name": "Sakura Haruno"
+      },
+      {
+        "id": 376,
+        "name": "Kakashi Hatake"
+      },
+      {
+        "id": 377,
+        "name": "Sakumo Hatake"
+      },
+      {
+        "id": 379,
+        "name": "Hayase"
+      },
+      {
+        "id": 385,
+        "name": "Hibachi"
+      },
+      {
+        "id": 386,
+        "name": "Hibari"
+      },
+      {
+        "id": 391,
+        "name": "Shimon Hijiri"
+      },
+      {
+        "id": 395,
+        "name": "Himeno"
+      },
+      {
+        "id": 399,
+        "name": "Hinoe"
+      },
+      {
+        "id": 401,
+        "name": "Hinoko"
+      },
+      {
+        "id": 402,
+        "name": "Hinoto"
+      },
+      {
+        "id": 406,
+        "name": "Hiruko (missing-nin)"
+      },
+      {
+        "id": 420,
+        "name": "Hōsei"
+      },
+      {
+        "id": 425,
+        "name": "Hōshō"
+      },
+      {
+        "id": 432,
+        "name": "Hyō"
+      },
+      {
+        "id": 434,
+        "name": "Hyūga Elder"
+      },
+      {
+        "id": 435,
+        "name": "Hanabi Hyūga"
+      },
+      {
+        "id": 436,
+        "name": "Hiashi Hyūga"
+      },
+      {
+        "id": 437,
+        "name": "Hinata Hyūga"
+      },
+      {
+        "id": 438,
+        "name": "Hinata and Hanabi's Mother"
+      },
+      {
+        "id": 439,
+        "name": "Hizashi Hyūga"
+      },
+      {
+        "id": 440,
+        "name": "Hoheto Hyūga"
+      },
+      {
+        "id": 441,
+        "name": "Iroha Hyūga"
+      },
+      {
+        "id": 442,
+        "name": "Kō Hyūga"
+      },
+      {
+        "id": 443,
+        "name": "Natsu Hyūga"
+      },
+      {
+        "id": 444,
+        "name": "Neji Hyūga"
+      },
+      {
+        "id": 445,
+        "name": "Tokuma Hyūga"
+      },
+      {
+        "id": 447,
+        "name": "Ibara"
+      },
+      {
+        "id": 456,
+        "name": "Kande Inabikari"
+      },
+      {
+        "id": 457,
+        "name": "Inaho"
+      },
+      {
+        "id": 459,
+        "name": "Shinko Inari"
+      },
+      {
+        "id": 460,
+        "name": "Inomatsu"
+      },
+      {
+        "id": 463,
+        "name": "Akita Inuzuka"
+      },
+      {
+        "id": 464,
+        "name": "Gaku Inuzuka"
+      },
+      {
+        "id": 465,
+        "name": "Hana Inuzuka"
+      },
+      {
+        "id": 466,
+        "name": "Kiba Inuzuka"
+      },
+      {
+        "id": 467,
+        "name": "Mimi Inuzuka"
+      },
+      {
+        "id": 468,
+        "name": "Tsume Inuzuka"
+      },
+      {
+        "id": 469,
+        "name": "Iō"
+      },
+      {
+        "id": 470,
+        "name": "Iō (medical-nin)"
+      },
+      {
+        "id": 472,
+        "name": "Iroha (Genin)"
+      },
+      {
+        "id": 475,
+        "name": "Isaribi"
+      },
+      {
+        "id": 477,
+        "name": "Udon Ise"
+      },
+      {
+        "id": 482,
+        "name": "Nattō Itohiki"
+      },
+      {
+        "id": 483,
+        "name": "Tsuru Itoi"
+      },
+      {
+        "id": 484,
+        "name": "Yuina Itomaki"
+      },
+      {
+        "id": 494,
+        "name": "Iyashi"
+      },
+      {
+        "id": 495,
+        "name": "Tenma Izumo"
+      },
+      {
+        "id": 496,
+        "name": "Amagi Izuno"
+      },
+      {
+        "id": 497,
+        "name": "Daruma Izuno"
+      },
+      {
+        "id": 498,
+        "name": "Mazuma Izuno"
+      },
+      {
+        "id": 499,
+        "name": "Wasabi Izuno"
+      },
+      {
+        "id": 502,
+        "name": "JJ"
+      },
+      {
+        "id": 513,
+        "name": "Jimei"
+      },
+      {
+        "id": 515,
+        "name": "Jiraiya"
+      },
+      {
+        "id": 516,
+        "name": "Jirō"
+      },
+      {
+        "id": 518,
+        "name": "Sayū Jōge"
+      },
+      {
+        "id": 525,
+        "name": "Kaede"
+      },
+      {
+        "id": 528,
+        "name": "Kage (Anbu)"
+      },
+      {
+        "id": 530,
+        "name": "Kura Kageno"
+      },
+      {
+        "id": 537,
+        "name": "Kagura (game)"
+      },
+      {
+        "id": 543,
+        "name": "Nezumi Kaitō"
+      },
+      {
+        "id": 549,
+        "name": "Hana Kaka"
+      },
+      {
+        "id": 550,
+        "name": "Sumire Kakei"
+      },
+      {
+        "id": 554,
+        "name": "Kakoi"
+      },
+      {
+        "id": 556,
+        "name": "Magire Kakuremino"
+      },
+      {
+        "id": 560,
+        "name": "Gongorō Kamakura"
+      },
+      {
+        "id": 561,
+        "name": "Hibari Kamakura"
+      },
+      {
+        "id": 562,
+        "name": "Osuka Kamakura"
+      },
+      {
+        "id": 563,
+        "name": "Saisu Kamano"
+      },
+      {
+        "id": 567,
+        "name": "Jin Kaminari"
+      },
+      {
+        "id": 568,
+        "name": "Denki Kaminarimon"
+      },
+      {
+        "id": 569,
+        "name": "Ereki Kaminarimon"
+      },
+      {
+        "id": 571,
+        "name": "Izumo Kamizuki"
+      },
+      {
+        "id": 575,
+        "name": "Tekuno Kanden"
+      },
+      {
+        "id": 579,
+        "name": "Kanna (carpenter)"
+      },
+      {
+        "id": 580,
+        "name": "Suika Kannonji"
+      },
+      {
+        "id": 581,
+        "name": "Kanoe"
+      },
+      {
+        "id": 582,
+        "name": "Kanoto"
+      },
+      {
+        "id": 583,
+        "name": "Kanpō"
+      },
+      {
+        "id": 584,
+        "name": "Kanpu"
+      },
+      {
+        "id": 586,
+        "name": "Kaori"
+      },
+      {
+        "id": 594,
+        "name": "Karin Kagura"
+      },
+      {
+        "id": 596,
+        "name": "Karui"
+      },
+      {
+        "id": 601,
+        "name": "Kasumi"
+      },
+      {
+        "id": 605,
+        "name": "Dan Katō"
+      },
+      {
+        "id": 606,
+        "name": "Gen Katsugi"
+      },
+      {
+        "id": 607,
+        "name": "Katsura"
+      },
+      {
+        "id": 608,
+        "name": "Katsuyu"
+      },
+      {
+        "id": 609,
+        "name": "Kawaki"
+      },
+      {
+        "id": 610,
+        "name": "Kaito Kawanami"
+      },
+      {
+        "id": 618,
+        "name": "Moegi Kazamatsuri"
+      },
+      {
+        "id": 625,
+        "name": "Keiri"
+      },
+      {
+        "id": 634,
+        "name": "Kikuchiyo"
+      },
+      {
+        "id": 642,
+        "name": "Kinoto"
+      },
+      {
+        "id": 652,
+        "name": "Kitō"
+      },
+      {
+        "id": 654,
+        "name": "Kō (Anbu)"
+      },
+      {
+        "id": 662,
+        "name": "Kō Kogare"
+      },
+      {
+        "id": 663,
+        "name": "Kohada"
+      },
+      {
+        "id": 664,
+        "name": "Mukai Kohinata"
+      },
+      {
+        "id": 666,
+        "name": "Kōji"
+      },
+      {
+        "id": 668,
+        "name": "Renga Kokubō"
+      },
+      {
+        "id": 674,
+        "name": "Komachi"
+      },
+      {
+        "id": 675,
+        "name": "Komame"
+      },
+      {
+        "id": 681,
+        "name": "Komugi"
+      },
+      {
+        "id": 689,
+        "name": "Konoha Astronomer"
+      },
+      {
+        "id": 693,
+        "name": "Kōrogi"
+      },
+      {
+        "id": 694,
+        "name": "Koshō"
+      },
+      {
+        "id": 696,
+        "name": "Kōsuke (Scientist)"
+      },
+      {
+        "id": 697,
+        "name": "Kōsuke"
+      },
+      {
+        "id": 698,
+        "name": "Kōta"
+      },
+      {
+        "id": 706,
+        "name": "Kumadori"
+      },
+      {
+        "id": 707,
+        "name": "Jingo Kumano"
+      },
+      {
+        "id": 711,
+        "name": "Kurama"
+      },
+      {
+        "id": 712,
+        "name": "Murakumo Kurama"
+      },
+      {
+        "id": 713,
+        "name": "Unkai Kurama"
+      },
+      {
+        "id": 714,
+        "name": "Uroko Kurama"
+      },
+      {
+        "id": 715,
+        "name": "Yakumo Kurama"
+      },
+      {
+        "id": 719,
+        "name": "Tsubaki Kurogane"
+      },
+      {
+        "id": 720,
+        "name": "Hako Kuroi"
+      },
+      {
+        "id": 721,
+        "name": "Kuromaru"
+      },
+      {
+        "id": 726,
+        "name": "Tayori Kuroyagi"
+      },
+      {
+        "id": 733,
+        "name": "Kusushi"
+      },
+      {
+        "id": 738,
+        "name": "Metal Lee"
+      },
+      {
+        "id": 739,
+        "name": "Rock Lee"
+      },
+      {
+        "id": 746,
+        "name": "Mabo"
+      },
+      {
+        "id": 747,
+        "name": "Kisuke Maboroshi"
+      },
+      {
+        "id": 748,
+        "name": "Kisuke's Wife"
+      },
+      {
+        "id": 752,
+        "name": "Magire"
+      },
+      {
+        "id": 765,
+        "name": "Kosuke Maruboshi"
+      },
+      {
+        "id": 772,
+        "name": "Matsu"
+      },
+      {
+        "id": 775,
+        "name": "Matsuri (Konoha)"
+      },
+      {
+        "id": 776,
+        "name": "Daizen Matsushige"
+      },
+      {
+        "id": 778,
+        "name": "Mecha-Naruto"
+      },
+      {
+        "id": 780,
+        "name": "Menma (anime)"
+      },
+      {
+        "id": 784,
+        "name": "Mezu"
+      },
+      {
+        "id": 785,
+        "name": "Mezu (missing-nin)"
+      },
+      {
+        "id": 787,
+        "name": "Shinobu Mibu"
+      },
+      {
+        "id": 788,
+        "name": "Mibuna"
+      },
+      {
+        "id": 791,
+        "name": "Midnight Blade"
+      },
+      {
+        "id": 793,
+        "name": "Midori (game)"
+      },
+      {
+        "id": 795,
+        "name": "Migaki"
+      },
+      {
+        "id": 799,
+        "name": "Mikazuki"
+      },
+      {
+        "id": 801,
+        "name": "Hamaki Mimura"
+      },
+      {
+        "id": 802,
+        "name": "Tomaru Minakura"
+      },
+      {
+        "id": 803,
+        "name": "Yūki Minazuki"
+      },
+      {
+        "id": 804,
+        "name": "Minoichi"
+      },
+      {
+        "id": 805,
+        "name": "Minoji"
+      },
+      {
+        "id": 809,
+        "name": "Anko Mitarashi"
+      },
+      {
+        "id": 810,
+        "name": "Mitate"
+      },
+      {
+        "id": 811,
+        "name": "Homura Mitokado"
+      },
+      {
+        "id": 812,
+        "name": "Mitoku"
+      },
+      {
+        "id": 813,
+        "name": "Mitsuki"
+      },
+      {
+        "id": 814,
+        "name": "Dango Mitsuki"
+      },
+      {
+        "id": 818,
+        "name": "Mizuki"
+      },
+      {
+        "id": 819,
+        "name": "Mizunoe"
+      },
+      {
+        "id": 820,
+        "name": "Mizunoto"
+      },
+      {
+        "id": 824,
+        "name": "Mogusa"
+      },
+      {
+        "id": 825,
+        "name": "Kunugi Mokume"
+      },
+      {
+        "id": 835,
+        "name": "Ibiki Morino"
+      },
+      {
+        "id": 836,
+        "name": "Idate Morino"
+      },
+      {
+        "id": 841,
+        "name": "Mozuku"
+      },
+      {
+        "id": 846,
+        "name": "Mugino"
+      },
+      {
+        "id": 863,
+        "name": "Raidō Namiashi"
+      },
+      {
+        "id": 864,
+        "name": "Menma Namikaze"
+      },
+      {
+        "id": 865,
+        "name": "Minato Namikaze"
+      },
+      {
+        "id": 871,
+        "name": "Daen Nara"
+      },
+      {
+        "id": 872,
+        "name": "Enchū Nara"
+      },
+      {
+        "id": 873,
+        "name": "Ensui Nara"
+      },
+      {
+        "id": 874,
+        "name": "Kasuga Nara"
+      },
+      {
+        "id": 875,
+        "name": "Maen Nara"
+      },
+      {
+        "id": 876,
+        "name": "Shikadai Nara"
+      },
+      {
+        "id": 877,
+        "name": "Shikaku Nara"
+      },
+      {
+        "id": 878,
+        "name": "Shikamaru Nara"
+      },
+      {
+        "id": 879,
+        "name": "Suzaku Nara"
+      },
+      {
+        "id": 880,
+        "name": "Yoshino Nara"
+      },
+      {
+        "id": 882,
+        "name": "Natori"
+      },
+      {
+        "id": 886,
+        "name": "Nawaki"
+      },
+      {
+        "id": 890,
+        "name": "Buriko Nekoka"
+      },
+      {
+        "id": 893,
+        "name": "Konashi Nerikiri"
+      },
+      {
+        "id": 899,
+        "name": "Ningame"
+      },
+      {
+        "id": 900,
+        "name": "Nishi"
+      },
+      {
+        "id": 901,
+        "name": "Nishi (sensor)"
+      },
+      {
+        "id": 902,
+        "name": "Nobori"
+      },
+      {
+        "id": 903,
+        "name": "Rin Nohara"
+      },
+      {
+        "id": 906,
+        "name": "Ehō Norimaki"
+      },
+      {
+        "id": 908,
+        "name": "Nue"
+      },
+      {
+        "id": 913,
+        "name": "Ohagi"
+      },
+      {
+        "id": 915,
+        "name": "Ōkei"
+      },
+      {
+        "id": 918,
+        "name": "Okyō"
+      },
+      {
+        "id": 923,
+        "name": "Enko Onikuma"
+      },
+      {
+        "id": 928,
+        "name": "Orochimaru"
+      },
+      {
+        "id": 930,
+        "name": "Otoha"
+      },
+      {
+        "id": 948,
+        "name": "Oyone"
+      },
+      {
+        "id": 949,
+        "name": "Pakkun"
+      },
+      {
+        "id": 954,
+        "name": "Poochie"
+      },
+      {
+        "id": 964,
+        "name": "Ranka"
+      },
+      {
+        "id": 973,
+        "name": "Riichi (ninja)"
+      },
+      {
+        "id": 974,
+        "name": "Rikumaru"
+      },
+      {
+        "id": 977,
+        "name": "Rō"
+      },
+      {
+        "id": 981,
+        "name": "Aoi Rokushō"
+      },
+      {
+        "id": 993,
+        "name": "Yatogo Ryūgen"
+      },
+      {
+        "id": 999,
+        "name": "Sabiru"
+      },
+      {
+        "id": 1001,
+        "name": "Sabure"
+      },
+      {
+        "id": 1004,
+        "name": "Sadoru"
+      },
+      {
+        "id": 1008,
+        "name": "Sai"
+      },
+      {
+        "id": 1025,
+        "name": "Sansho"
+      },
+      {
+        "id": 1027,
+        "name": "Amado Sanzu"
+      },
+      {
+        "id": 1028,
+        "name": "Saō"
+      },
+      {
+        "id": 1033,
+        "name": "Tsuzumi Sarugaku"
+      },
+      {
+        "id": 1034,
+        "name": "Asuma Sarutobi"
+      },
+      {
+        "id": 1035,
+        "name": "Biwako Sarutobi"
+      },
+      {
+        "id": 1036,
+        "name": "Hiruzen Sarutobi"
+      },
+      {
+        "id": 1037,
+        "name": "Konohamaru Sarutobi"
+      },
+      {
+        "id": 1038,
+        "name": "Mirai Sarutobi"
+      },
+      {
+        "id": 1039,
+        "name": "Sasuke Sarutobi"
+      },
+      {
+        "id": 1046,
+        "name": "Satō"
+      },
+      {
+        "id": 1051,
+        "name": "Scarlet Blaze"
+      },
+      {
+        "id": 1063,
+        "name": "Hashirama Senju"
+      },
+      {
+        "id": 1066,
+        "name": "Tobirama Senju"
+      },
+      {
+        "id": 1079,
+        "name": "Shiba"
+      },
+      {
+        "id": 1081,
+        "name": "Shibire"
+      },
+      {
+        "id": 1083,
+        "name": "Tanuki Shigaraki"
+      },
+      {
+        "id": 1084,
+        "name": "Shigezane"
+      },
+      {
+        "id": 1086,
+        "name": "Shiho"
+      },
+      {
+        "id": 1091,
+        "name": "Shima"
+      },
+      {
+        "id": 1093,
+        "name": "Danzō Shimura"
+      },
+      {
+        "id": 1094,
+        "name": "Shin"
+      },
+      {
+        "id": 1095,
+        "name": "Hakubi Shin"
+      },
+      {
+        "id": 1098,
+        "name": "Shinga"
+      },
+      {
+        "id": 1102,
+        "name": "Shinta"
+      },
+      {
+        "id": 1103,
+        "name": "Shio"
+      },
+      {
+        "id": 1108,
+        "name": "Hayama Shirakumo"
+      },
+      {
+        "id": 1110,
+        "name": "Genma Shiranui"
+      },
+      {
+        "id": 1111,
+        "name": "Shiro"
+      },
+      {
+        "id": 1122,
+        "name": "Shizune"
+      },
+      {
+        "id": 1124,
+        "name": "Shōseki"
+      },
+      {
+        "id": 1128,
+        "name": "Shun"
+      },
+      {
+        "id": 1131,
+        "name": "Ran Sōgi"
+      },
+      {
+        "id": 1132,
+        "name": "Suzu Sōgi"
+      },
+      {
+        "id": 1137,
+        "name": "Sōta"
+      },
+      {
+        "id": 1140,
+        "name": "Stone Carver"
+      },
+      {
+        "id": 1141,
+        "name": "Stone Carver's Assistant"
+      },
+      {
+        "id": 1151,
+        "name": "Sukima"
+      },
+      {
+        "id": 1152,
+        "name": "Sukui"
+      },
+      {
+        "id": 1163,
+        "name": "Himuka Suzukaze"
+      },
+      {
+        "id": 1164,
+        "name": "Suzume"
+      },
+      {
+        "id": 1166,
+        "name": "Namida Suzumeno"
+      },
+      {
+        "id": 1168,
+        "name": "Soul Tao"
+      },
+      {
+        "id": 1169,
+        "name": "Tadaichi"
+      },
+      {
+        "id": 1175,
+        "name": "Taji"
+      },
+      {
+        "id": 1178,
+        "name": "Nitora Take"
+      },
+      {
+        "id": 1179,
+        "name": "Hōki Taketori"
+      },
+      {
+        "id": 1181,
+        "name": "Taku"
+      },
+      {
+        "id": 1182,
+        "name": "Tamae"
+      },
+      {
+        "id": 1183,
+        "name": "Tamaki"
+      },
+      {
+        "id": 1185,
+        "name": "Tami"
+      },
+      {
+        "id": 1188,
+        "name": "Tanzō"
+      },
+      {
+        "id": 1191,
+        "name": "Tarō"
+      },
+      {
+        "id": 1194,
+        "name": "Taruto"
+      },
+      {
+        "id": 1195,
+        "name": "Tasuki"
+      },
+      {
+        "id": 1196,
+        "name": "Iwashi Tatami"
+      },
+      {
+        "id": 1198,
+        "name": "Tatsuji"
+      },
+      {
+        "id": 1208,
+        "name": "Temari"
+      },
+      {
+        "id": 1209,
+        "name": "Temui"
+      },
+      {
+        "id": 1216,
+        "name": "Tenten"
+      },
+      {
+        "id": 1219,
+        "name": "Tera"
+      },
+      {
+        "id": 1220,
+        "name": "Terai"
+      },
+      {
+        "id": 1222,
+        "name": "Terubō"
+      },
+      {
+        "id": 1227,
+        "name": "Teuchi"
+      },
+      {
+        "id": 1231,
+        "name": "Tobio"
+      },
+      {
+        "id": 1232,
+        "name": "Tonbo Tobitake"
+      },
+      {
+        "id": 1236,
+        "name": "Tessen Togeito"
+      },
+      {
+        "id": 1238,
+        "name": "Tokara"
+      },
+      {
+        "id": 1241,
+        "name": "Kabure Tokisuki"
+      },
+      {
+        "id": 1244,
+        "name": "Tomaru"
+      },
+      {
+        "id": 1248,
+        "name": "Katasuke Tōno"
+      },
+      {
+        "id": 1250,
+        "name": "Tonton"
+      },
+      {
+        "id": 1252,
+        "name": "Tora (Anbu)"
+      },
+      {
+        "id": 1253,
+        "name": "Kumade Toriichi"
+      },
+      {
+        "id": 1254,
+        "name": "Takajō Torikai"
+      },
+      {
+        "id": 1257,
+        "name": "Tosaka"
+      },
+      {
+        "id": 1258,
+        "name": "Toshi"
+      },
+      {
+        "id": 1260,
+        "name": "Towa"
+      },
+      {
+        "id": 1261,
+        "name": "Tsubaki (parent)"
+      },
+      {
+        "id": 1262,
+        "name": "Tsubaki (anime)"
+      },
+      {
+        "id": 1268,
+        "name": "Tsuchinoe"
+      },
+      {
+        "id": 1269,
+        "name": "Tsuchinoto"
+      },
+      {
+        "id": 1277,
+        "name": "Tsukune"
+      },
+      {
+        "id": 1279,
+        "name": "Kido Tsumiki"
+      },
+      {
+        "id": 1280,
+        "name": "Tsunade"
+      },
+      {
+        "id": 1283,
+        "name": "Misumi Tsurugi"
+      },
+      {
+        "id": 1289,
+        "name": "Fugaku Uchiha"
+      },
+      {
+        "id": 1290,
+        "name": "Hazuki Uchiha"
+      },
+      {
+        "id": 1292,
+        "name": "Inabi Uchiha"
+      },
+      {
+        "id": 1293,
+        "name": "Itachi Uchiha"
+      },
+      {
+        "id": 1294,
+        "name": "Itachi's Crow"
+      },
+      {
+        "id": 1295,
+        "name": "Izumi Uchiha"
+      },
+      {
+        "id": 1297,
+        "name": "Kagami Uchiha"
+      },
+      {
+        "id": 1298,
+        "name": "Kagen Uchiha"
+      },
+      {
+        "id": 1299,
+        "name": "Madara Uchiha"
+      },
+      {
+        "id": 1300,
+        "name": "Mikoto Uchiha"
+      },
+      {
+        "id": 1301,
+        "name": "Naka Uchiha"
+      },
+      {
+        "id": 1302,
+        "name": "Naori Uchiha"
+      },
+      {
+        "id": 1303,
+        "name": "Obito Uchiha"
+      },
+      {
+        "id": 1304,
+        "name": "Obito's Grandmother"
+      },
+      {
+        "id": 1306,
+        "name": "Sarada Uchiha"
+      },
+      {
+        "id": 1307,
+        "name": "Sasuke Uchiha"
+      },
+      {
+        "id": 1308,
+        "name": "Setsuna Uchiha"
+      },
+      {
+        "id": 1310,
+        "name": "Shisui Uchiha"
+      },
+      {
+        "id": 1311,
+        "name": "Taiko Uchiha"
+      },
+      {
+        "id": 1313,
+        "name": "Tekka Uchiha"
+      },
+      {
+        "id": 1314,
+        "name": "Teyaki Uchiha"
+      },
+      {
+        "id": 1315,
+        "name": "Uruchi Uchiha"
+      },
+      {
+        "id": 1316,
+        "name": "Yakumi Uchiha"
+      },
+      {
+        "id": 1317,
+        "name": "Yashiro Uchiha"
+      },
+      {
+        "id": 1318,
+        "name": "Ugai"
+      },
+      {
+        "id": 1320,
+        "name": "Ūhei"
+      },
+      {
+        "id": 1324,
+        "name": "Ikkaku Umino"
+      },
+      {
+        "id": 1325,
+        "name": "Iruka Umino"
+      },
+      {
+        "id": 1326,
+        "name": "Kohari Umino"
+      },
+      {
+        "id": 1329,
+        "name": "Unagi"
+      },
+      {
+        "id": 1330,
+        "name": "Uō"
+      },
+      {
+        "id": 1332,
+        "name": "Urushi"
+      },
+      {
+        "id": 1333,
+        "name": "Urushi (summon)"
+      },
+      {
+        "id": 1334,
+        "name": "Ushi"
+      },
+      {
+        "id": 1336,
+        "name": "Koharu Utatane"
+      },
+      {
+        "id": 1337,
+        "name": "Yūgao Uzuki"
+      },
+      {
+        "id": 1339,
+        "name": "Boruto Uzumaki"
+      },
+      {
+        "id": 1340,
+        "name": "Himawari Uzumaki"
+      },
+      {
+        "id": 1341,
+        "name": "Kushina Uzumaki"
+      },
+      {
+        "id": 1342,
+        "name": "Menma Uzumaki"
+      },
+      {
+        "id": 1343,
+        "name": "Mito Uzumaki"
+      },
+      {
+        "id": 1344,
+        "name": "Naruto Uzumaki"
+      },
+      {
+        "id": 1352,
+        "name": "Watase"
+      },
+      {
+        "id": 1355,
+        "name": "Yagura (anime)"
+      },
+      {
+        "id": 1357,
+        "name": "Yajirobee"
+      },
+      {
+        "id": 1359,
+        "name": "Kabuto Yakushi"
+      },
+      {
+        "id": 1360,
+        "name": "Kabuto's Sensei"
+      },
+      {
+        "id": 1361,
+        "name": "Nonō Yakushi"
+      },
+      {
+        "id": 1364,
+        "name": "Fū Yamanaka"
+      },
+      {
+        "id": 1365,
+        "name": "Ino Yamanaka"
+      },
+      {
+        "id": 1366,
+        "name": "Ino's Mother"
+      },
+      {
+        "id": 1367,
+        "name": "Inoichi Yamanaka"
+      },
+      {
+        "id": 1368,
+        "name": "Inojin Yamanaka"
+      },
+      {
+        "id": 1369,
+        "name": "Kohan Yamanaka"
+      },
+      {
+        "id": 1370,
+        "name": "Santa Yamanaka"
+      },
+      {
+        "id": 1372,
+        "name": "Aoba Yamashiro"
+      },
+      {
+        "id": 1373,
+        "name": "Yamato"
+      },
+      {
+        "id": 1374,
+        "name": "Kokage Yanagikage"
+      },
+      {
+        "id": 1379,
+        "name": "Yokaze"
+      },
+      {
+        "id": 1380,
+        "name": "Kuwa Yokohori"
+      },
+      {
+        "id": 1388,
+        "name": "Kaede Yoshino"
+      },
+      {
+        "id": 1393,
+        "name": "Yubeshi"
+      },
+      {
+        "id": 1397,
+        "name": "Kurenai Yūhi"
+      },
+      {
+        "id": 1398,
+        "name": "Shinku Yūhi"
+      },
+      {
+        "id": 1400,
+        "name": "Iwabee Yuino"
+      },
+      {
+        "id": 1403,
+        "name": "Yuki (Academy student)"
+      },
+      {
+        "id": 1408,
+        "name": "Kae Yukiwari"
+      },
+      {
+        "id": 1410,
+        "name": "Yurika"
+      },
+      {
+        "id": 1412,
+        "name": "Yurito"
+      },
+      {
+        "id": 1418,
+        "name": "Zaji"
+      },
+      {
+        "id": 1427,
+        "name": "Zō"
+      },
+      {
+        "id": 1434,
+        "name": "Chihare Amano"
+      },
+      {
+        "id": 1435,
+        "name": "Dekai"
+      },
+      {
+        "id": 1439,
+        "name": "Furuta"
+      },
+      {
+        "id": 1441,
+        "name": "Hakobe Shigaraki"
+      },
+      {
+        "id": 1453,
+        "name": "Monkey King: Enma"
+      },
+      {
+        "id": 1457,
+        "name": "Soegi"
+      },
+      {
+        "id": 1459,
+        "name": "Teguse (game)"
+      },
+      {
+        "id": 1460,
+        "name": "Unnamed Team 6 Member"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Konohagakure",
+      "pageId": 1558,
+      "revision": "2026-06-01T03:55:00Z"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Kumogakure",
+    "images": [],
+    "names": {
+      "english": "Kumogakure",
+      "kanji": "雲隠れの里",
+      "romaji": "Kumogakure no Sato",
+      "literal": "Village Hidden by Clouds",
+      "englishTv": "The Village Hidden in the Clouds"
+    },
+    "summary": "Kumogakure is the hidden village of the Land of Lightning and was founded by the First Raikage. As the village of one of the Five Great Shinobi Countries, Kumogakure has a Kage as its leader known as the Raikage, of which there have been five in its history. The village is located in a range of tall mountains, and is literally hidden in the clouds.",
+    "country": "Land of Lightning",
+    "leaderTitle": "Raikage",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/c/c9/Kumogakure_Symbol.svg"
+    },
+    "ratings": {
+      "population": 3,
+      "military": 4,
+      "economy": 5
+    },
+    "kage": [
+      {
+        "order": 1,
+        "title": "First Raikage",
+        "id": 3,
+        "name": "A (First Raikage)"
+      },
+      {
+        "order": 2,
+        "title": "Second Raikage",
+        "id": 4,
+        "name": "A (Second Raikage)"
+      },
+      {
+        "order": 3,
+        "title": "Third Raikage",
+        "id": 5,
+        "name": "A (Third Raikage)"
+      },
+      {
+        "order": 4,
+        "title": "Fourth Raikage",
+        "id": 6,
+        "name": "A (Fourth Raikage)"
+      },
+      {
+        "order": 5,
+        "title": "Fifth Raikage",
+        "id": 190,
+        "name": "Darui"
+      }
+    ],
+    "characters": [
+      {
+        "id": 3,
+        "name": "A (First Raikage)"
+      },
+      {
+        "id": 4,
+        "name": "A (Second Raikage)"
+      },
+      {
+        "id": 5,
+        "name": "A (Third Raikage)"
+      },
+      {
+        "id": 6,
+        "name": "A (Fourth Raikage)"
+      },
+      {
+        "id": 59,
+        "name": "Amai"
+      },
+      {
+        "id": 89,
+        "name": "Armadiko"
+      },
+      {
+        "id": 100,
+        "name": "Atsui"
+      },
+      {
+        "id": 116,
+        "name": "Batta"
+      },
+      {
+        "id": 124,
+        "name": "Blue B"
+      },
+      {
+        "id": 135,
+        "name": "C"
+      },
+      {
+        "id": 155,
+        "name": "Chūji"
+      },
+      {
+        "id": 190,
+        "name": "Darui"
+      },
+      {
+        "id": 199,
+        "name": "Dodai"
+      },
+      {
+        "id": 204,
+        "name": "Don"
+      },
+      {
+        "id": 219,
+        "name": "F"
+      },
+      {
+        "id": 235,
+        "name": "Fukuemon"
+      },
+      {
+        "id": 251,
+        "name": "Furui"
+      },
+      {
+        "id": 256,
+        "name": "Futsu",
+        "note": "Anime only"
+      },
+      {
+        "id": 286,
+        "name": "Gatai"
+      },
+      {
+        "id": 295,
+        "name": "Genbu"
+      },
+      {
+        "id": 322,
+        "name": "Giant Squid"
+      },
+      {
+        "id": 326,
+        "name": "Ginkaku"
+      },
+      {
+        "id": 345,
+        "name": "Gyūki"
+      },
+      {
+        "id": 354,
+        "name": "Hainosuke"
+      },
+      {
+        "id": 392,
+        "name": "Hikaru"
+      },
+      {
+        "id": 403,
+        "name": "Hippo Boss"
+      },
+      {
+        "id": 501,
+        "name": "J"
+      },
+      {
+        "id": 524,
+        "name": "K"
+      },
+      {
+        "id": 555,
+        "name": "Kakui"
+      },
+      {
+        "id": 587,
+        "name": "Karai"
+      },
+      {
+        "id": 596,
+        "name": "Karui"
+      },
+      {
+        "id": 613,
+        "name": "Kayui"
+      },
+      {
+        "id": 636,
+        "name": "Killer B"
+      },
+      {
+        "id": 639,
+        "name": "King"
+      },
+      {
+        "id": 641,
+        "name": "Kinkaku"
+      },
+      {
+        "id": 643,
+        "name": "Kintoki"
+      },
+      {
+        "id": 707,
+        "name": "Jingo Kumano"
+      },
+      {
+        "id": 708,
+        "name": "Head Ninja of Kumogakure"
+      },
+      {
+        "id": 749,
+        "name": "Mabui"
+      },
+      {
+        "id": 764,
+        "name": "Maroi"
+      },
+      {
+        "id": 766,
+        "name": "Marui"
+      },
+      {
+        "id": 771,
+        "name": "Matatabi"
+      },
+      {
+        "id": 783,
+        "name": "Messenger Lizard"
+      },
+      {
+        "id": 798,
+        "name": "Tezutsu Mikawa"
+      },
+      {
+        "id": 838,
+        "name": "Moroi"
+      },
+      {
+        "id": 840,
+        "name": "Motoi"
+      },
+      {
+        "id": 855,
+        "name": "Musai"
+      },
+      {
+        "id": 892,
+        "name": "Nemui"
+      },
+      {
+        "id": 897,
+        "name": "Nigai"
+      },
+      {
+        "id": 898,
+        "name": "Yugito Nii"
+      },
+      {
+        "id": 910,
+        "name": "Nurui"
+      },
+      {
+        "id": 920,
+        "name": "Omoi"
+      },
+      {
+        "id": 929,
+        "name": "Osoi"
+      },
+      {
+        "id": 963,
+        "name": "Ran (kunoichi)"
+      },
+      {
+        "id": 968,
+        "name": "Rashii"
+      },
+      {
+        "id": 1010,
+        "name": "Kobushi Saiki"
+      },
+      {
+        "id": 1019,
+        "name": "Samui"
+      },
+      {
+        "id": 1055,
+        "name": "Sekiei (spectator)"
+      },
+      {
+        "id": 1056,
+        "name": "Sekiei's Partner"
+      },
+      {
+        "id": 1176,
+        "name": "Tajiki"
+      },
+      {
+        "id": 1186,
+        "name": "Tango"
+      },
+      {
+        "id": 1193,
+        "name": "Tarui"
+      },
+      {
+        "id": 1212,
+        "name": "Tenga"
+      },
+      {
+        "id": 1255,
+        "name": "Toroi"
+      },
+      {
+        "id": 1256,
+        "name": "Toroi (Genin)"
+      },
+      {
+        "id": 1392,
+        "name": "Kiyoi Yotsuki"
+      },
+      {
+        "id": 1401,
+        "name": "Yukai"
+      },
+      {
+        "id": 1413,
+        "name": "Yurui"
+      },
+      {
+        "id": 1414,
+        "name": "Yurui (anime)"
+      },
+      {
+        "id": 1449,
+        "name": "Kumo Reincarnated Shinobi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kumogakure",
+      "pageId": 2704,
+      "revision": "2026-02-28T03:43:35Z"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Kusagakure",
+    "images": [],
+    "names": {
+      "english": "Kusagakure",
+      "kanji": "草隠れの里",
+      "romaji": "Kusagakure no Sato",
+      "literal": "Village Hidden in the Grass",
+      "englishTv": "The Village Hidden in the Grass"
+    },
+    "summary": "Kusagakure is located thus far in an unnamed country. Because it had genin participating in the Chūnin Exams organised by Konohagakure, it can be assumed the two villages are allied.",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/9/90/Kusagakure_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 119,
+        "name": "Benga"
+      },
+      {
+        "id": 133,
+        "name": "Burami"
+      },
+      {
+        "id": 352,
+        "name": "Haie"
+      },
+      {
+        "id": 433,
+        "name": "Hyōgo"
+      },
+      {
+        "id": 593,
+        "name": "Karin"
+      },
+      {
+        "id": 595,
+        "name": "Karin's Mother"
+      },
+      {
+        "id": 619,
+        "name": "Kazami"
+      },
+      {
+        "id": 792,
+        "name": "Midori"
+      },
+      {
+        "id": 823,
+        "name": "Moguranmaru"
+      },
+      {
+        "id": 847,
+        "name": "Mui"
+      },
+      {
+        "id": 849,
+        "name": "Mujō"
+      },
+      {
+        "id": 852,
+        "name": "Muku"
+      },
+      {
+        "id": 857,
+        "name": "Muyami"
+      },
+      {
+        "id": 956,
+        "name": "Preta Path (character)"
+      },
+      {
+        "id": 997,
+        "name": "Ryūzetsu"
+      },
+      {
+        "id": 1080,
+        "name": "Shiba (Kusagakure)"
+      },
+      {
+        "id": 1105,
+        "name": "Shiore"
+      },
+      {
+        "id": 1429,
+        "name": "Zōsui"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Kusagakure",
+      "pageId": 4245,
+      "revision": "2026-09-08T20:52:52Z"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Mount Katsuragi",
+    "images": [],
+    "names": {
+      "english": "Mount Katsuragi",
+      "kanji": "葛城山",
+      "romaji": "Katsuragizan"
+    },
+    "summary": "Mount Katsuragi is a mountain which holds the Tsuchigumo clan's kinjutsu. Hotaru and Tonbee live on this mountain. To prevent any intruders from obtaining the kinjutsu, the mountain is surrounded by a seemingly unbreakable barrier and protected by a large amount of traps.",
+    "characters": [],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Mount_Katsuragi",
+      "pageId": 37486,
+      "revision": "2026-02-26T11:46:42Z"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Mount Myōboku",
+    "images": [],
+    "names": {
+      "english": "Mount Myōboku",
+      "kanji": "妙木山",
+      "romaji": "Myōbokuzan",
+      "literal": "Mysterious/Exquisite Tree Mountain"
+    },
+    "summary": "Mount Myōboku, also known as the \"Mountain of Bewilderment\" and the \"Land of Toads\", is one of the big three unexplored sage regions, a legendary place that is equally as famous as the other two, Shikkotsu Forest and Ryūchi Cave. It's the land of toads and the place where all the toads that Naruto, Minato, and Jiraiya have summoned live. By signing a contract scroll with the toads, it is possible to summon all of the Toads that live here. It is home for huge and small toads alike. Mount Myōboku is a rich and beautiful land, whose ultimate authority seems to be the Great Toad Sage. Shima and Fukasaku are both elders and sages, and they seem to have an even higher authority than Gamabunta himself.",
+    "leaders": [
+      {
+        "id": 267,
+        "name": "Gamamaru"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/3/31/Toad_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 230,
+        "name": "Fukasaku"
+      },
+      {
+        "id": 260,
+        "name": "Gama"
+      },
+      {
+        "id": 261,
+        "name": "Gamabunta"
+      },
+      {
+        "id": 262,
+        "name": "Gamaden"
+      },
+      {
+        "id": 263,
+        "name": "Gamagorō"
+      },
+      {
+        "id": 264,
+        "name": "Gamahiro"
+      },
+      {
+        "id": 265,
+        "name": "Gamaken"
+      },
+      {
+        "id": 266,
+        "name": "Gamakichi"
+      },
+      {
+        "id": 267,
+        "name": "Gamamaru"
+      },
+      {
+        "id": 268,
+        "name": "Gamamichi"
+      },
+      {
+        "id": 269,
+        "name": "Gamariki"
+      },
+      {
+        "id": 270,
+        "name": "Gamatama"
+      },
+      {
+        "id": 271,
+        "name": "Gamatatsu"
+      },
+      {
+        "id": 294,
+        "name": "Gekomatsu"
+      },
+      {
+        "id": 306,
+        "name": "Gerotora"
+      },
+      {
+        "id": 515,
+        "name": "Jiraiya"
+      },
+      {
+        "id": 600,
+        "name": "Koji Kashin"
+      },
+      {
+        "id": 697,
+        "name": "Kōsuke"
+      },
+      {
+        "id": 865,
+        "name": "Minato Namikaze"
+      },
+      {
+        "id": 935,
+        "name": "Hagoromo Ōtsutsuki",
+        "note": "Anime only"
+      },
+      {
+        "id": 936,
+        "name": "Hamura Ōtsutsuki",
+        "note": "Anime only"
+      },
+      {
+        "id": 1037,
+        "name": "Konohamaru Sarutobi",
+        "note": "Anime only"
+      },
+      {
+        "id": 1091,
+        "name": "Shima"
+      },
+      {
+        "id": 1344,
+        "name": "Naruto Uzumaki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Mount_My%C5%8Dboku",
+      "pageId": 11304,
+      "revision": "2026-06-17T22:35:27Z"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Nadeshiko Village",
+    "images": [],
+    "names": {
+      "english": "Nadeshiko Village",
+      "kanji": "撫子の里",
+      "romaji": "Nadeshiko no Sato"
+    },
+    "summary": "The Nadeshiko Village is a shinobi village located near the Land of Water. The families of this village are organised through matrilineality. Women from this village must venture outside to find men strong enough to defeat them, resulting in them being taken to the village to marry the kunoichi they defeated.",
+    "leaders": [
+      {
+        "id": 858,
+        "name": "Former Leader of Nadeshiko Village"
+      },
+      {
+        "id": 1119,
+        "name": "Shizuka"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/1/15/Nadeshiko_Village_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 858,
+        "name": "Former Leader of Nadeshiko Village"
+      },
+      {
+        "id": 1119,
+        "name": "Shizuka"
+      },
+      {
+        "id": 1242,
+        "name": "Tokiwa"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Nadeshiko_Village",
+      "pageId": 85463,
+      "revision": "2026-03-09T12:36:34Z"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Otogakure",
+    "images": [],
+    "names": {
+      "english": "Otogakure",
+      "kanji": "音隠れの里",
+      "romaji": "Otogakure no Sato",
+      "literal": "Village Hidden by Sound",
+      "englishTv": "The Village Hidden in the Sound"
+    },
+    "summary": "Otogakure is the personal hidden village of Orochimaru, which was founded after he left the Akatsuki for the express purpose of collecting ninja for his experiments and his quest to learn all techniques. It was a small and powerful village. In later years, following Orochimaru's new appreciation for natural development of people and making a truce with Konohagakure, Otogakure was reestablished as a legitimate shinobi village.",
+    "country": "Land of Sound",
+    "leaders": [
+      {
+        "id": 928,
+        "name": "Orochimaru"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/f/f3/Otogakure_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 8,
+        "name": "Zaku Abumi"
+      },
+      {
+        "id": 27,
+        "name": "Yoroi Akadō"
+      },
+      {
+        "id": 55,
+        "name": "Amachi"
+      },
+      {
+        "id": 87,
+        "name": "Arashi"
+      },
+      {
+        "id": 201,
+        "name": "Doki"
+      },
+      {
+        "id": 211,
+        "name": "Earth Prison Golem"
+      },
+      {
+        "id": 323,
+        "name": "Three Giant Snakes"
+      },
+      {
+        "id": 339,
+        "name": "Gozu"
+      },
+      {
+        "id": 341,
+        "name": "Guren"
+      },
+      {
+        "id": 381,
+        "name": "Hebihime"
+      },
+      {
+        "id": 430,
+        "name": "Suigetsu Hōzuki"
+      },
+      {
+        "id": 491,
+        "name": "Iwana (Otogakure)"
+      },
+      {
+        "id": 511,
+        "name": "Jigumo"
+      },
+      {
+        "id": 517,
+        "name": "Jirōbō"
+      },
+      {
+        "id": 521,
+        "name": "Jūgo"
+      },
+      {
+        "id": 531,
+        "name": "Kagerō"
+      },
+      {
+        "id": 546,
+        "name": "Kajika"
+      },
+      {
+        "id": 566,
+        "name": "Kamikiri"
+      },
+      {
+        "id": 593,
+        "name": "Karin"
+      },
+      {
+        "id": 602,
+        "name": "Kasumi (Castle Dusk)"
+      },
+      {
+        "id": 626,
+        "name": "Kidōmaru"
+      },
+      {
+        "id": 628,
+        "name": "Kigiri"
+      },
+      {
+        "id": 629,
+        "name": "Kihō"
+      },
+      {
+        "id": 637,
+        "name": "Kimimaro"
+      },
+      {
+        "id": 644,
+        "name": "Dosu Kinuta"
+      },
+      {
+        "id": 699,
+        "name": "Kotohime"
+      },
+      {
+        "id": 734,
+        "name": "Kyodaigumo"
+      },
+      {
+        "id": 744,
+        "name": "Log"
+      },
+      {
+        "id": 761,
+        "name": "Manda"
+      },
+      {
+        "id": 777,
+        "name": "Mecha-Kurama"
+      },
+      {
+        "id": 778,
+        "name": "Mecha-Naruto"
+      },
+      {
+        "id": 813,
+        "name": "Mitsuki"
+      },
+      {
+        "id": 818,
+        "name": "Mizuki",
+        "note": "Anime only"
+      },
+      {
+        "id": 909,
+        "name": "Nurari"
+      },
+      {
+        "id": 928,
+        "name": "Orochimaru"
+      },
+      {
+        "id": 976,
+        "name": "Rinji"
+      },
+      {
+        "id": 999,
+        "name": "Sabiru"
+      },
+      {
+        "id": 1015,
+        "name": "Sakon and Ukon"
+      },
+      {
+        "id": 1203,
+        "name": "Tayuya"
+      },
+      {
+        "id": 1265,
+        "name": "Kin Tsuchi"
+      },
+      {
+        "id": 1283,
+        "name": "Misumi Tsurugi"
+      },
+      {
+        "id": 1307,
+        "name": "Sasuke Uchiha"
+      },
+      {
+        "id": 1309,
+        "name": "Shin Uchiha"
+      },
+      {
+        "id": 1323,
+        "name": "Umibōzu"
+      },
+      {
+        "id": 1359,
+        "name": "Kabuto Yakushi"
+      },
+      {
+        "id": 1362,
+        "name": "Yamame"
+      },
+      {
+        "id": 1405,
+        "name": "Yūkimaru"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Otogakure",
+      "pageId": 2685,
+      "revision": "2026-08-13T23:49:33Z"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Ryūchi Cave",
+    "images": [],
+    "names": {
+      "english": "Ryūchi Cave",
+      "kanji": "龍地洞",
+      "romaji": "Ryūchidō",
+      "literal": "Dragon Ground Cave"
+    },
+    "summary": "Ryūchi Cave is one of the big three unexplored sage regions, a legendary place that is equally famous as the other two, Mount Myōboku and Shikkotsu Forest. It is the residence of the snakes — including the sacred White Snake Sage — and is also where Orochimaru uncovered the source of Jūgo's clan's abilities. Orochimaru and Kabuto Yakushi trained here to achieve Sage Mode, though only the latter was successful in this endeavour.",
+    "leaders": [
+      {
+        "id": 1353,
+        "name": "White Snake Sage"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/1/1d/Ry%C5%ABchi_Cave_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 81,
+        "name": "Aoda"
+      },
+      {
+        "id": 280,
+        "name": "Garaga"
+      },
+      {
+        "id": 323,
+        "name": "Three Giant Snakes"
+      },
+      {
+        "id": 452,
+        "name": "Ichikishimahime"
+      },
+      {
+        "id": 761,
+        "name": "Manda"
+      },
+      {
+        "id": 809,
+        "name": "Anko Mitarashi"
+      },
+      {
+        "id": 813,
+        "name": "Mitsuki"
+      },
+      {
+        "id": 928,
+        "name": "Orochimaru"
+      },
+      {
+        "id": 1170,
+        "name": "Tagitsuhime"
+      },
+      {
+        "id": 1171,
+        "name": "Tagorihime"
+      },
+      {
+        "id": 1307,
+        "name": "Sasuke Uchiha"
+      },
+      {
+        "id": 1339,
+        "name": "Boruto Uzumaki",
+        "note": "Anime only"
+      },
+      {
+        "id": 1353,
+        "name": "White Snake Sage"
+      },
+      {
+        "id": 1359,
+        "name": "Kabuto Yakushi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Ry%C5%ABchi_Cave",
+      "pageId": 92958,
+      "revision": "2026-10-11T04:42:34Z"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Shangri-la",
+    "images": [],
+    "names": {
+      "english": "Shangri-la"
+    },
+    "summary": "Shangri-la was a village located in what was sometimes called the Valley of Lies. It was a haven for those with bounties on their heads who wanted to live their lives without worrying about being pursued by bounty hunters.",
+    "characters": [
+      {
+        "id": 63,
+        "name": "Ameyuki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Shangri-la",
+      "pageId": 239438,
+      "revision": "2024-10-06T04:27:49Z"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Shikkotsu Forest",
+    "images": [],
+    "names": {
+      "english": "Shikkotsu Forest",
+      "kanji": "湿骨林",
+      "romaji": "Shikkotsurin",
+      "literal": "Damp Bone Forest",
+      "englishTv": "Shikkotsu Woods"
+    },
+    "summary": "The Shikkotsu Forest is a legendary place and one of the three unexplored sage regions; the other two being: Mount Myōboku and Ryūchi Cave. It is the home of the slug Katsuyu, parts of which are summoned by Tsunade and her disciple Sakura Haruno.",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/3/38/Shikkotsu_Forest_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 374,
+        "name": "Sakura Haruno"
+      },
+      {
+        "id": 608,
+        "name": "Katsuyu"
+      },
+      {
+        "id": 1280,
+        "name": "Tsunade"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Shikkotsu_Forest",
+      "pageId": 93022,
+      "revision": "2026-07-09T05:02:45Z"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Shimogakure",
+    "images": [],
+    "names": {
+      "english": "Shimogakure",
+      "kanji": "霜隠れの里",
+      "romaji": "Shimogakure no Sato",
+      "literal": "Village Hidden in Frost",
+      "englishTv": "The Village Hidden in the Frost"
+    },
+    "summary": "Shimogakure is the hidden village located in the Land of Frost.",
+    "country": "Land of Frost",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/e/ee/Land_of_Frost_Symbol.svg"
+    },
+    "characters": [],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Shimogakure",
+      "pageId": 61643,
+      "revision": "2023-02-18T02:58:32Z"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Sugi Village",
+    "images": [],
+    "names": {
+      "english": "Sugi Village",
+      "kanji": "杉の里",
+      "romaji": "Sugi no Sato",
+      "literal": "Cedar Village"
+    },
+    "summary": "Sugi Village is an anime-only ninja village, in an unspecified country.",
+    "characters": [],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Sugi_Village",
+      "pageId": 104687,
+      "revision": "2026-04-18T18:49:50Z"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Sunagakure",
+    "images": [],
+    "names": {
+      "english": "Sunagakure",
+      "kanji": "砂隠れの里",
+      "romaji": "Sunagakure no Sato",
+      "literal": "Village Hidden by Sand",
+      "englishTv": "The Village Hidden in the Sand"
+    },
+    "summary": "Sunagakure is the hidden village of the Land of Wind. As the village of one of the Five Great Shinobi Countries, Sunagakure has a Kage as its leader known as the Kazekage, of which there have been five in its history. Being surrounded by desert offers the village a natural deterrent against invasion, as few foreign powers would be willing to endure the sandstorms and water scarcity common to Suna.",
+    "country": "Land of Wind",
+    "leaderTitle": "Kazekage",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/1/18/Sunagakure_Symbol.svg"
+    },
+    "ratings": {
+      "population": 2,
+      "military": 2,
+      "economy": 2
+    },
+    "kage": [
+      {
+        "order": 1,
+        "title": "First Kazekage",
+        "id": 971,
+        "name": "Reto"
+      },
+      {
+        "order": 2,
+        "title": "Second Kazekage",
+        "id": 1077,
+        "name": "Shamon"
+      },
+      {
+        "order": 3,
+        "title": "Third Kazekage",
+        "id": 621,
+        "name": "Third Kazekage"
+      },
+      {
+        "order": 4,
+        "title": "Fourth Kazekage",
+        "id": 967,
+        "name": "Rasa"
+      },
+      {
+        "order": 5,
+        "title": "Fifth Kazekage",
+        "id": 259,
+        "name": "Gaara"
+      }
+    ],
+    "characters": [
+      {
+        "id": 7,
+        "name": "Abiru"
+      },
+      {
+        "id": 56,
+        "name": "Amagi"
+      },
+      {
+        "id": 62,
+        "name": "Ameno"
+      },
+      {
+        "id": 88,
+        "name": "Araya"
+      },
+      {
+        "id": 107,
+        "name": "Baki"
+      },
+      {
+        "id": 131,
+        "name": "Bunpuku"
+      },
+      {
+        "id": 143,
+        "name": "Monzaemon Chikamatsu"
+      },
+      {
+        "id": 148,
+        "name": "Chiyo"
+      },
+      {
+        "id": 170,
+        "name": "Daimaru"
+      },
+      {
+        "id": 191,
+        "name": "Datsuji"
+      },
+      {
+        "id": 213,
+        "name": "Ebizō"
+      },
+      {
+        "id": 226,
+        "name": "Fugi"
+      },
+      {
+        "id": 259,
+        "name": "Gaara"
+      },
+      {
+        "id": 329,
+        "name": "Goji"
+      },
+      {
+        "id": 337,
+        "name": "Gōza"
+      },
+      {
+        "id": 362,
+        "name": "Hakuto"
+      },
+      {
+        "id": 413,
+        "name": "Hōichi"
+      },
+      {
+        "id": 454,
+        "name": "Ikanago"
+      },
+      {
+        "id": 473,
+        "name": "Isago"
+      },
+      {
+        "id": 486,
+        "name": "Ittetsu"
+      },
+      {
+        "id": 512,
+        "name": "Jiji"
+      },
+      {
+        "id": 520,
+        "name": "Jōseki"
+      },
+      {
+        "id": 565,
+        "name": "Kamatari"
+      },
+      {
+        "id": 577,
+        "name": "Kankurō"
+      },
+      {
+        "id": 597,
+        "name": "Karura"
+      },
+      {
+        "id": 599,
+        "name": "Kashike"
+      },
+      {
+        "id": 621,
+        "name": "Third Kazekage"
+      },
+      {
+        "id": 665,
+        "name": "Kōji (Suna)"
+      },
+      {
+        "id": 676,
+        "name": "Komaza"
+      },
+      {
+        "id": 682,
+        "name": "Komushi"
+      },
+      {
+        "id": 692,
+        "name": "Korobi"
+      },
+      {
+        "id": 754,
+        "name": "Maki"
+      },
+      {
+        "id": 774,
+        "name": "Matsuri"
+      },
+      {
+        "id": 797,
+        "name": "Mijin"
+      },
+      {
+        "id": 800,
+        "name": "Mikoshi"
+      },
+      {
+        "id": 848,
+        "name": "Mujin"
+      },
+      {
+        "id": 850,
+        "name": "Mukade"
+      },
+      {
+        "id": 851,
+        "name": "Mukade (movie)"
+      },
+      {
+        "id": 859,
+        "name": "Nae"
+      },
+      {
+        "id": 888,
+        "name": "Nejiri"
+      },
+      {
+        "id": 905,
+        "name": "Nonota"
+      },
+      {
+        "id": 931,
+        "name": "Otokaze"
+      },
+      {
+        "id": 932,
+        "name": "Ōtora"
+      },
+      {
+        "id": 950,
+        "name": "Pakura"
+      },
+      {
+        "id": 967,
+        "name": "Rasa"
+      },
+      {
+        "id": 969,
+        "name": "Reki"
+      },
+      {
+        "id": 971,
+        "name": "Reto"
+      },
+      {
+        "id": 987,
+        "name": "Ryōkan"
+      },
+      {
+        "id": 995,
+        "name": "Ryūsa"
+      },
+      {
+        "id": 1011,
+        "name": "Sajin"
+      },
+      {
+        "id": 1012,
+        "name": "Sajin (Genin)"
+      },
+      {
+        "id": 1013,
+        "name": "Sajō"
+      },
+      {
+        "id": 1022,
+        "name": "Sana"
+      },
+      {
+        "id": 1032,
+        "name": "Sari"
+      },
+      {
+        "id": 1042,
+        "name": "Sasori"
+      },
+      {
+        "id": 1043,
+        "name": "Sasori's Father"
+      },
+      {
+        "id": 1044,
+        "name": "Sasori's Mother"
+      },
+      {
+        "id": 1045,
+        "name": "Satetsu"
+      },
+      {
+        "id": 1048,
+        "name": "Saya"
+      },
+      {
+        "id": 1057,
+        "name": "Sekka"
+      },
+      {
+        "id": 1059,
+        "name": "Sen"
+      },
+      {
+        "id": 1077,
+        "name": "Shamon"
+      },
+      {
+        "id": 1084,
+        "name": "Shigezane"
+      },
+      {
+        "id": 1088,
+        "name": "Shijima"
+      },
+      {
+        "id": 1100,
+        "name": "Shinki"
+      },
+      {
+        "id": 1106,
+        "name": "Shira"
+      },
+      {
+        "id": 1115,
+        "name": "Shishio"
+      },
+      {
+        "id": 1127,
+        "name": "Shukaku"
+      },
+      {
+        "id": 1158,
+        "name": "Suna Assassin Captain"
+      },
+      {
+        "id": 1159,
+        "name": "Suname"
+      },
+      {
+        "id": 1177,
+        "name": "Takamaru"
+      },
+      {
+        "id": 1205,
+        "name": "Team Goji Leader"
+      },
+      {
+        "id": 1208,
+        "name": "Temari"
+      },
+      {
+        "id": 1224,
+        "name": "Tessa"
+      },
+      {
+        "id": 1230,
+        "name": "Tobimaru"
+      },
+      {
+        "id": 1237,
+        "name": "Tōjūrō"
+      },
+      {
+        "id": 1243,
+        "name": "Tomari"
+      },
+      {
+        "id": 1264,
+        "name": "Tsubusa"
+      },
+      {
+        "id": 1267,
+        "name": "Tsuchino"
+      },
+      {
+        "id": 1322,
+        "name": "Arashi Umeya"
+      },
+      {
+        "id": 1358,
+        "name": "Yakku"
+      },
+      {
+        "id": 1375,
+        "name": "Yaoki"
+      },
+      {
+        "id": 1376,
+        "name": "Yashamaru"
+      },
+      {
+        "id": 1377,
+        "name": "Yodo"
+      },
+      {
+        "id": 1382,
+        "name": "Yome"
+      },
+      {
+        "id": 1402,
+        "name": "Yukata"
+      },
+      {
+        "id": 1409,
+        "name": "Yūra"
+      },
+      {
+        "id": 1450,
+        "name": "Mamushi (Genin)"
+      },
+      {
+        "id": 1458,
+        "name": "Suna Reincarnated Shinobi"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Sunagakure",
+      "pageId": 1561,
+      "revision": "2025-11-20T03:45:55Z"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Takigakure",
+    "images": [],
+    "names": {
+      "english": "Takigakure",
+      "kanji": "滝隠れの里",
+      "romaji": "Takigakure no Sato",
+      "literal": "Village Hidden by a Waterfall",
+      "englishTv": "The Village Hidden in the Waterfall"
+    },
+    "summary": "Takigakure is a village located in an unnamed country. Their current leader is Shibuki.",
+    "leaders": [
+      {
+        "id": 409,
+        "name": "Hisen"
+      },
+      {
+        "id": 1082,
+        "name": "Shibuki"
+      },
+      {
+        "id": 1061,
+        "name": "Senji"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/5/5f/Takigakure_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 18,
+        "name": "Agara"
+      },
+      {
+        "id": 153,
+        "name": "Chōmei"
+      },
+      {
+        "id": 221,
+        "name": "Fū"
+      },
+      {
+        "id": 394,
+        "name": "Himatsu"
+      },
+      {
+        "id": 409,
+        "name": "Hisen"
+      },
+      {
+        "id": 416,
+        "name": "Hōki (Takigakure)"
+      },
+      {
+        "id": 431,
+        "name": "Human Path (character)"
+      },
+      {
+        "id": 558,
+        "name": "Kakuzu"
+      },
+      {
+        "id": 624,
+        "name": "Kegon"
+      },
+      {
+        "id": 904,
+        "name": "Noji"
+      },
+      {
+        "id": 1061,
+        "name": "Senji"
+      },
+      {
+        "id": 1082,
+        "name": "Shibuki"
+      },
+      {
+        "id": 1121,
+        "name": "Shizuku (Taki)"
+      },
+      {
+        "id": 1143,
+        "name": "Suien"
+      },
+      {
+        "id": 1144,
+        "name": "Suika"
+      },
+      {
+        "id": 1386,
+        "name": "Yōrō"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Takigakure",
+      "pageId": 3148,
+      "revision": "2025-08-10T19:24:08Z"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Takumi Village",
+    "images": [],
+    "names": {
+      "english": "Takumi Village",
+      "kanji": "匠の里",
+      "romaji": "Takumi no Sato",
+      "literal": "Village of Artisans"
+    },
+    "summary": "Takumi Village is an anime-only village that resides in the Land of Rivers. It was founded over one hundred years ago by a man named Seimei. Takumi is known for its skills in making weaponry, many of which are sold to the ninja villages of the world.",
+    "country": "Land of Rivers",
+    "leaders": [
+      {
+        "id": 1052,
+        "name": "Seimei"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/e/e7/Takumi_Village_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 415,
+        "name": "Hōki (Takumi)"
+      },
+      {
+        "id": 704,
+        "name": "Kujaku"
+      },
+      {
+        "id": 992,
+        "name": "Ryūgan"
+      },
+      {
+        "id": 1052,
+        "name": "Seimei"
+      },
+      {
+        "id": 1146,
+        "name": "Suiko"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Takumi_Village",
+      "pageId": 3149,
+      "revision": "2026-04-04T10:08:29Z"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Tanigakure",
+    "images": [],
+    "names": {
+      "english": "Tanigakure",
+      "kanji": "谷隠れの里",
+      "romaji": "Tanigakure no Sato",
+      "literal": "Village Hidden in Valleys",
+      "englishTv": "Hidden Valley Village"
+    },
+    "summary": "Tanigakure is the hidden village of the Land of Rivers. Thirty years before the start of the series, this village ambushed Kagerō Village two weeks after they had agreed to a ceasefire with Konohagakure. Gennō is the sole survivor of that attack, as he was in Konoha at the time.",
+    "country": "Land of Rivers",
+    "characters": [],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Tanigakure",
+      "pageId": 59921,
+      "revision": "2024-12-29T19:19:38Z"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Tonika Village",
+    "images": [],
+    "names": {
+      "english": "Tonika Village",
+      "kanji": "トニカ村",
+      "romaji": "Tonika-mura"
+    },
+    "summary": "The Tonika Village is a village located on the outskirts of the border of the Land of Fire. It is also where The Hole is located. The village was destroyed during Kabuto Yakushi's invasion which was geared towards acquiring The Hole to conduct his experiments. During the invasion, the villagers fought bravely to defend their home, but Kabuto's reincarnated pawns were too powerful and overwhelming.",
+    "country": "Land of Fire",
+    "leaders": [
+      {
+        "id": 1246,
+        "name": "Tonika Village Head"
+      }
+    ],
+    "characters": [
+      {
+        "id": 202,
+        "name": "Dokku"
+      },
+      {
+        "id": 220,
+        "name": "Faz"
+      },
+      {
+        "id": 737,
+        "name": "Lando"
+      },
+      {
+        "id": 741,
+        "name": "Leo"
+      },
+      {
+        "id": 796,
+        "name": "Miina"
+      },
+      {
+        "id": 1136,
+        "name": "Sora (orphan)"
+      },
+      {
+        "id": 1246,
+        "name": "Tonika Village Head"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Tonika_Village",
+      "pageId": 105436,
+      "revision": "2026-04-05T11:11:18Z"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Tsuchigumo Village",
+    "images": [],
+    "names": {
+      "english": "Tsuchigumo Village"
+    },
+    "summary": "The Tsuchigumo village is the village of the Tsuchigumo clan. It is led by the Tsuchigumo chief. This village is composed of the members of the Tsuchigumo clan who refused to follow En no Gyōja to Mount Katsuragi, and consequently denied the Tsuchigumo clan kinjutsu. They were made into pawns by the Magaki Group, who sought the kinjutsu.",
+    "leaders": [
+      {
+        "id": 1266,
+        "name": "Tsuchigumo Chief"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/0/09/Tsuchigumo_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 217,
+        "name": "En no Gyōja"
+      },
+      {
+        "id": 378,
+        "name": "Hāto"
+      },
+      {
+        "id": 426,
+        "name": "Hotaru"
+      },
+      {
+        "id": 1109,
+        "name": "Shiranami"
+      },
+      {
+        "id": 1245,
+        "name": "Tonbee"
+      },
+      {
+        "id": 1266,
+        "name": "Tsuchigumo Chief"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Tsuchigumo_Village",
+      "pageId": 37870,
+      "revision": "2024-07-13T13:24:22Z"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Tsukigakure",
+    "images": [],
+    "names": {
+      "english": "Tsukigakure",
+      "kanji": "月隠れの里",
+      "romaji": "Tsukigakure no Sato",
+      "literal": "Village Hidden under the Moon"
+    },
+    "summary": "Tsukigakure is a hidden village led by Tsukino, who succeeded her father after he died. They have a hereditary system and so positions are passed down to the next generation.",
+    "leaders": [
+      {
+        "id": 1275,
+        "name": "Tsukino's Father"
+      },
+      {
+        "id": 1274,
+        "name": "Tsukino"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/e/ea/Tsukigakure_Symbol.svg"
+    },
+    "debut": {
+      "game": "Naruto Shippūden: Ultimate Ninja Heroes 3"
+    },
+    "characters": [
+      {
+        "id": 1274,
+        "name": "Tsukino"
+      },
+      {
+        "id": 1275,
+        "name": "Tsukino's Father"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Tsukigakure",
+      "pageId": 63643,
+      "revision": "2026-07-17T22:49:11Z"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Uzushiogakure",
+    "images": [],
+    "names": {
+      "english": "Uzushiogakure",
+      "kanji": "渦潮隠れの里",
+      "romaji": "Uzushiogakure no Sato",
+      "literal": "Village Hidden by Whirling Tides",
+      "englishTv": "Hidden Eddy Village"
+    },
+    "summary": "Uzushiogakure was the shinobi village of the Land of Whirlpools. The people of Uzushiogakure were noted to have notoriously long lives, so it gained the epithet \"The Village of Longevity\".",
+    "country": "Land of Whirlpools",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/0/06/Uzushiogakure_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 1338,
+        "name": "Ashina Uzumaki"
+      },
+      {
+        "id": 1341,
+        "name": "Kushina Uzumaki"
+      },
+      {
+        "id": 1343,
+        "name": "Mito Uzumaki"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Uzushiogakure",
+      "pageId": 48617,
+      "revision": "2024-12-06T02:16:33Z"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Yugakure",
+    "images": [],
+    "names": {
+      "english": "Yugakure",
+      "kanji": "湯隠れの里",
+      "romaji": "Yugakure no Sato",
+      "literal": "Village Hidden in Hot Water",
+      "englishTv": "Village Hidden in the Hotsprings, Hidden Steam"
+    },
+    "summary": "Yugakure is the hidden village of the Land of Hot Water. Like the country in which it resides, Yugakure has strong inclinations towards pacifism.",
+    "country": "Land of Hot Water",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/6/66/Yugakure_Symbol.svg"
+    },
+    "characters": [
+      {
+        "id": 388,
+        "name": "Hidan"
+      },
+      {
+        "id": 620,
+        "name": "Kazan"
+      },
+      {
+        "id": 998,
+        "name": "Ryūki"
+      },
+      {
+        "id": 1431,
+        "name": "Babu"
+      },
+      {
+        "id": 1444,
+        "name": "Inagi"
+      },
+      {
+        "id": 1445,
+        "name": "Iwato"
+      },
+      {
+        "id": 1456,
+        "name": "Shinbu"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Yugakure",
+      "pageId": 7999,
+      "revision": "2025-12-25T02:08:19Z"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Yukigakure",
+    "images": [],
+    "names": {
+      "english": "Yukigakure",
+      "kanji": "雪隠れの里",
+      "romaji": "Yukigakure no Sato",
+      "literal": "Village Hidden Among Snow"
+    },
+    "summary": "Yukigakure is a hidden village located in the Land of Snow. Its ninja apparently specialise in manipulating pre-existing ice, typically in the forms of various animals.",
+    "country": "Land of Snow",
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/2/26/Yukigakure_Symbol.svg"
+    },
+    "debut": {
+      "movie": "Naruto the Movie: Ninja Clash in the Land of Snow"
+    },
+    "characters": [
+      {
+        "id": 258,
+        "name": "Mizore Fuyukuma"
+      },
+      {
+        "id": 557,
+        "name": "Fubuki Kakuyoku"
+      },
+      {
+        "id": 615,
+        "name": "Dotō Kazahana"
+      },
+      {
+        "id": 616,
+        "name": "Koyuki Kazahana"
+      },
+      {
+        "id": 617,
+        "name": "Sōsetsu Kazahana"
+      },
+      {
+        "id": 979,
+        "name": "Nadare Rōga"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Yukigakure",
+      "pageId": 3151,
+      "revision": "2024-10-05T01:36:52Z"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Yumegakure",
+    "images": [],
+    "names": {
+      "english": "Yumegakure",
+      "kanji": "夢隠れの里",
+      "romaji": "Yumegakure no Sato",
+      "literal": "Village Hidden Among Dreams"
+    },
+    "summary": "Yumegakure is a small village located in a deep forest of a tiny country, near the border of the Land of Fire. It is led by Enzo Tenrō.",
+    "leaders": [
+      {
+        "id": 1214,
+        "name": "Enzo Tenrō"
+      }
+    ],
+    "symbol": {
+      "url": "https://static.wikia.nocookie.net/naruto/images/0/04/Yumegakure_Symbol.svg"
+    },
+    "debut": {
+      "game": "Naruto Shippūden: Kizuna Drive"
+    },
+    "characters": [
+      {
+        "id": 2,
+        "name": "Three-Headed Guardian Beast"
+      },
+      {
+        "id": 57,
+        "name": "Gensui Amagiri"
+      },
+      {
+        "id": 58,
+        "name": "Taisa Amagiri"
+      },
+      {
+        "id": 404,
+        "name": "Yomito Hirasaka"
+      },
+      {
+        "id": 1214,
+        "name": "Enzo Tenrō"
+      },
+      {
+        "id": 1215,
+        "name": "Ryuka Tenrō"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Yumegakure",
+      "pageId": 69990,
+      "revision": "2024-12-29T19:17:38Z"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Tree Felling Village",
+    "images": [],
+    "names": {
+      "english": "Tree Felling Village"
+    },
+    "summary": "The Tree Felling Village, later renamed to the Tree Revival Village, is a small and peaceful village once controlled by a dark demon called Black Shadow, who protected the village in exchange for human sacrifices every couple of years. The Tree of Life once stood in this village, but it was cut down by the villagers' ancestors many years prior to the beginning of Naruto Shippūden: Ultimate Ninja 4 because it blocked the entrance to a cave rich with crystals (known as the Crystal Cave), which they figured they could sell to make money.",
+    "characters": [
+      {
+        "id": 82,
+        "name": "Aoi (game)"
+      },
+      {
+        "id": 123,
+        "name": "Black Shadow"
+      },
+      {
+        "id": 1263,
+        "name": "Tsubaki (game)"
+      }
+    ],
+    "source": {
+      "url": "https://naruto.fandom.com/wiki/Tree_Felling_Village",
+      "pageId": 42597,
+      "revision": "2025-01-18T15:09:09Z"
+    }
+  }
+]
